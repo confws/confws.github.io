@@ -35,7 +35,7 @@ redirect_from:
 * Jean-Guillaume Fages, Cosling, France
 * Enrico Sandrin, University of Padova, Italy
 * Thorsten Krebs, Encoway, Germany
-* Chiara Grosso, University of Milan Bicocca, Italy
+* Chiara Grosso, Sant'Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy
 * Alois Haselboeck, Siemens, Austria
 * Markus Stumptner, University of South Australia, Australia
 * Mónica Pinto, University of Málaga, Spain
