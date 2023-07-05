@@ -15,8 +15,8 @@ redirect_from:
 | -------------------- | --------------------- |
 | Paper Submission     | ~~May 26~~ June 9, 2023 (AOE time)|
 | Paper Notification   | July 5, 2023 (AOE time) |
-| Camera ready         | ~~July 10~~ July 21, 2023 (AOE time) |
 | Registration deadline| July 15, 2023 (AOE time) |
+| Camera ready         | ~~July 10~~ July 21, 2023 (AOE time) |
 | Workshop             | Sep 6-7, 2023 (AOE time) |
 
 
