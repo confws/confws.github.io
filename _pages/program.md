@@ -8,6 +8,8 @@ redirect_from:
 - "/agenda/"
 ---
 
+<sub>**There will be an "informal" meeting/dinner on Tuesday afternoon for those that arrive on Tuesday.*</sub>
+
 |                   | *Wednesday, 6th September 2023* |
 | ------------------|----------------------------------------------------|
 | 8:00  | Start of registration  |
@@ -25,7 +27,7 @@ redirect_from:
 |       | Andreas Hofbauer and Alexander Felfernig.<br/>**Game-based Configuration Task Learning with ConGuess: An Initial Empirical Analysis** |
 | 13:00 | *Lunch break* |
 | 14:30 | &nbsp;&nbsp;&nbsp;*-- Technical Session 3 --*  |
-|       | Damian Garber, Tamim Burgstaller, Alexander Felfernig, Viet-Man Le, Sebastian Lubos, Trang Tran and Seda Polat-Erdeniz.<br/>**Collaborative Recommendation of Search Heuristics** |
+|       | Damian Garber, Tamim Burgstaller, Alexander Felfernig, Viet-Man Le, Sebastian Lubos, Trang Tran and Seda Polat-Erdeniz.<br/>**Collaborative Recommendation of Search Heuristics For Constraint Solvers** |
 |       | Richard Comploi-Taupe, Andreas Falkner, Susana Hahn, Torsten Schaub and Gottfried Schenner.<br/>**Interactive Configuration with ASP Multi-Shot Solving** |
 |       | Irene Campo Gay and Lars Hvam.<br/>**Product Variant Master in the Construction Industry: A Synthesis of Construction Product Platforms** |
 | 15:45 | *Coffee Break* |
