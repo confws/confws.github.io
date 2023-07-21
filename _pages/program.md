@@ -33,7 +33,7 @@ redirect_from:
 | 15:45 | *Coffee Break* |
 | 16:15 | &nbsp;&nbsp;&nbsp;*-- Technical Session 4 --*  |
 |       | Erika Marie Strøm, Tine Meidahl Münsberg and Lars Hvam.<br/>**Identifying Potential Applications of Service Configuration Systems in a Logistics Company** |
-|       | Salvador Muñoz-Hermoso, David Benavides and Francisco Jose Dominguez Mayo.<br/>**Multi-level configurability in smart governance systems** |
+|       | Salvador Muñoz-Hermoso, David Benavides and Francisco Jose Dominguez Mayo.<br/>**Multi-level configuration in smart governance systems** |
 | 17:05 | *Future and Next ConfWS* |
 | 17:30 | *End of first day* |
 | 20:30 | *Social Dinner* |
