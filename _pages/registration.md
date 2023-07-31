@@ -6,7 +6,7 @@ sitemap: false
 classes: wide
 ---
 
-Please register on [https://tpv.uma.es/en/confws2023/](https://tpv.uma.es/en/confws2023/)
+Registration is closed!
 
 **Registration deadline:** July 15, 2023
 
