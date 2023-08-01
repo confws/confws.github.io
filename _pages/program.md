@@ -28,8 +28,8 @@ redirect_from:
 | 13:00 | *Lunch break* |
 | 14:30 | &nbsp;&nbsp;&nbsp;*-- Technical Session 3 --*  |
 |       | Damian Garber, Tamim Burgstaller, Alexander Felfernig, Viet-Man Le, Sebastian Lubos, Trang Tran and Seda Polat-Erdeniz.<br/>**Collaborative Recommendation of Search Heuristics For Constraint Solvers** |
-|       | Richard Comploi-Taupe, Andreas Falkner, Susana Hahn, Torsten Schaub and Gottfried Schenner.<br/>**Interactive Configuration with ASP Multi-Shot Solving** |
-|       | Irene Campo Gay and Lars Hvam.<br/>**Product Variant Master in the Construction Industry: A Synthesis of Construction Product Platforms** |
+|       | Benjamin Ritz, Alexander Felfernig, Viet-Man Le and Sebastian Lubos.<br/>**Solving Multi-Configuration Problems: A Performance Analysis with Choco Solver** |
+|       | Matthias Gorenflo, Tomáš Balyo, Markus Iser and Tobias Ostertag.<br/>**Decision Heuristics in a Constraint-based Product Configurator** |
 | 15:45 | *Coffee Break* |
 | 16:15 | &nbsp;&nbsp;&nbsp;*-- Technical Session 4 --*  |
 |       | Erika Marie Strøm, Tine Meidahl Münsberg and Lars Hvam.<br/>**Identifying Potential Applications of Service Configuration Systems in a Logistics Company** |
@@ -44,11 +44,11 @@ redirect_from:
 | 9:00 | &nbsp;&nbsp;&nbsp;*-- Technical Session 5 --*  |
 |       | Richard Comploi-Taupe, Gerhard Friedrich and Tilman Niestroj.<br/>**Dynamic Aggregates in Expressive ASP Heuristics for Configuration Problems** |
 |       | Nicolas Rühling, Torsten Schaub and Tobias Stolzmann.<br/>**Towards a formalization of configuration problems for ASP-based reasoning: Preliminary report** |
-|       | Benjamin Ritz, Alexander Felfernig, Viet-Man Le and Sebastian Lubos.<br/>**Solving Multi-Configuration Problems: A Performance Analysis with Choco Solver** |
+|       | Richard Comploi-Taupe, Andreas Falkner, Susana Hahn, Torsten Schaub and Gottfried Schenner.<br/>**Interactive Configuration with ASP Multi-Shot Solving** |
 | 10:30 | *Coffee Break* |
 | 11:00 | &nbsp;&nbsp;&nbsp;*-- Technical Session 6 --*  |
 |       | Elise Vareilles, Stéphanie Roussel and Gauthier Picard.<br/>**PERFECT: PErformant and Robust read-to-fly FlEet ConfiguraTion: from robot to mission plan** |
 |       | Maxim Popov, Tomáš Balyo, Markus Iser and Tobias Ostertag.<br/>**Construction of Decision Diagrams for Product Configuration** |
-|       | Matthias Gorenflo, Tomáš Balyo, Markus Iser and Tobias Ostertag.<br/>**Decision Heuristics in a Constraint-based Product Configurator** |
+|       | Irene Campo Gay and Lars Hvam.<br/>**Product Variant Master in the Construction Industry: A Synthesis of Construction Product Platforms** |
 | 12:15 | *Closing and Best Paper Awards* |
 | 13:00 | *Lunch* |
