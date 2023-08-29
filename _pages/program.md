@@ -8,7 +8,8 @@ redirect_from:
 - "/agenda/"
 ---
 
-<sub>**There will be an "informal" meeting/dinner on Tuesday afternoon for those that arrive on Tuesday.*</sub>
+<sub>*There will be an "informal" self-organized meeting/dinner on Tuesday afternoon for those that arrive on Tuesday. For those interested, here are some places we recommend for the meeting (all of them are in Málaga downtown next to the Cathedral): [El Pimpi](https://goo.gl/maps/JiYcUhMmUfqGqxUaA), [Casa Lola](https://goo.gl/maps/tzKWhdu82wrNe1o4A), [Las Merchanas](https://goo.gl/maps/2paBoGtEJ7VCU8Qk7).*</sub>
+
 
 |                   | *Wednesday, 6th September 2023* |
 | ------------------|----------------------------------------------------|
@@ -52,3 +53,16 @@ redirect_from:
 |       | Irene Campo Gay and Lars Hvam.<br/>**Product Variant Master in the Construction Industry: A Synthesis of Construction Product Platforms** |
 | 12:15 | *Closing and Best Paper Awards* |
 | 13:00 | *Lunch* |
+
+## Social Dinner
+- Wednesday 6th Sep. 20:30h @ [El Balneario - Baños del Carmen](https://goo.gl/maps/XPKbkEXx9ehhYPA78)
+  
+The social dinner of ConfWS'23 will be take placed at **[El Balneario - Baños del Carmen](https://goo.gl/maps/XPKbkEXx9ehhYPA78)**, 
+a stylish restaurant serving seafood, wine and classic local fare in a seaside venue.
+
+![El Balneario - Baños del Carmen](/assets/confws/balneario.jpeg "El Balneario - Baños del Carmen")
+
+To arrive to the restaurant, the best option is **by bus - Line 11 -** which takes you directly from the conference venue or from the downtown. From the conference venue (E.T.S. Ingeniería Informática) take the bus at the initial stop *Louis Pasteur* with direction *El Palo (P. Virginia)*. Coming from Málaga downtown you can take it at the Alameda Avenue direction *El Palo (P. Virginia)*.
+Leave the bus at the *Bolivia - Baños del Carmen* stop which is in front of the restaurant.
+
+To come back to Málaga downtown, the available buses depend on the finish hour of the dinner. However, the line *N1* is available during all night. Another option is to take a walk throught the promenade (50 min.).
