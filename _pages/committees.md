@@ -40,3 +40,7 @@ redirect_from:
 * Markus Stumptner, University of South Australia, Australia
 * Mónica Pinto, University of Málaga, Spain
 * Inmaculada Ayala, University of Málaga, Spain
+
+## Volunteers
+* Laura Panizo, University of Málaga, Spain
+* María Fernández Márquez, University of Málaga, Spain
