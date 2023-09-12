@@ -14,10 +14,11 @@ In 2013, the workshop was a stand-alone event for the first time, and has been c
 Here you may find links to all previous editions of the ConfWS series, including their proceedings <i class="fa fa-book"></i>, if available.
 {: .text-justify}
 
-A commemorative poster of the 25th ConfWS is available [here](/assets/confws/poster.pdf).
-{: .text-justify}
 ---
 
+- [25th International Workshop on Configuration (ConfWS'23)](https://confws.github.io/2023/)
+  - Málaga, Spain. Sep 6-7, 2023 <a href="" title="Proceedings"><i class="fa fa-book"></i></a>
+<br><sub>ConfWS 2023 celebrates 25 years of Configuration Workshops (see [commemorative poster](/assets/confws/poster.pdf)). The figure of *Award Chair* was introduced in the organization committee, a role in charge of managing the selection of the best paper awards in a two-phase audience vote at the end of the workshop.</sub>
 - [24th International Workshop on Configuration (ConfWS'22 @ SPLC 2022)](https://confws22.ist.tugraz.at/)
   - Graz, Austria. Sep 12-13, 2022 <a href="https://dl.acm.org/doi/proceedings/10.1145/3503229?tocHeading=heading9#heading9" title="Proceedings"><i class="fa fa-book"></i></a>
 <br><sub>For the first time, ConfWS was held in conjunction with the International Systems and Software Product Line Conference (SPLC), two research communities with a lot of synergies.</sub>
