@@ -245,16 +245,44 @@
   </div>
 
   <h2></h2>
-  Official Sponsors:
 
-  {% if author.sponsors %}
-    {% for sponsor in author.sponsors %}
-      {% if sponsor.logo %}
+Official Sponsors:
+
+      {% if author.sponsors %}
+        {% for sponsor in author.sponsors %}
+          {% if sponsor.logo %}
+          <div class="author__avatar">
+            <a href="{{ sponsor.url | default: '/' | absolute_url }}">
+              <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}" itemprop="image" class="u-photo">
+            </a>
+          </div>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    
+
+<h2></h2>
+
+Research projects:
+
+  {% if author.projects %}
+    {% for project in author.projects %}
+      {% if project.logo and project.url %}
       <div class="author__avatar">
-        <a href="{{ sponsor.url | default: '/' | absolute_url }}">
-          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}" itemprop="image" class="u-photo">
+        <a href="{{ project.url | default: '/' | absolute_url }}">
+          <img src="{{ project.logo | relative_url }}" alt="{{ project.name }}" itemprop="image" class="u-photo">
         </a>
       </div>
+      {% else %}
+        {% if project.url %}
+        <div class="author__avatar">
+          <a href="{{ project.url | default: '/' | absolute_url }}">{{ project.name }}</a>
+        </div>
+        {% else %}
+        <div class="author__avatar">
+          {{ project.name }}
+        </div>
+        {% endif %}
       {% endif %}
     {% endfor %}
   {% endif %}
