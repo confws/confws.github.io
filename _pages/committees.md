@@ -14,9 +14,6 @@ redirect_from:
 * José Miguel Horcas, University of Málaga, Spain -->
 
 
-### Award Chair
-
-
 ## Program Committee
 <!-- * Lothar Hotz, Hamburger Informatik Technologie-Center, Germany
 * Ángel Jesús Varela Vaca, University of Seville, Spain
