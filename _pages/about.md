@@ -26,5 +26,7 @@ The main goal of the workshop is to promote high-quality research in all technic
 
 ---
 
+<sub>**We are configuring the next edition of ConfWS and we wish you a peaceful holiday break...**</sub>
+
 ![ConfWS'24](/assets/confws/peace_on_earth.jpg "ConfWS'24")
 
