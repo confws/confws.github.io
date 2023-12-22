@@ -10,12 +10,12 @@ redirect_from:
 <sub>**Under configuration...**</sub>
 
 ## Workshop Chairs
-* Chiara Grosso, Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy
-* José Miguel Horcas, University of Málaga, Spain
-* ...
+<!-- * Chiara Grosso, Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy
+* José Miguel Horcas, University of Málaga, Spain -->
+
 
 ### Award Chair
-* ...
+
 
 ## Program Committee
 <!-- * Lothar Hotz, Hamburger Informatik Technologie-Center, Germany
