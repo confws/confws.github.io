@@ -1,5 +1,5 @@
 ---
-#title: ConfWS 2023
+#title: ConfWS 2024
 timezone: UTC
 collections:
   pages:
@@ -36,14 +36,14 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
-name: 25th International Workshop on Configuration (ConfWS'23)
-description: Website of the 25th International Workshop on Configuration (ConfWS'23)
+name: 26th International Workshop on Configuration (ConfWS'24)
+description: Website of the 26th International Workshop on Configuration (ConfWS'24)
 url: https://confws.github.io
 baseurl: 
 repository: confws/confws.github.io
 teaser: 
-logo: assets/confws/confws-transparent.png 
-#masthead_title: ConfWS 2023
+logo: '' # assets/confws/confws-transparent.png 
+#masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
   provider: 
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: "/assets/confws/confws.jpg"
+og_image: '' #"/assets/confws/confws.jpg"
 social:
   type: 
   name: 
@@ -103,18 +103,18 @@ analytics:
     tracking_id: 
     anonymize_ip: false
 author:
-  name: ''
-  avatar: assets/confws/uma-logo-transparent.png
-  bio: ''
-  home: 'https://www.uma.es/'
-  location:
+  # name: ''
+  # avatar: assets/confws/uma-logo-transparent.png
+  # bio: ''
+  # home: 'https://www.uma.es/'
+  # location:
   links:
 #  - label: University of Málaga
 #    icon: fas fa-fw fa-map-marker-alt
 #    url: https://www.uma.es/  
-  - label: "Local organizer: CAOSD group"
-    icon: fa fa-info-circle
-    url: https://caosd.lcc.uma.es
+  # - label: "Local organizer: CAOSD group"
+  #   icon: fa fa-info-circle
+  #   url: https://caosd.lcc.uma.es
   # - label: "ITIS Software"
   #   icon: fa fa-info-circle
   #   url: https://itis.uma.es/
@@ -124,24 +124,24 @@ author:
   - label: "ConfWS: dblp computer science bibliography"
     icon: fa fa-book
     url: https://dblp.org/db/conf/confws/index.html
-  - label: Málaga Skyline logo by Miguel Sánchez Espinosa
-    icon: fa fa-info-circle
-    url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
-  sponsors: 
-  - name: 'Siemens'
-    logo: assets/confws/siemens-logo.png
-    url: https://www.siemens.com/global/en.html
-  projects: 
-  - name: 'Tasova Plus'
-    logo: assets/confws/tasovaplus.png
-    url: http://tasova.uma.es/
-  - name: DAEMON
-    logo: assets/confws/daemon.png
-    url: https://h2020daemon.eu/
-  - name: IRIS (PID2021-122812OB-I00)
-  - name: LEIA (UMA18-FEDERJA-157)
-  - name: Data-pl (PID2022-138486OB-I00)
-  - name: METAMORFOSIS (FEDER\_US-1381375)
+  #- label: Málaga Skyline logo by Miguel Sánchez Espinosa
+  #  icon: fa fa-info-circle
+  #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
+  # sponsors: 
+  # - name: 'Siemens'
+  #   logo: assets/confws/siemens-logo.png
+  #   url: https://www.siemens.com/global/en.html
+  # projects: 
+  # - name: 'Tasova Plus'
+  #   logo: assets/confws/tasovaplus.png
+  #   url: http://tasova.uma.es/
+  # - name: DAEMON
+  #   logo: assets/confws/daemon.png
+  #   url: https://h2020daemon.eu/
+  # - name: IRIS (PID2021-122812OB-I00)
+  # - name: LEIA (UMA18-FEDERJA-157)
+  # - name: Data-pl (PID2022-138486OB-I00)
+  # - name: METAMORFOSIS (FEDER\_US-1381375)
 footer:
   links:
   - label: Twitter

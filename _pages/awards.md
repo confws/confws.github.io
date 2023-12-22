@@ -6,7 +6,9 @@ sitemap: false
 classes: wide
 ---
 
-The ConfWS 2023 introduced the figure of *Award Chair* in the organization committee, a role played by Michel Aldanondo (Université de Toulouse, France), who was in charge of managing the selection of the best paper awards in a two-phase audience vote at the end of the workshop. This forum presents awards to the best papers since ConfWS 2015. 
+<sub>**Under configuration...**</sub>
+
+<!-- The ConfWS 2023 introduced the figure of *Award Chair* in the organization committee, a role played by Michel Aldanondo (Université de Toulouse, France), who was in charge of managing the selection of the best paper awards in a two-phase audience vote at the end of the workshop. This forum presents awards to the best papers since ConfWS 2015. 
 
 This year, in ConfWS 2023, the Best Paper Award winner were:
 
@@ -16,4 +18,4 @@ This year, in ConfWS 2023, the Best Paper Award winner were:
 
 ![Best Paper Award](/assets/confws/bestpaperaward.jpeg "Best Paper Award")
 
-![Best Student Paper Award](/assets/confws/beststudentpaperaward.jpeg "Best Student Paper Award")
+![Best Student Paper Award](/assets/confws/beststudentpaperaward.jpeg "Best Student Paper Award") -->

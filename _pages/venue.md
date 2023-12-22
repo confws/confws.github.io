@@ -6,7 +6,9 @@ sitemap: false
 classes: wide
 ---
 
-The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería Informática)**](https://www.uma.es/ETSI-informatica) of the [University of Málaga (UMA)](https://www.uma.es/), located at the Campus de Teatinos.
+<sub>**Under configuration...**</sub>
+
+<!-- The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería Informática)**](https://www.uma.es/ETSI-informatica) of the [University of Málaga (UMA)](https://www.uma.es/), located at the Campus de Teatinos.
 
 ![E.T.S. Ingeniería Informática](/assets/confws/etsii.jpg)
 
@@ -28,7 +30,7 @@ There are several lines that take you from Málaga downtown to the University, b
 
 There are taxi racks at the door or most hotels or very close to them. The duration of the trip by taxi from the city centre to the E.T.S. Ingeniería Informática is around 10 minutes (it goes up to 15 min. in early in the morning and in the afternoon), and costs around 10/15€.
 
-- **From the airport:** Málaga Airport is connected to the station via *Cercania* services that takes you to the *Málaga City Train Station (María Zambrano - Vialia)*.
+- **From the airport:** Málaga Airport is connected to the station via *Cercania* services that takes you to the *Málaga City Train Station (María Zambrano - Vialia)*. -->
 
 
 

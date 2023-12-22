@@ -7,17 +7,18 @@ redirect_from:
 - "/organizers/"
 ---
 
+<sub>**Under configuration...**</sub>
+
 ## Workshop Chairs
+* Chiara Grosso, Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy
 * José Miguel Horcas, University of Málaga, Spain
-* José Ángel Galindo, University of Seville, Spain
-* Richard Comploi-Taupe, Siemens AG Österreich, Vienna, Austria
-* Lidia Fuentes Fernández, University of Málaga, Spain
+* ...
 
 ### Award Chair
-* Michel Aldanondo, Université de Toulouse - IMT Mines Albi, CGI Albi, France
+* ...
 
 ## Program Committee
-* Lothar Hotz, Hamburger Informatik Technologie-Center, Germany
+<!-- * Lothar Hotz, Hamburger Informatik Technologie-Center, Germany
 * Ángel Jesús Varela Vaca, University of Seville, Spain
 * Abdourahim Sylla, Université Grenoble Alpes, France
 * Andreas Falkner, Siemens AG Österreich, Vienna, Austria
@@ -39,8 +40,4 @@ redirect_from:
 * Alois Haselboeck, Siemens, Austria
 * Markus Stumptner, University of South Australia, Australia
 * Mónica Pinto, University of Málaga, Spain
-* Inmaculada Ayala, University of Málaga, Spain
-
-## Volunteers
-* Laura Panizo, University of Málaga, Spain
-* María Fernández Márquez, University of Málaga, Spain
+* Inmaculada Ayala, University of Málaga, Spain -->

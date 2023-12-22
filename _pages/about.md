@@ -1,10 +1,10 @@
 ---
-title: '25th International Workshop on Configuration (ConfWS 2023)<br><span style="font-size: 60%;">Málaga, Spain. Sep 6-7, 2023</span>'
+title: '26th International Workshop on Configuration (ConfWS 2024)<br><span style="font-size: 60%;">2024</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/confws/confws-background-resized.jpg"
+  overlay_image: "/assets/confws/generic_venue.gif"
   overlay_filter: 0.3
-  caption: '[Málaga, Spain](https://www.spain.info/en/destination/malaga/)'
+  caption: '[]()'
 author_profile: true
 classes: wide
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 - "/about.html"
 ---
 
-**25th International Workshop on Configuration (ConfWS 2023)**
+**26th International Workshop on Configuration (ConfWS 2024)**
 
 ---
-- September 6 – 7, 2023
-- Venue: E.T.S. Ingeniería Informática, Universidad de Málaga, Spain
+- Dates: soon
+- Venue: soon
 
-<sub>**Photos from ConfWS 2023 can be downloaded [here](/assets/confws/photos.zip).**</sub>
+<sub>**We are configuring the next edition of ConfWS...**</sub>
 
 Beside researchers from a variety of configuration-related fields, the workshop has always attracted a significant number of participants from industry (major configurator vendors as well as application developers).
 
@@ -26,5 +26,5 @@ The main goal of the workshop is to promote high-quality research in all technic
 
 ---
 
-![ConfWS will be at Málaga](/assets/confws/confws-background.jpg "ConfWS will be at Málaga")
+![ConfWS'24](/assets/confws/peace_on_earth.jpg "ConfWS'24")
 

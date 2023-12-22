@@ -8,12 +8,12 @@ main:
     url: /call-for-papers/    
   #- title: "Important Dates"
   #  url: /dates/     
-  - title: "Program"
-    url: /program/    
-  - title: "Awards"
-    url: /awards/   
-  - title: "Registration"
-    url: /registration/
+  # - title: "Program"
+  #   url: /program/    
+  # - title: "Awards"
+  #   url: /awards/   
+  # - title: "Registration"
+  #   url: /registration/
   - title: "Venue"
     url: /venue/   
   - title: "Committees"
