@@ -121,6 +121,9 @@ author:
   - label: Follow ConfWS on Twitter
     icon: fab fa-fw fa-twitter-square
     url: https://twitter.com/ConfigurationWS
+  - label: Follow ConfWS on LinkedIn
+    icon: fab fa-fw fa-linkedin
+    url: https://www.linkedin.com/groups/3718387/
   - label: "ConfWS: dblp computer science bibliography"
     icon: fa fa-book
     url: https://dblp.org/db/conf/confws/index.html
@@ -147,6 +150,9 @@ footer:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
     url: https://twitter.com/ConfigurationWS
+  - label: LinkedIn
+    icon: fab fa-fw fa-linkedin
+    url: https://www.linkedin.com/groups/3718387/
 include:
 - ".htaccess"
 - _pages
