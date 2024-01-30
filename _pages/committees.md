@@ -7,14 +7,23 @@ redirect_from:
 - "/organizers/"
 ---
 
-<sub>**Under configuration...**</sub>
-
 ## Workshop Chairs
-<!-- * Chiara Grosso, Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy
-* José Miguel Horcas, University of Málaga, Spain -->
+* Chiara Grosso (Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy)
+* Elise Vareilles (ISAE SUPAERO Toulouse, France)
+* José Miguel Horcas (University of Málaga, Spain)
 
+## Publicity and Social Media Chair
+* Irene Campo Gay (Technical University of Denmark, Denmark)
 
 ## Program Committee
+* Gerhard Friedrich (Alpen-Adria-Universität Klagenfurt, Austria)
+* David Benavides (University of Seville, Spain)
+* Franz Wotawa (Graz University of Technology, Austria)
+* Lidia Fuentes Fernández (University of Málaga, Spain)
+* Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
+  
+<sub>**To be completed...**</sub>
+
 <!-- * Lothar Hotz, Hamburger Informatik Technologie-Center, Germany
 * Ángel Jesús Varela Vaca, University of Seville, Spain
 * Abdourahim Sylla, Université Grenoble Alpes, France

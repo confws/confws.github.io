@@ -6,12 +6,13 @@ sitemap: false
 classes: wide
 ---
 
-<sub>**Under configuration...**</sub>
+This year the workshop will be co-located with the [30th International Conference on Principles and Practice of Constraint Programming (CP)](https://cp2024.a4cp.org/).
 
-<!-- The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería Informática)**](https://www.uma.es/ETSI-informatica) of the [University of Málaga (UMA)](https://www.uma.es/), located at the Campus de Teatinos.
+It will be located in the ancient city of [Girona, Catalonia (Spain)](https://www.girona.cat/turisme/eng/), at the premises of the old town campus of the [**University of Girona**](https://www.udg.edu/en/).
 
-![E.T.S. Ingeniería Informática](/assets/confws/etsii.jpg)
+![Old Town Campus of the University of Girona](/assets/confws/university_girona.jpg)
 
+<!--
 **Address:** [Bulevar Louis Pasteur, 35. Campus de Teatinos. 29071 Málaga, Spain](https://goo.gl/maps/bQ4AaYJxLaf2Qkqc7).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3198.313861364173!2d-4.482631087303145!3d36.715022691025084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72f74b9f3606f1%3A0x9fa32cc2e6b0bbf9!2sE.T.S.%20de%20Ingenier%C3%ADa%20Inform%C3%A1tica!5e0!3m2!1ses!2ses!4v1677170209494!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

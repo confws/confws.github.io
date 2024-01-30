@@ -13,24 +13,25 @@ redirect_from:
 
 | Important dates                              |
 | -------------------- | --------------------- |
-| Paper Submission     | soon |
-| Paper Notification   | soon |
-| Registration deadline| soon |
-| Camera ready         | soon |
-| Workshop             | soon |
-
-<sub>**Under configuration...**</sub>
+| Paper Submission     | May 26, 2024 (AOE time) |
+| Paper Notification   | July 5, 2024 (AOE time) |
+| Camera ready         | July 21, 2024 (AOE time) |
+| Registration deadline| July 30, 2024 (AOE time) |
+| Workshop             | September 2-3, 2024 (AOE time) |
 
 ## Overview
 
-<!-- **Configuration** is a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
+**Configuration** is a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
 {: .text-justify}
 
 The main goal of the workshop is to promote high-quality research in all technical areas related to configuration. The workshop is of interest for both researchers working in the various fields of applicable technologies and industry representatives interested in the relationship between configuration technology and the business problems behind configuration and mass customization.
-{: .text-justify} -->
+{: .text-justify}
 
 ## Topics
-<!-- Workshop topics include but are not limited to the following ones:
+<sub>**Under configuration...**</sub>
+
+<!-- 
+Workshop topics include but are not limited to the following ones:
 
 - **Configuration Problems and Models.**
 Definitions of configuration, reconfiguration, distributed configuration. Definitions of product, process, system, service configuration. Structure of configuration problems. Knowledge representation, ontologies, fuzzy and incomplete knowledge, standardization of catalog exchange formats, feature models. Representations for product and process configuration, product design and configuration.
@@ -50,10 +51,14 @@ Personalization, explanations, recommender technologies, configuration web servi
 
 - **Applications and Tools.**
 Configuration tools, design tools, application reports, new application domains such as the Internet of Things (IoT), case studies, real-world challenges, test environments for configuration knowledge bases, configuration in related fields such as software configuration, service composition, and model-driven engineering, Environments for feature model development and maintenance, design theories for applications and tools.
-{: .text-justify} -->
+{: .text-justify}
 
+-->
 ## Paper Submission
-<!-- - **Full papers** are limited to 10 pages (including references). 
+<sub>**Under configuration...**</sub>
+
+<!-- 
+- **Full papers** are limited to 10 pages (including references). 
 - **Position statements** and **problem instances** can be submitted as **short papers** limited to 4 pages (including references). 
 - **Published articles:** It is possible to submit already published or submitted articles. In that case, submit both a **one-page abstract** (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
 
@@ -61,6 +66,7 @@ Full and short papers submitted to ConfWS 2023 must be original. The submission,
 
 Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
 {: .text-justify}
+
 
 **Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/my/conference?conf=confws23).
 
@@ -73,8 +79,8 @@ Each submission will be subject to peer review by at least two members of the pr
 Latex users should modify the following code placed at the start of the Latex document as follows:
 
 ```
-\copyrightyear{2023}
-\conference{ConfWS'23: 25th International Workshop on Configuration, Sep 6--7, 2023, Málaga, Spain}
+\copyrightyear{2024}
+\conference{ConfWS'24: 26th International Workshop on Configuration, Sep 2--3, 2024, Girona, Spain}
 ```
 
 Word users should modify the same information at the bottom of the first page.
@@ -82,10 +88,11 @@ Word users should modify the same information at the bottom of the first page.
 **Publication:**
 The proceedings will be published in the [CEUR Workshop Proceedings library](https://ceur-ws.org/). 
 
-At least one author of each accepted paper must register and present the paper in ConfWS'23 in order for the submission to be published. -->
+At least one author of each accepted paper must register and present the paper in ConfWS'23 in order for the submission to be published.
+-->
 
 ## Best Paper Award
-<!-- ConfWS'23 again plans *Best Paper Awards*. 
+ConfWS'24 again plans *Best Paper Awards*. 
 Two papers will be recognized: 
 - The best paper.
-- The best PhD student paper. -->
+- The best PhD student paper.
