@@ -14,6 +14,8 @@ redirect_from:
 
 **26th International Workshop on Configuration (ConfWS 2024)**
 
+<img style="float: right; width: 200px;" src="assets/confws/confws-2024-logo.png">
+
 ---
 - September 2 – 3, 2024
 - Venue: University of Girona, co-colated with [CP 2024](https://cp2024.a4cp.org/)
