@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 ## Workshop Chairs
-* Chiara Grosso (Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy)
 * Elise Vareilles (ISAE SUPAERO Toulouse, France)
+* Chiara Grosso (Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy)
 * José Miguel Horcas (University of Málaga, Spain)
-
+* Alexander Felfernig (Graz University of Technology, Austria)
+  
 ## Publicity and Social Media Chair
 * Irene Campo Gay (Technical University of Denmark, Denmark)
 

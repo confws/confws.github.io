@@ -19,6 +19,7 @@ redirect_from:
 ---
 - September 2 – 3, 2024
 - Venue: University of Girona, co-colated with [CP 2024](https://cp2024.a4cp.org/)
+- Format: Hybrid (onsite and online)
 
 # ConfWS aims
 The main goal of the workshop is to promote high-quality research in all technical areas related to configuration and to bring together researchers and practitioners from industry and academia. The workshop is of interest for both researchers working in the various fields of applicable technologies and industry representatives interested in the relationship between configuration technology and the business problem behind configuration and mass customization.

@@ -10,6 +10,8 @@ This year the workshop will be co-located with the [30th International Conferenc
 
 It will be located in the ancient city of [Girona, Catalonia (Spain)](https://www.girona.cat/turisme/eng/), at the premises of the old town campus of the [**University of Girona**](https://www.udg.edu/en/).
 
+ConfWS'24 will be in a Hybrid format (onsite and online).
+
 ![Old Town Campus of the University of Girona](/assets/confws/university_girona.jpg)
 
 <!--
