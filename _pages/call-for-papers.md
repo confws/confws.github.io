@@ -66,10 +66,11 @@ Full and short papers submitted to ConfWS 2023 must be original. The submission,
 
 Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
 {: .text-justify}
+-->
 
+**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws2024).
 
-**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/my/conference?conf=confws23).
-
+<!--
 **Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the two-columns template.
 - [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)
 - [Latex template](http://ceur-ws.org/Vol-XXX/CEURART.zip)
