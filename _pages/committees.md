@@ -25,7 +25,9 @@ redirect_from:
 * Yue Wang (Hang Seng University, Hong Kong)
 * José Ángel Galindo (University of Seville, Spain)
 * Enrico Sandrin (University of Padova, Italy)
-
+* Markus Stumptner (University of South Australia, Australia)
+* Lars Hvam (Technical University of Denmark, Denmark)
+* 
 <!--  
 * David Benavides (University of Seville, Spain)
 * Franz Wotawa (Graz University of Technology, Austria)
@@ -38,13 +40,13 @@ redirect_from:
 * Ángel Jesús Varela Vaca, University of Seville, Spain
 * Abdourahim Sylla, Université Grenoble Alpes, France
 * Albert Haag, Product Management GmbH, Germany
-* Lars Hvam, Technical University of Denmark, Denmark
+
 * Sara Shafiee, Technical University of Denmark, Denmark
 * Tomas Axling, Tacton, Sweden
 * Tomi Mänistö, University of Helsinki, Finland
 * Jean-Guillaume Fages, Cosling, France
 * Thorsten Krebs, Encoway, Germany
 * Alois Haselboeck, Siemens, Austria
-* Markus Stumptner, University of South Australia, Australia
+
 * Mónica Pinto, University of Málaga, Spain
 * Inmaculada Ayala, University of Málaga, Spain -->
