@@ -18,36 +18,10 @@ redirect_from:
 ## Overview
 
 **Configuration** is a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
-
 {: .text-justify}
-
-The Configuration Workshop (ConfWS) is a two-day event that started at the AAAI’96 Fall Symposium and from 1999 onwards has been continued at IJCAI, AAAI, ECAI, CP, and SPLC conferences, as well as stand-alone. It is structured as a working group that brings together researchers from academia and experts from industry as well as company managers and industry representatives to foster a constructive debate on Artificial Intelligence techniques in the configuration, customization and co-design strategies to find optimal solutions to solve real life problems and challenges.
-{: .text-justify}
-
-The 26th edition in 2024 is co-located within the [International Conference on Principles and Practice of Constraint Programming (CP 2024)](https://cp2024.a4cp.org/)
-{: .text-justify}
-
 
 ## Topics of interest
-ConfWS 2024 is dedicated to **Green Configuration** which currently is a hot topic in industry. The topic refers to the EU Green Deal as stated in the [EU Agenda 2030](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en) to drive the EU community to a more sustainable future. EU Agenda 2030 fixes a pathway of goals to be urgently achieved by the whole production system at environmental, economic and social levels. Given the condition of the global crisis it is urgent to address the green and digital transition also to re-configure traditional processes to face current and potential scarcity of resources and constant recession. 
-{: .text-justify}
-
-Researchers from both academia and industry are called to cooperate synergically to re-configured economic, environmental and social scenarios. They need to act jointly to provide solutions to to operate more efficiently while facing time of crises (e.g., global health emergencies, consequences of conflicts and war in transport and resource scarcity, climate change) and to detect opportunities for a more sustainable future.
-{: .text-justify}
-
-Although we encourage participants to present and discuss submissions related to the following topics, also other new contributions are welcome if they are relevant for product configuration in general:
-{: .text-justify}
-
-- **Recycling and waste management.**
-Configuration process and waste prevention. Designing new reusable devices in looming 3R reuse, recycle, recovery. Designing production processes for green configuration. Design for disassembly of product component. Recycling strategies enabled by product configuration. Waste prevention with configuration processes. Refurbishing and remanufacturing configuration strategies.
-
-- **Configuration process to engage users in green deal.**
-UX to support sustainability. User engagement in green behaviors. Tomorrow's workforce in configuration management, training and education.
-
-
-- **Configuration in time of crisis.**
-Designing  solutions for critical environment. Mobility and sustainability. Smart Health approaches to configure new health care assistance.
-
+Workshop topics include but are not limited to the following ones:
 
 - **Configuration Problems and Models.**
 Definitions of configuration, reconfiguration, distributed configuration. Definitions of product, process, system, service configuration. Structure of configuration problems. Knowledge representation, ontologies, fuzzy and incomplete knowledge, standardization of catalog exchange formats, feature models. Representations for product and process configuration, product design and configuration.
@@ -68,6 +42,22 @@ Personalization, explanations, recommender technologies, configuration web servi
 - **Applications and Tools.**
 Configuration tools, design tools, application reports, new application domains such as the Internet of Things (IoT), case studies, real-world challenges, test environments for configuration knowledge bases, configuration in related fields such as software configuration, service composition, and model-driven engineering, Environments for feature model development and maintenance, design theories for applications and tools.
 {: .text-justify}
+
+#### Green Configuration
+The focus on Green Configuration refers to the EU Green Deal as stated in the [EU Agenda 2030](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en) to drive the EU community to a more sustainable future. EU Agenda 2030 fixes a pathway of goals to be urgently achieved by the whole production system at environmental, economic and social levels. Beside the EU Agenda 2030, given the condition of the global crisis it is urgent to address the green and digital transition also to re-configure traditional processes to face current and potential scarcity of resources and constant recession. Researcher from academia and industry are called to act jointly to provide solutions to operate more efficiently while facing time of crises (e.g., global health emergencies, consequences of conflicts and war in transport and resource scarcity, climate change) and to detect opportunities for a more sustainable future.
+{: .text-justify}
+
+Focus on Green Configuration addresses the following topics:
+
+- **Recycling and waste management.**
+Configuration process and waste prevention. Designing production processes for green configuration. Recycling strategies enabled by product configuration. Waste prevention with configuration processes. Refurbishing and remanufacturing configuration strategies.
+
+- **Configuration process to engage users in green deal.**
+UX to support sustainability. User engagement in green behaviors. Tomorrow's workforce in configuration management, training and education.
+
+
+- **Configuration in time of crisis.**
+Designing  solutions for critical environment. Mobility and sustainability. Smart Health approaches to configure new health care assistance.
 
 - **Out of the box.**
 Going beyond traditional configuration approaches opening up new horizons.

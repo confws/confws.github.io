@@ -22,9 +22,22 @@ redirect_from:
 - Format: Hybrid (onsite and online)
 
 # ConfWS aims
-The main goal of the workshop is to promote high-quality research in all technical areas related to configuration and to bring together researchers and practitioners from industry and academia. The workshop is of interest for both researchers working in the various fields of applicable technologies and industry representatives interested in the relationship between configuration technology and the business problem behind configuration and mass customization.
+The Configuration Workshop (ConfWS) is a two-day event that started at the AAAI’96 Fall Symposium and from 1999 onwards has been continued at IJCAI, AAAI, ECAI, CP, and SPLC conferences, as well as stand-alone. 
+The workshop promotes high-quality research in all technical areas related to configuration and to bring together researchers working in the various fields of applicable technologies and industry representatives. The main goal is to engage participants from academia and industry in a working group to foster synergies and act as incubator of solutions, scenarios possibilities, and future projects on Artificial Intelligence techniques in the configuration domain. 
+{: .text-justify}
 
-Beside researchers from a variety of configuration-related fields, the workshop has always attracted a significant number of participants from industry (major configurator vendors as well as application developers).
+During 25 editions the Configuration Workshop has attracted a significant number of researchers from a variety of configuration-related fields, and a significant number of participants from industry, major configurator vendors as well as application developers. 
+{: .text-justify}
+
+The 26th edition in 2024 is co-located within the [International Conference on Principles and Practice of Constraint Programming (CP 2024)](https://cp2024.a4cp.org/)
+{: .text-justify}
+
+ConfWS'24 welcomes contributions on configuration related topics, configuration problems and models, techniques for obtaining and/or maintaining configuration models, reasoning methods, intelligent user interfaces and business process integration applications and tools, new relevant contributions for product configuration.
+{: .text-justify}
+
+ConfWS'24 dedicates a special focus on **Sustainability**. Participants are encouraged to submit and present contributions that addresses Green Configuration to foster a constructive discussion on a hot topic both in industry and academia with the aim to detect and share opportunities for a more sustainable future. 
+{: .text-justify}
+
 
 ---
 

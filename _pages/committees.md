@@ -9,7 +9,7 @@ redirect_from:
 
 ## Workshop Chairs
 * Elise Vareilles (ISAE SUPAERO Toulouse, France)
-* Chiara Grosso (Sant’Anna School of Advanced Studies-Pisa, Health Science Research Center, Italy)
+* Chiara Grosso (DIAG, University La Sapienza Rome, Italy)
 * José Miguel Horcas (University of Málaga, Spain)
 * Alexander Felfernig (Graz University of Technology, Austria)
   
@@ -27,12 +27,7 @@ redirect_from:
 * Enrico Sandrin (University of Padova, Italy)
 * Markus Stumptner (University of South Australia, Australia)
 * Lars Hvam (Technical University of Denmark, Denmark)
-* 
-<!--  
 * David Benavides (University of Seville, Spain)
-* Franz Wotawa (Graz University of Technology, Austria)
-* Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
-  -->
 
 <sub>**To be completed...**</sub>
 
@@ -40,13 +35,17 @@ redirect_from:
 * Ángel Jesús Varela Vaca, University of Seville, Spain
 * Abdourahim Sylla, Université Grenoble Alpes, France
 * Albert Haag, Product Management GmbH, Germany
-
 * Sara Shafiee, Technical University of Denmark, Denmark
 * Tomas Axling, Tacton, Sweden
 * Tomi Mänistö, University of Helsinki, Finland
 * Jean-Guillaume Fages, Cosling, France
-* Thorsten Krebs, Encoway, Germany
 * Alois Haselboeck, Siemens, Austria
-
 * Mónica Pinto, University of Málaga, Spain
-* Inmaculada Ayala, University of Málaga, Spain -->
+* Inmaculada Ayala, University of Málaga, Spain 
+* Franz Wotawa (Graz University of Technology, Austria)
+* Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
+
+Declined invitations:
+* Thorsten Krebs, Encoway, Germany
+
+-->
