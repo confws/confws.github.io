@@ -17,30 +17,32 @@ redirect_from:
 
 ## Overview
 
-Product configuration is the task of composing product models of complex systems from parameterizable components in the mass-customization business model.
-Configuration is a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
+**Configuration** is a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
 
 {: .text-justify}
 
-Configuration Workshop (ConfWS) is a two-day event that started at the AAAI’96 Fall Symposium and continued at IJCAI, AAAI, and ECAI conferences, since 1999. The ConfWS at its 26th edition is structured as a working group that brings together researchers from academia and industry as well as company managers and industry representatives to foster a constructive debate on Artificial Intelligence techniques in the configuration, customization and co-design strategies to find optimal solutions to solve real life problems and challenges.
+The Configuration Workshop (ConfWS) is a two-day event that started at the AAAI’96 Fall Symposium and from 1999 onwards has been continued at IJCAI, AAAI, ECAI, CP, and SPLC conferences, as well as stand-alone. It is structured as a working group that brings together researchers from academia and experts from industry as well as company managers and industry representatives to foster a constructive debate on Artificial Intelligence techniques in the configuration, customization and co-design strategies to find optimal solutions to solve real life problems and challenges.
 {: .text-justify}
 
-ConfWS 2024 is co-located within the [International Conference on Principles and Practice of Constraint Programming (CP 2024)](https://cp2024.a4cp.org/)
+The 26th edition in 2024 is co-located within the [International Conference on Principles and Practice of Constraint Programming (CP 2024)](https://cp2024.a4cp.org/)
 {: .text-justify}
 
-## Topics
-ConfWS 2024 is dedicated to Twin Green and Digital Configuration being this the main topic. However, topics include but are not limited to following ones allowing submissions not related to "green configuration":
 
-- **Green configuration.**
-The topic refers to green and digital deals stated in the EU Agenda 2030 to drive the EU community to a more sustainable future. EU Agenda 2030 fixes a pathway of goals to be urgently achieved by the whole production system at environmental, economic and social levels. Given the condition of the global crisis it is urgent to address the green and digital transition also as need to re-configure traditional processes to face current and potential scarcity of resources and constant recession. 
-Researchers from both academia and industry are called to cooperate synergically to re-configured economic, environmental and social scenarios. It urges to act jointly to provide solutions to to operate more efficiently also while facing time of crises (e.g., health global emergencies, war consequences of conflicts and war in transport and resource scarcity, climate change and it consequences). It urges to act jointly academia and industry to detect how convert crisis into opportunities for a more sustainable future.
+## Topics of interest
+ConfWS 2024 is dedicated to **Green Configuration** which currently is a hot topic in industry. The topic refers to the EU Green Deal as stated in the [EU Agenda 2030](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en) to drive the EU community to a more sustainable future. EU Agenda 2030 fixes a pathway of goals to be urgently achieved by the whole production system at environmental, economic and social levels. Given the condition of the global crisis it is urgent to address the green and digital transition also to re-configure traditional processes to face current and potential scarcity of resources and constant recession. 
+{: .text-justify}
+
+Researchers from both academia and industry are called to cooperate synergically to re-configured economic, environmental and social scenarios. They need to act jointly to provide solutions to to operate more efficiently while facing time of crises (e.g., global health emergencies, consequences of conflicts and war in transport and resource scarcity, climate change) and to detect opportunities for a more sustainable future.
+{: .text-justify}
+
+Although we encourage participants to present and discuss submissions related to the following topics, also other new contributions are welcome if they are relevant for product configuration in general:
 {: .text-justify}
 
 - **Recycling and waste management.**
 Configuration process and waste prevention. Designing new reusable devices in looming 3R reuse, recycle, recovery. Designing production processes for green configuration. Design for disassembly of product component. Recycling strategies enabled by product configuration. Waste prevention with configuration processes. Refurbishing and remanufacturing configuration strategies.
 
 - **Configuration process to engage users in green deal.**
-Sustainable oriented UX. User engagement in green behaviors. Tomorrow's Workforce in configuration management, training - education -.
+UX to support sustainability. User engagement in green behaviors. Tomorrow's workforce in configuration management, training and education.
 
 
 - **Configuration in time of crisis.**
