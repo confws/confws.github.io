@@ -28,6 +28,8 @@ redirect_from:
 * Markus Stumptner (University of South Australia, Australia)
 * Lars Hvam (Technical University of Denmark, Denmark)
 * David Benavides (University of Seville, Spain)
+* Cipriano Forza (University of Padova, Italy)
+* Albert Haag (Product Management GmbH, Germany)
 
 <sub>**To be completed...**</sub>
 
