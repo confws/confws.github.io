@@ -12,8 +12,8 @@ main:
   #   url: /program/    
   # - title: "Awards"
   #   url: /awards/   
-  # - title: "Registration"
-  #   url: /registration/
+  - title: "Registration"
+    url: /registration/
   - title: "Venue"
     url: /venue/   
   - title: "Committees"

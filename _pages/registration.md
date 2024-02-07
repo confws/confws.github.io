@@ -6,8 +6,8 @@ sitemap: false
 classes: wide
 ---
 
-Registration is closed! If you are interested in assisting to ConfWS'23, please contact to *horcas at uma.es*
+Registration will be open soon!
 
-**Registration deadline:** July 15, 2023
+- **Early Registration:** July 14, 2024
 
-In case of problems, please mail to *horcas at uma.es*
+- **Registration deadline:** July 30, 2024

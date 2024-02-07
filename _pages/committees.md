@@ -30,18 +30,17 @@ redirect_from:
 * David Benavides (University of Seville, Spain)
 * Cipriano Forza (University of Padova, Italy)
 * Albert Haag (Product Management GmbH, Germany)
+* Alois Haselboeck (Siemens, Austria)
 
 <sub>**To be completed...**</sub>
 
 <!-- * 
 * Ángel Jesús Varela Vaca, University of Seville, Spain
 * Abdourahim Sylla, Université Grenoble Alpes, France
-* Albert Haag, Product Management GmbH, Germany
 * Sara Shafiee, Technical University of Denmark, Denmark
 * Tomas Axling, Tacton, Sweden
 * Tomi Mänistö, University of Helsinki, Finland
 * Jean-Guillaume Fages, Cosling, France
-* Alois Haselboeck, Siemens, Austria
 * Mónica Pinto, University of Málaga, Spain
 * Inmaculada Ayala, University of Málaga, Spain 
 * Franz Wotawa (Graz University of Technology, Austria)
