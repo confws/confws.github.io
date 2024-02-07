@@ -30,7 +30,9 @@ redirect_from:
 * David Benavides (University of Seville, Spain)
 * Cipriano Forza (University of Padova, Italy)
 * Albert Haag (Product Management GmbH, Germany)
-* Alois Haselboeck (Siemens, Austria)
+* Alois Haselboeck (Siemens AG Österreich, Austria)
+* Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
+
 
 <sub>**To be completed...**</sub>
 
@@ -44,7 +46,7 @@ redirect_from:
 * Mónica Pinto, University of Málaga, Spain
 * Inmaculada Ayala, University of Málaga, Spain 
 * Franz Wotawa (Graz University of Technology, Austria)
-* Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
+
 
 Declined invitations:
 * Thorsten Krebs, Encoway, Germany
