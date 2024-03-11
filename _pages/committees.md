@@ -32,23 +32,24 @@ redirect_from:
 * Albert Haag (Product Management GmbH, Germany)
 * Alois Haselboeck (Siemens AG Österreich, Austria)
 * Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
-
-
-<sub>**To be completed...**</sub>
+* Tomi Mänistö (University of Helsinki, Finland)
+* Viet-Man Le (Graz University of Technology, Austria)
+* Abdourahim Sylla (Université Grenoble Alpes, France)
+* Juha Tiihonen (Variantum, Finland)
+* Franz Wotawa (Graz University of Technology, Austria)
 
 <!-- * 
 * Ángel Jesús Varela Vaca, University of Seville, Spain
-* Abdourahim Sylla, Université Grenoble Alpes, France
 * Sara Shafiee, Technical University of Denmark, Denmark
 * Tomas Axling, Tacton, Sweden
-* Tomi Mänistö, University of Helsinki, Finland
 * Jean-Guillaume Fages, Cosling, France
 * Mónica Pinto, University of Málaga, Spain
 * Inmaculada Ayala, University of Málaga, Spain 
-* Franz Wotawa (Graz University of Technology, Austria)
+
 
 
 Declined invitations:
 * Thorsten Krebs, Encoway, Germany
+* Michel Aldanondo
 
 -->
