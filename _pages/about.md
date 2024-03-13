@@ -35,7 +35,9 @@ The 26th edition in 2024 is co-located within the [International Conference on P
 ConfWS'24 welcomes contributions on configuration related topics, configuration problems and models, techniques for obtaining and/or maintaining configuration models, reasoning methods, intelligent user interfaces and business process integration applications and tools, new relevant contributions for product configuration.
 {: .text-justify}
 
-ConfWS'24 dedicates a special focus on **Sustainability**. Participants are encouraged to submit and present contributions that addresses Green Configuration to foster a constructive discussion on a hot topic both in industry and academia with the aim to detect and share opportunities for a more sustainable future. 
+<img style="float: right; width: 200px;" src="assets/confws/cubo.png">
+
+ConfWS'24 dedicates a special focus on <span style="color:green">**Sustainability**</span>. Participants are encouraged to submit and present contributions that addresses <span style="color:green">Green Configuration</span> to foster a constructive discussion on a hot topic both in industry and academia with the aim to detect and share opportunities for a more sustainable future. 
 {: .text-justify}
 
 
