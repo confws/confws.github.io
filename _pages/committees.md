@@ -37,6 +37,7 @@ redirect_from:
 * Abdourahim Sylla (Université Grenoble Alpes, France)
 * Juha Tiihonen (Variantum, Finland)
 * Franz Wotawa (Graz University of Technology, Austria)
+* Rüdiger Dehn (Lino GmbH, Germany)
 
 <!-- * 
 * Ángel Jesús Varela Vaca, University of Seville, Spain
