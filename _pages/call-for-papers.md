@@ -9,7 +9,7 @@ redirect_from:
 
 | Important dates                              |
 | -------------------- | --------------------- |
-| Paper Submission     | May 26, 2024 (AOE time) |
+| Paper Submission     | ~~May 26~~ June 9, 2024 (AOE time)|
 | Paper Notification   | July 5, 2024 (AOE time) |
 | Camera ready         | July 21, 2024 (AOE time) |
 | Early registration   | July 14, 2024 (AOE time) |
