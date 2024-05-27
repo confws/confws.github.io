@@ -13,6 +13,6 @@ Registration will be open soon!
 - **Registration deadline:** July 30, 2024
 
 ### Registration fees
-- **On-site:** 200€ (early), 250€ (late)
-- **Online:** 100€ (early), 150€ (late)
+- **On-site:** 200€ (early), 275€ (late)
+- **Online:** 100€ (early), 175€ (late)
 
