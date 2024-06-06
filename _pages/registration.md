@@ -6,7 +6,9 @@ sitemap: false
 classes: wide
 ---
 
-Registration will be open soon!
+Registration is open!
+
+Please register at [https://www.fundacioudg.org/ca/p/matricula/4437/1](https://www.fundacioudg.org/ca/p/matricula/4437/1)
 
 ### Registration dates
 - **Early Registration:** July 14, 2024
@@ -15,4 +17,6 @@ Registration will be open soon!
 ### Registration fees
 - **On-site:** 200€ (early), 275€ (late)
 - **Online:** 100€ (early), 175€ (late)
+
+
 
