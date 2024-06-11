@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 - September 2 – 3, 2024
-- Venue: University of Girona, co-colated with [CP 2024](https://cp2024.a4cp.org/)
+- Venue: University of Girona, co-located with [CP 2024](https://cp2024.a4cp.org/)
 - Format: Hybrid (onsite and online)
 
 # ConfWS aims
