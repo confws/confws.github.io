@@ -130,10 +130,10 @@ author:
   #- label: Málaga Skyline logo by Miguel Sánchez Espinosa
   #  icon: fa fa-info-circle
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
-  # sponsors: 
-  # - name: 'Siemens'
-  #   logo: assets/confws/siemens-logo.png
-  #   url: https://www.siemens.com/global/en.html
+  sponsors: 
+  - name: 'Siemens'
+    logo: assets/confws/siemens-logo.png
+    url: https://www.siemens.com/global/en.html
   # projects: 
   # - name: 'Tasova Plus'
   #   logo: assets/confws/tasovaplus.png
