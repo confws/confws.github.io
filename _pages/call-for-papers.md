@@ -12,7 +12,7 @@ redirect_from:
 | Paper Submission     | ~~May 26~~ ~~Jun 9~~ June 16, 2024 (AOE time)|
 | Paper Notification   | ~~July 5~~ July 9, 2024 (AOE time) |
 | Camera ready         | July 21, 2024 (AOE time) |
-| Early registration   | July 14, 2024 (AOE time) |
+| Early registration   | ~~July 14~~ July 17, 2024 (AOE time) |
 | Registration deadline| July 30, 2024 (AOE time) |
 | Workshop             | September 2-3, 2024 (AOE time) |
 

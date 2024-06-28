@@ -11,7 +11,7 @@ Registration is open!
 Please register at [https://www.fundacioudg.org/ca/p/matricula/4437/1](https://www.fundacioudg.org/ca/p/matricula/4437/1)
 
 ### Registration dates
-- **Early Registration:** July 14, 2024
+- **Early Registration:** ~~July 14~~ July 17, 2024
 - **Registration deadline:** July 30, 2024
 
 ### Registration fees
