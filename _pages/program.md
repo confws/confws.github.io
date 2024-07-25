@@ -30,13 +30,13 @@ Author / Presenter Information:<br>
 | 9:50 - 10:10      | Florian Jost and Carsten Sinz.<br/>**Challenges in Automotive Hardware-Software Co-Configuration** |
 | 10:30 - 11:00 | *Coffee Break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 11:00 - 11:40      | Tacton |
+| 11:00 - 11:40      | Tacton: Patrik Östberg and Sonja Arce<br/>**-** |
 |   | &nbsp;&nbsp;&nbsp;*-- Technical Session 2: Configuration tasks --*  |
 | 11:40 - 12:00     | Irene Campo Gay, Lars Hvam and Johan Ernfors.<br/>**Prospective and retrospective approaches to integrate life cycle assessment in configurators: A multiple case study in the construction industry** |
 | 12:00 - 12:20     | Bart Deschoolmeester and Elise Vareilles.<br/>**Premises, challenges and suggestions for modelling building knowledge using the configuration paradigm.** |
 | 12:30 - 14:00 | *Lunch break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 14:00 - 14:40      | Siemens |
+| 14:00 - 14:40      | Siemens: Sophie Rogenhofer.<br/>**Sustainability at Siemens - Scaling sustainability impact** |
 |  | &nbsp;&nbsp;&nbsp;*-- Technical Session 3: Green configuration --*  |
 | 14:40 - 15:00     | Andreas Falkner, Richard Comploi-Taupe, Katrin Müller and Sophie Rogenhofer.<br/>**Requirements and Architectures for Green Configuration** |
 | 15:00 - 15:20     | Carlos March Moya, Christian Perez and Miguel A. Salido.<br/>**Developing an Algorithm Selector for Green Configuration in Scheduling Problems** |
@@ -59,7 +59,7 @@ Author / Presenter Information:<br>
 | 9:40 - 10:00 (online)     | Damian Garber, Alexander Felfernig, Viet-Man Le, Tamim Burgstaller and Merfat Elmansi.<br/>**An extensive comparison of preprocessing methods in the context of configuration space learning** |
 | 10:00 - 10:30 | *Coffee Break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 10:30 - 11:10      | Cosling |
+| 10:30 - 11:10      | Cosling: Jean-Guillaume Fages.<br/>**-** |
 |  | &nbsp;&nbsp;&nbsp;*-- Technical Session 6: AI & configuration --*  |
 | 11:10 - 11:30      | Lothar Hotz, Christian Bähnisch, Sebastian Lubos, Alexander Felfernig, Albert Haag and Johannes Twiefel.<br/>**Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems** |
 | 11:30 - 11-50      | Philipp Kogler, Wei Chen, Andreas Falkner, Alois Haselboeck and Stefan Wallner.<br/>**Configuration Copilot: Towards Integrating Large Language Models and Constraints** |
