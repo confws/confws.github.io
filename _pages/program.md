@@ -23,7 +23,7 @@ Author / Presenter Information:<br>
 
 |                   | *Monday, 2nd September 2024* |
 | ------------------|----------------------------------------------------|
-| 8:00 - 9:00  | Registration  |
+| 8:15 - 9:00  | Registration  |
 | 9:00 - 9:30  | Opening and welcome notes  |
 |   | &nbsp;&nbsp;&nbsp;*-- Technical Session 1: Configuration --*  |
 | 9:30 - 9:50      | Thomas Pouré, Stephanie Roussel, Elise Vareilles and Gauthier Picard.<br/>**Configuration of Heterogeneous Agent Fleet: a Preliminary Generic Model** |
@@ -52,11 +52,12 @@ Author / Presenter Information:<br>
 
 |                   | *Tuesday, 3rd September, 2024* |
 | ------------------|----------------------------------------------------|
+| 8:15 - 9:00  | Registration  |
 | | &nbsp;&nbsp;&nbsp;*-- Technical Session 5: Sustainabilty & Configuration applications (II) --*  |
 | 9:00 - 9:20      | 	Sebastian Lubos, Alexander Felfernig, Lothar Hotz, Thi Ngoc Trang Tran, Seda Polat-Erdeniz, Viet-Man Le, Damian Garber and Merfat El-Mansi.<br/>**Responsible Configuration Using LLM-based Sustainability-Aware Explanations** |
 | 9:20 - 9:40 (online)     | 	Mathias Uta, Viet-Man Le, Alexander Felfernig, Damian Garber, Gottfried Schenner and Thi Ngoc Trang Tran.<br/>**Semantics-Preserving Merging of Feature Models** |
 | 9:40 - 10:00 (online)     | Damian Garber, Alexander Felfernig, Viet-Man Le, Tamim Burgstaller and Merfat Elmansi.<br/>**An extensive comparison of preprocessing methods in the context of configuration space learning** |
-| 10:10 - 10:30 | *Coffee Break* |
+| 10:00 - 10:30 | *Coffee Break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
 | 10:30 - 11:10      | Cosling |
 |  | &nbsp;&nbsp;&nbsp;*-- Technical Session 6: AI & configuration --*  |
