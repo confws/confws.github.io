@@ -30,7 +30,7 @@ Author / Presenter Information:<br>
 | 9:50 - 10:10      | Florian Jost and Carsten Sinz.<br/>**Challenges in Automotive Hardware-Software Co-Configuration** |
 | 10:30 - 11:00 | *Coffee Break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 11:00 - 11:40      | Tacton: Patrik Östberg and Sonja Arce<br/>**-** |
+| 11:00 - 11:40      | Tacton: Patrik Östberg and Sonja Arce<br/>**Inspiring & enabling manufacturers to shape and build a sustainable future** |
 |   | &nbsp;&nbsp;&nbsp;*-- Technical Session 2: Configuration tasks --*  |
 | 11:40 - 12:00     | Irene Campo Gay, Lars Hvam and Johan Ernfors.<br/>**Prospective and retrospective approaches to integrate life cycle assessment in configurators: A multiple case study in the construction industry** |
 | 12:00 - 12:20     | Bart Deschoolmeester and Elise Vareilles.<br/>**Premises, challenges and suggestions for modelling building knowledge using the configuration paradigm.** |
@@ -43,7 +43,7 @@ Author / Presenter Information:<br>
 | 15:30 - 16:00 | *Coffee Break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Technical Session 4: Sustainabilty & Configuration applications (I) --*  |
 | 16:00 - 16:20      | Christian Perez, Carlos March and Miguel A. Salido.<br/>**Instance Configuration for Sustainable Job Shop Scheduling** |
-| 16:20 - 16:40      | Andrea Petterle, Enrico Sandrin and Cipriano Forza.<br/>**Product visualization in configurators: setting the bases for a comparative description** |
+| 16:20 - 16:40      | Andrea Petterle, Enrico Sandrin and Cipriano Forza.<br/>**Product visualization in configurators: laying the foundations for a comparative description** |
 | 16:40 - 17:00      | Franz Wotawa.<br/>**Using Answer Set Programming for Assigning Tasks to Computing Nodes** |
 | 17:00 - 18:30 | *Future and Next ConfWS'2025* |
 |  | *End of first day* |
