@@ -8,9 +8,9 @@ redirect_from:
 - "/agenda/"
 ---
 
-<!-- <sub>**The proceedings of ConfWS'2023 can be downloaded [here](/assets/confws/papers.zip). They will be also available online in CEUR-WS.org soon.**</sub>
+<sub>**The proceedings of ConfWS'2024 can be downloaded [here](/assets/confws/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub>
 
-
+<!--
 <sub>*There will be an "informal" self-organized meeting/dinner on Tuesday afternoon for those that arrive on Tuesday. For those interested, here are some places we recommend for the meeting (all of them are in Málaga downtown next to the Cathedral): [El Pimpi](https://goo.gl/maps/JiYcUhMmUfqGqxUaA), [Casa Lola](https://goo.gl/maps/tzKWhdu82wrNe1o4A), [Las Merchanas](https://goo.gl/maps/2paBoGtEJ7VCU8Qk7).*</sub>
 
 -->
