@@ -59,7 +59,7 @@ Author / Presenter Information:<br>
 | 9:40 - 10:00 (online)     | Damian Garber, Alexander Felfernig, Viet-Man Le, Tamim Burgstaller and Merfat Elmansi.<br/>**An extensive comparison of preprocessing methods in the context of configuration space learning** |
 | 10:00 - 10:30 | *Coffee Break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 10:30 - 11:10      | Cosling: Jean-Guillaume Fages.<br/>**-** |
+| 10:30 - 11:10      | Cosling: Jean-Guillaume Fages.<br/>**Automating complex computations with Cosling Configurator** |
 |  | &nbsp;&nbsp;&nbsp;*-- Technical Session 6: AI & configuration --*  |
 | 11:10 - 11:30      | Lothar Hotz, Christian Bähnisch, Sebastian Lubos, Alexander Felfernig, Albert Haag and Johannes Twiefel.<br/>**Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems** |
 | 11:30 - 11-50      | Philipp Kogler, Wei Chen, Andreas Falkner, Alois Haselboeck and Stefan Wallner.<br/>**Configuration Copilot: Towards Integrating Large Language Models and Constraints** |
