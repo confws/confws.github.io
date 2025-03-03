@@ -9,12 +9,12 @@ redirect_from:
 
 | Important dates                              |
 | -------------------- | --------------------- |
-| Paper Submission     | ~~May 26~~ ~~Jun 9~~ June 16, 2024 (AOE time)|
-| Paper Notification   | ~~July 5~~ July 9, 2024 (AOE time) |
-| Camera ready         | ~~July 21~~, July 31, 2024 (AOE time) |
-| Early registration   | ~~July 14~~ July 17, 2024 (AOE time) |
-| Registration deadline| July 30, 2024 (AOE time) |
-| Workshop             | September 2-3, 2024 (AOE time) |
+| Paper Submission     | July 17, 2025 (AOE time)|
+| Paper Notification   | August 21, 2024 (AOE time) |
+| Camera ready         | September 4, 2024 (AOE time) |
+| Early registration   | TBC |
+| Registration deadline| TBC |
+| Workshop             | October 25-26, 2025 (AOE time) |
 
 ## Overview
 
@@ -69,12 +69,12 @@ Going beyond traditional configuration approaches opening up new horizons.
 - **Position statements** and **problem instances** can be submitted as **short papers** limited to 4 pages (including references). 
 - **Published articles:** It is possible to submit already published or submitted articles. In that case, submit both a **one-page abstract** (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
 
-Full and short papers submitted to ConfWS 2024 must be original. The submission, or a highly similar version of it, cannot have been published or accepted in a journal or another conference proceedings. Further, submissions must not be concurrently under consideration for publication or presentation elsewhere. In this case, consider to submit your work as a **published article** (one-page abstract).
+Full and short papers submitted to ConfWS 2025 must be original. The submission, or a highly similar version of it, cannot have been published or accepted in a journal or another conference proceedings. Further, submissions must not be concurrently under consideration for publication or presentation elsewhere. In this case, consider to submit your work as a **published article** (one-page abstract).
 
 Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
 {: .text-justify}
 
-**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws2024).
+**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws2025).
 
 **Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the two-columns template.
 - [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)
@@ -85,8 +85,8 @@ Each submission will be subject to peer review by at least two members of the pr
 Latex users should modify the following code placed at the start of the Latex document as follows:
 
 ```
-\copyrightyear{2024}
-\conference{ConfWS'24: 26th International Workshop on Configuration, Sep 2--3, 2024, Girona, Spain}
+\copyrightyear{2025}
+\conference{ConfWS'25: 27th International Workshop on Configuration, Oct 25--26, 2025, Bologna, Italy}
 ```
 
 Word users should modify the same information at the bottom of the first page.
@@ -94,11 +94,11 @@ Word users should modify the same information at the bottom of the first page.
 **Publication:**
 The proceedings will be published in the [CEUR Workshop Proceedings library](https://ceur-ws.org/). 
 
-At least one author of each accepted paper must register and present the paper in ConfWS'24 in order for the submission to be published.
+At least one author of each accepted paper must register and present the paper in ConfWS'25 in order for the submission to be published.
 
 
 ## Best Paper Award
-ConfWS'24 again plans *Best Paper Awards*. 
+ConfWS'25 again plans *Best Paper Awards*.
 Two papers will be recognized: 
 - The best paper.
 - The best PhD student paper.

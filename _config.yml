@@ -1,5 +1,5 @@
 ---
-#title: ConfWS 2024
+#title: ConfWS 2025
 timezone: UTC
 collections:
   pages:
@@ -36,13 +36,13 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
-name: 26th International Workshop on Configuration (ConfWS'24)
-description: Website of the 26th International Workshop on Configuration (ConfWS'24)
+name: 27th International Workshop on Configuration (ConfWS'25)
+description: Website of the 27th International Workshop on Configuration (ConfWS'25)
 url: https://confws.github.io
 baseurl: 
 repository: confws/confws.github.io
 teaser: 
-logo: 'assets/confws/confws-2024-logo.png' 
+logo: 'assets/confws25/confws-2025-logo-2.png'
 #masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: 'assets/confws/confws-2024-logo.png'
+og_image: 'assets/confws25/confws-2025-logo-2.png'
 social:
   type: 
   name: 
