@@ -42,7 +42,7 @@ url: https://confws.github.io
 baseurl: 
 repository: confws/confws.github.io
 teaser: 
-logo: 'assets/confws25/confws-2025-logo-2.png'
+logo: 'assets/confws/confws-2025-logo.png'
 #masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: 'assets/confws25/confws-2025-logo-2.png'
+og_image: 'assets/confws/confws-2025-logo.png'
 social:
   type: 
   name: 

@@ -2,7 +2,7 @@
 title: '27th International Workshop on Configuration (ConfWS 2025)<br><span style="font-size: 60%;">Bologna, Italy. Oct 25-26, 2025</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/confws25/20240816094756_landscape_16_9_desktop.jpg"
+  overlay_image: "/assets/confws/bg_bologna.jpg"
   overlay_filter: 0.3
   caption: '[Bologna, Italy](https://www.bolognawelcome.com/en/blog/top-10-things-to-do-in-bologna-)'
 author_profile: true
@@ -14,7 +14,7 @@ redirect_from:
 
 **27th International Workshop on Configuration (ConfWS 2025)**
 
-<img style="float: right; width: 400px;" src="assets/confws25/confws-2025-logo-2.png">
+<img style="float: right; width: 400px;" src="assets/confws/confws-2025-logo.png">
 
 ---
 - October 25 – 26, 2025
@@ -43,5 +43,5 @@ ConfWS'25 dedicates a special focus on <span style="color:green">**Sustainabilit
 
 ---
 
-![ConfWS will be at Bologna](/assets/confws25/20240816094756_landscape_16_9_desktop.jpg "ConfWS will be at Bologna")
+![ConfWS will be at Bologna](/assets/confws/bg_bologna.jpg "ConfWS will be at Bologna")
 
