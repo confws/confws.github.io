@@ -83,7 +83,7 @@ atom_feed:
 search: true
 search_full_content: true
 search_provider: lunr
-google_site_verification: 
+google_site_verification: "4e7d9bf007bbe84b"
 bing_site_verification: 
 yandex_site_verification: 
 naver_site_verification:
@@ -212,6 +212,7 @@ plugins:
 - jekyll-gist
 - jemoji
 - jekyll-include-cache
+#- jekyll-google_search_console_verification_file
 whitelist:
 - jekyll-paginate
 - jekyll-sitemap
