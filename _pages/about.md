@@ -37,7 +37,16 @@ ConfWS'25 welcomes contributions on configuration related topics, configuration 
 
 <img style="float: right; width: 200px;" src="assets/confws/rueda.png">
 
-ConfWS'25 dedicates a special focus on <span style="color:green">**Sustainability**</span>. Participants are encouraged to submit and present contributions that addresses <span style="color:green">Green Configuration</span> to foster a constructive discussion on a hot topic both in industry and academia with the aim to detect and share opportunities for a more sustainable future.
+
+In its 27th edition, the Workshop on Configuration will dedicate a special focus on <span style="color:green">**Reconfiguring Systems and Practices for Sustainability**</span>. This focus aligns with the growing interest in leveraging system- and practice-level transformations to meet ambitious sustainability goals and effectively implement circular economy principles.
+{: .text-justify}
+
+The aim of the special focus is to addresses a discussion on the urgent need for innovative approaches to drive sustainable development for a more sustainable future
+Participants are encouraged to submit contribution that addresses reconfiguration as a strategic lever for sustainability transitions in production and consumption.
+{: .text-justify}
+
+<!--
+ Participants are encouraged to submit and present contributions that addresses <span style="color:green">Green Configuration</span> to foster a constructive discussion on a hot topic both in industry and academia with the aim to detect and share opportunities for a more sustainable future.
 {: .text-justify}
 
 ## Reconfiguring Systems and Practices for Sustainability
@@ -47,6 +56,7 @@ In its 27th edition, the Workshop on Configuration will dedicate a research trac
 
 The aim of the special focus is to addresses a discussion on the urgent need for innovative approaches to drive sustainable development for reconfiguration techniques to address the challenges and promote practical solutions for social good. In particular, by framing reconfiguration as a dynamic and adaptive process, this focus aims to provide actionable insights and solutions for transitioning to a more sustainable future.
 {: .text-justify}
+-->
 
 
 ---
