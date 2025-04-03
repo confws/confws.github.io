@@ -66,18 +66,20 @@ Designing  solutions for critical environment. Mobility and sustainability. Smar
 Going beyond traditional configuration approaches opening up new horizons.
 -->
 
-#### Reconfiguring Systems and Practices for Sustainability: An Integrated Approach
+#### <span style="color:green">Reconfiguring Systems and Practices for Sustainability: An Integrated Approach</span>
 
-<span style="color:green">Pushing the boundaries of reconfiguration strategies for sustainability</span>
+_Pushing the boundaries of reconfiguration strategies for sustainability_
 
 The urgent global challenges of environmental crises and resource scarcity necessitate a fundamental shift toward more sustainable production and consumption models. In particular, transitioning from a linear to a circular production model is increasingly recognized as essential for corporate survival and competitiveness in European markets (link to the European agenda). Accordingly, the special focus will encompass two key analytical perspectives:
 {: .text-justify}
 
 (a) *AI-Driven Reconfiguration of Products, Processes, and Systems*
+
 This perspective explores how these technologies can address sustainability challenges and drive practical solutions that generate positive environmental, economic and societal impact. Investigating how AI techniques facilitate reconfiguration to meet sustainability goals, with a particular emphasis on modular design approaches, reconfigurable manufacturing systems, and AI-based diagnostic tools.
 {: .text-justify}
 
 (b) *Reconfiguring Production and Consumption Practices*
+
 This perspective includes examining how new drivers—such as emerging technologies, evolving meanings, and skill transformations—are introduced and integrated into existing practices. Analyzing to what extent the reconfiguration of production and consumption practices interrelates and and how targeted interventions can initiate self-reinforcing cycles of sustainable change.
 {: .text-justify}
 
