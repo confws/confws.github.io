@@ -75,25 +75,35 @@ The urgent global challenges of environmental crises and resource scarcity neces
 
 (a) *AI-Driven Reconfiguration of Products, Processes, and Systems*
 This perspective explores how these technologies can address sustainability challenges and drive practical solutions that generate positive environmental, economic and societal impact. Investigating how AI techniques facilitate reconfiguration to meet sustainability goals, with a particular emphasis on modular design approaches, reconfigurable manufacturing systems, and AI-based diagnostic tools.
+{: .text-justify}
 
 (b) *Reconfiguring Production and Consumption Practices*
 This perspective includes examining how new drivers—such as emerging technologies, evolving meanings, and skill transformations—are introduced and integrated into existing practices. Analyzing to what extent the reconfiguration of production and consumption practices interrelates and and how targeted interventions can initiate self-reinforcing cycles of sustainable change.
+{: .text-justify}
 
 The special focus welcomes studies from various sectors (e.g., mobility, energy, furniture, and fashion) where system and practice reconfiguration are either actively taking place or holds significant potential to accelerate the transition toward sustainability. We welcome theoretical frameworks, methodological advancements, and reviews that contribute to a deeper understanding of reconfiguration strategies for sustainability and circularity.
+{: .text-justify}
 
 Researchers and practitioners are encouraged to share theoretical insights, practical applications, and technological innovations that advance the design and implementation of reconfiguration strategies, fostering more sustainable and adaptive systems. As well as research that address the following themes (but not limited to):
+{: .text-justify}
 
 - **Reconfiguration Strategies and Tools**: approaches for integrating sustainability into production systems, including modular design, reconfigurable manufacturing systems (RMS), and adaptive business models.
+{: .text-justify}
 
 - **Flexible and AI-Driven Technologies**: the role of artificial intelligence (AI) and flexible production systems in reconfiguring processes, products, and supply chains for improved efficiency and sustainability.
+{: .text-justify}
 
 - **Sustainability Constraints in Configuration Problems**: methods for embedding eco-efficiency, resource optimization, and recyclability into decision-making frameworks.
+{: .text-justify}
 
 - **Advanced AI Techniques for Reconfiguration**: applications of genetic algorithms, SAT-solving, and Answer Set Programming (ASP) to support dynamic and sustainable system reconfiguration; AI-driven anytime diagnosis and adaptive systems responding to evolving sustainability regulations and disruptions in supply chains.
+{: .text-justify}
 
 - **Evaluation Metrics and Impact Assessment**: frameworks for measuring the effectiveness of reconfiguration initiatives at various scales.
+{: .text-justify}
 
-- **Circular Economy and Reconfiguration**: case studies on product life extension, repairability, reusability, and remanufacturing through reconfiguration strategies
+- **Circular Economy and Reconfiguration**: case studies on product life extension, repairability, reusability, and remanufacturing through reconfiguration strategies.
+{: .text-justify}
 
 
 ## Paper Submission
