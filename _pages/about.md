@@ -19,7 +19,7 @@ redirect_from:
 ---
 - October 25 – 26, 2025
 - Venue: Bologna, co-located with [ECAI 2025](https://ecai2025.org)
-- Format: Hybrid (onsite and online)
+- Format: Onsite
 
 # ConfWS aims
 The Configuration Workshop (ConfWS) is a two-day event that started at the AAAI’96 Fall Symposium and from 1999 onwards has been continued at IJCAI, AAAI, ECAI, CP, and SPLC conferences, as well as stand-alone. 
