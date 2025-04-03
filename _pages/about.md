@@ -40,8 +40,7 @@ ConfWS'25 welcomes contributions on configuration related topics, configuration 
 
 In its 27th edition, the Workshop on Configuration will dedicate a special focus on <span style="color:green">**Reconfiguring Systems and Practices for Sustainability**</span>. This focus aligns with the growing interest in leveraging system- and practice-level transformations to meet ambitious sustainability goals and effectively implement circular economy principles.
 
-The aim of the special focus is to addresses a discussion on the urgent need for innovative approaches to drive sustainable development for a more sustainable future
-Participants are encouraged to submit contribution that addresses reconfiguration as a strategic lever for sustainability transitions in production and consumption.
+The aim of the special focus is to addresses a discussion on the urgent need for innovative approaches to drive sustainable development for a more sustainable future. Participants are encouraged to submit contribution that addresses reconfiguration as a strategic lever for sustainability transitions in production and consumption.
 {: .text-justify}
 
 <!--
