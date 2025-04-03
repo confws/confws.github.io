@@ -119,6 +119,7 @@ Each submission will be subject to peer review by at least two members of the pr
 **Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the **two-columns template**.
 - [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
 - [Offline template (Latex, DOCX, ODT)](http://ceur-ws.org/Vol-XXX/CEURART.zip)
+
 <!--
 - [DOCX template](https://ceur-ws.org/Vol-XXX/CEUR-Template-2col.docx)
 - [ODT template](https://ceur-ws.org/Vol-XXX/CEUR-Template-2col.odt)
