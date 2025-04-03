@@ -68,7 +68,7 @@ Going beyond traditional configuration approaches opening up new horizons.
 
 #### Reconfiguring Systems and Practices for Sustainability: An Integrated Approach
 
-Pushing the boundaries of reconfiguration strategies for sustainability
+<span style="color:green">Pushing the boundaries of reconfiguration strategies for sustainability</span>
 
 The urgent global challenges of environmental crises and resource scarcity necessitate a fundamental shift toward more sustainable production and consumption models. In particular, transitioning from a linear to a circular production model is increasingly recognized as essential for corporate survival and competitiveness in European markets (link to the European agenda). Accordingly, the special focus will encompass two key analytical perspectives:
 {: .text-justify}
@@ -79,7 +79,7 @@ This perspective explores how these technologies can address sustainability chal
 (b) *Reconfiguring Production and Consumption Practices*
 This perspective includes examining how new drivers—such as emerging technologies, evolving meanings, and skill transformations—are introduced and integrated into existing practices. Analyzing to what extent the reconfiguration of production and consumption practices interrelates and and how targeted interventions can initiate self-reinforcing cycles of sustainable change.
 
-The special focus welcomes studies from various sectors (e.g., mobility, energy, food, and fashion) where system and practice reconfiguration are either actively taking place or holds significant potential to accelerate the transition toward sustainability. We welcome theoretical frameworks, methodological advancements, and reviews that contribute to a deeper understanding of reconfiguration strategies for sustainability and circularity.
+The special focus welcomes studies from various sectors (e.g., mobility, energy, furniture, and fashion) where system and practice reconfiguration are either actively taking place or holds significant potential to accelerate the transition toward sustainability. We welcome theoretical frameworks, methodological advancements, and reviews that contribute to a deeper understanding of reconfiguration strategies for sustainability and circularity.
 
 Researchers and practitioners are encouraged to share theoretical insights, practical applications, and technological innovations that advance the design and implementation of reconfiguration strategies, fostering more sustainable and adaptive systems. As well as research that address the following themes (but not limited to):
 
