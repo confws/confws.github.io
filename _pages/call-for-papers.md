@@ -15,7 +15,7 @@ redirect_from:
 | Camera ready         | TBC |
 | Early registration   | TBC |
 | Registration deadline| TBC |
-| Workshop             | October 25-26, 2025 (AOE time) |
+| Workshop             | October 25-26, 2025 |
 
 ## Overview
 
