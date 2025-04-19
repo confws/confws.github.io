@@ -12,6 +12,10 @@ redirect_from:
 - "/about.html"
 ---
 
+---
+
+![Happy Easter to the Configuration Workshop Community](assets/confws/Greetings-Easter_25_website.png "Happy Easter to the Configuration Workshop Community")
+
 **27th International Workshop on Configuration (ConfWS 2025)**
 
 <img style="float: right; width: 400px;" src="assets/confws/confws-2025-logo.png">
