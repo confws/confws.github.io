@@ -14,8 +14,6 @@ redirect_from:
 
 # [Call for papers](https://confws.github.io/call-for-papers/) is open now.
 
----
-
 **27th International Workshop on Configuration (ConfWS 2025)**
 
 <img style="float: right; width: 400px;" src="assets/confws/confws-2025-logo.png">
