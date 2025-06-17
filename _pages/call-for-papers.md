@@ -9,7 +9,6 @@ redirect_from:
 
 | Important dates                              |
 | -------------------- | --------------------- |
-| Abstract Submission (not mandatory for full paper submission) | May 12, 2025 (AOE time) |
 | Paper Submission     | June 23, 2025 (AOE time)|
 | Paper Notification   | July 31, 2025 (AOE time) |
 | Camera ready         | TBC |
