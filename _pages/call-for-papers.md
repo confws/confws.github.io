@@ -9,7 +9,7 @@ redirect_from:
 
 | Important dates                              |
 | -------------------- | --------------------- |
-| Paper Submission     | June 23, 2025 (AOE time)|
+| Paper Submission     | July 7, 2025 ~~June 23, 2025~~ (AOE time)|
 | Paper Notification   | July 31, 2025 (AOE time) |
 | Camera ready         | TBC |
 | Early registration   | TBC |
