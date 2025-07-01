@@ -104,8 +104,8 @@ Researchers and practitioners are encouraged to share theoretical insights, prac
 
 
 ## Paper Submission
-- **Full papers** are limited to 10 pages (including references). 
-- **Position statements** and **problem instances** can be submitted as **short papers** limited to 4 pages (including references). 
+- **Full papers** must be between 10 and 30 pages (including references).
+- **Position statements** and **problem instances** can be submitted as **short papers** and must be between 5 and 9 pages (including references).
 - **Published articles:** It is possible to submit already published or submitted articles. In that case, submit both a **one-page abstract** (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
 
 Full and short papers submitted to ConfWS 2025 must be original. The submission, or a highly similar version of it, cannot have been published or accepted in a journal or another conference proceedings. Further, submissions must not be concurrently under consideration for publication or presentation elsewhere. In this case, consider to submit your work as a **published article** (one-page abstract).
@@ -115,7 +115,7 @@ Each submission will be subject to peer review by at least two members of the pr
 
 **Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws2025).
 
-**Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the **two-columns template**.
+**Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the **one-column template**.
 - [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
 - [Latex, DOCX, ODT templates](http://ceur-ws.org/Vol-XXX/CEURART.zip)
 
