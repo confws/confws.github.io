@@ -32,26 +32,26 @@ Below is an overview of registration fees for EurAI members and Student EurAI me
   <tbody>
     <tr>
       <td rowspan="2"><b>Only Weekend</b> (Tutorials, Workshops, Doctoral Consortium)</td>
-      <td>EurAI Member</td>
+      <td><b>EurAI Member</b></td>
       <td>325</td>
       <td>405</td>
       <td>485</td>
     </tr>
     <tr>
-      <td>Student EurAI Member</td>
+      <td><b>Student EurAI Member</b></td>
       <td>210</td>
       <td>265</td>
       <td>315</td>
     </tr>
     <tr>
-      <td rowspan="2">ECAI Main Conference + Weekend (incl. PAIS, Tutorials, etc.)</td>
-      <td>EurAI Member</td>
+      <td rowspan="2"><b>ECAI Main Conference + Weekend</b> (incl. PAIS, Tutorials, etc.)</td>
+      <td><b>EurAI Member</b></td>
       <td>710</td>
       <td>885</td>
       <td>1,060</td>
     </tr>
     <tr>
-      <td>Student EurAI Member</td>
+      <td><b>Student EurAI Member</b></td>
       <td>470</td>
       <td>585</td>
       <td>705</td>
