@@ -42,6 +42,10 @@ redirect_from:
 * Rüdiger Dehn (Lino GmbH, Germany)
 * Hao Xu (Renault, France)
 * Sara Shafiee (Technical University of Denmark, Denmark)
+* Roberto Boselli (University of Milano-Bicocca, Italy)
+* Simone DiLeo (Sapienza University of Roma, Italy)
+* Nikola Suzić (University of Trento, Italy)
+* Alessio Trentin (University of Padova, Italy)
 
 
 <!-- * 
