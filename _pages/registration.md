@@ -31,7 +31,7 @@ Below is an overview of registration fees for EurAI members and Student EurAI me
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Only Weekend (Tutorials, Workshops, Doctoral Consortium)</td>
+      <td rowspan="2"><b>Only Weekend</b> (Tutorials, Workshops, Doctoral Consortium)</td>
       <td>EurAI Member</td>
       <td>325</td>
       <td>405</td>
