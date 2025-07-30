@@ -12,7 +12,7 @@ redirect_from:
 - "/about.html"
 ---
 
-# [Call for papers](https://confws.github.io/call-for-papers/) is open now.
+# [Registration](https://confws.github.io/registration/) is open now.
 
 **27th International Workshop on Configuration (ConfWS 2025)**
 
