@@ -17,14 +17,47 @@ Please register at [https://ecai2025.org/registration/](https://ecai2025.org/reg
 
 ### Registration fees
 
-Below is an overview of registration fees for EurAI members and student members:
+Below is an overview of registration fees for EurAI members and tudent EurAI members:
 
-| Package                                                  | Category             | Early (€) | Standard (€) | Onsite (€) |
-|-----------------------------------------------------------|----------------------|-----------|--------------|------------|
-| Only Weekend (Tutorials, Workshops, Doctoral Consortium) | EurAI Member         | 325       | 405          | 485        |
-|                                                           | Student EurAI Member | 210       | 265          | 315        |
-| ECAI Main Conference + Weekend (incl. PAIS, Tutorials, etc.) | EurAI Member       | 710       | 885          | 1.060      |
-|                                                           | Student EurAI Member | 470       | 585          | 705        |
+<table>
+  <thead>
+    <tr>
+      <th>Package</th>
+      <th>Category</th>
+      <th>Early (€)</th>
+      <th>Standard (€)</th>
+      <th>Onsite (€)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Only Weekend (Tutorials, Workshops, Doctoral Consortium)</td>
+      <td>EurAI Member</td>
+      <td>325</td>
+      <td>405</td>
+      <td>485</td>
+    </tr>
+    <tr>
+      <td>Student EurAI Member</td>
+      <td>210</td>
+      <td>265</td>
+      <td>315</td>
+    </tr>
+    <tr>
+      <td rowspan="2">ECAI Main Conference + Weekend (incl. PAIS, Tutorials, etc.)</td>
+      <td>EurAI Member</td>
+      <td>710</td>
+      <td>885</td>
+      <td>1,060</td>
+    </tr>
+    <tr>
+      <td>Student EurAI Member</td>
+      <td>470</td>
+      <td>585</td>
+      <td>705</td>
+    </tr>
+  </tbody>
+</table>
 
 > **Note:** All workshop registered participants are cordially invited to attend the *Gala Dinner* on the evening of **Saturday, October 25, 2025**.
 > The dinner is offered free of charge by the organizers.
