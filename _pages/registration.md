@@ -59,7 +59,7 @@ Below is an overview of registration fees for EurAI members and tudent EurAI mem
   </tbody>
 </table>
 
-> **Note:** All workshop registered participants are cordially invited to attend the *Gala Dinner* on the evening of **Saturday, October 25, 2025**.
+> **Note:** All registered ConfWS participants are cordially invited to attend the *Gala Dinner* on the evening of **Saturday, October 25, 2025**.
 > The dinner is offered free of charge by the organizers.
 
 ### EurAI member
