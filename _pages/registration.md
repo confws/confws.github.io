@@ -17,7 +17,7 @@ Please register at [https://ecai2025.org/registration/](https://ecai2025.org/reg
 
 ### Registration fees
 
-Below is an overview of registration fees for EurAI members and tudent EurAI members:
+Below is an overview of registration fees for EurAI members and Student EurAI members:
 
 <table>
   <thead>
