@@ -11,9 +11,9 @@ redirect_from:
 | -------------------- | --------------------- |
 | Paper Submission     | July 17, 2025 ~~July 7, 2025~~ ~~June 23, 2025~~ (AOE time)|
 | Paper Notification   | August 11, 2025 ~~July 31, 2025~~ (AOE time) |
-| Camera ready         | TBC |
-| Early registration   | TBC |
-| Registration deadline| TBC |
+| Camera ready         | September 30, 2025 |
+| Early registration   | September 3, 2025 |
+| Standard registration | October 12, 2025 |
 | Workshop             | October 25-26, 2025 |
 
 ## Overview
