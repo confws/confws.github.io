@@ -12,7 +12,9 @@ redirect_from:
 - "/about.html"
 ---
 
+<!--
 # [Registration](https://confws.github.io/registration/) is open now.
+-->
 
 **27th International Workshop on Configuration (ConfWS 2025)**
 

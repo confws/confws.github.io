@@ -118,9 +118,9 @@ author:
   # - label: "ITIS Software"
   #   icon: fa fa-info-circle
   #   url: https://itis.uma.es/
-  - label: Follow ConfWS on Twitter
-    icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/ConfigurationWS
+#  - label: Follow ConfWS on Twitter
+#    icon: fab fa-fw fa-twitter-square
+#    url: https://twitter.com/ConfigurationWS
   - label: Follow ConfWS on LinkedIn
     icon: fab fa-fw fa-linkedin
     url: https://www.linkedin.com/groups/3718387/
@@ -130,10 +130,13 @@ author:
   #- label: Málaga Skyline logo by Miguel Sánchez Espinosa
   #  icon: fa fa-info-circle
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
-  sponsors: 
-  - name: 'Siemens'
-    logo: assets/confws/siemens-logo.png
-    url: https://www.siemens.com/global/en.html
+  sponsors:
+  - name: 'Sapienza'
+    logo: assets/confws/ML_sinistra_neg_202EC.ai
+    url: https://www.uniroma1.it/en
+#  - name: 'Siemens'
+#    logo: assets/confws/siemens-logo.png
+#    url: https://www.siemens.com/global/en.html
   # projects: 
   # - name: 'Tasova Plus'
   #   logo: assets/confws/tasovaplus.png
