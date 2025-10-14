@@ -132,8 +132,20 @@ author:
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
   sponsors:
   - name: 'Sapienza'
-    logo: assets/confws/ML_sinistra_neg_202EC.ai
+    logo: assets/confws/sapienza.svg
     url: https://www.uniroma1.it/en
+  - name: 'Padova'
+    logo: assets/confws/padova.png
+    url: https://www.unipd.it/en/
+  - name: 'TUGraz'
+    logo: assets/confws/tugraz.png
+    url: https://www.tugraz.at/home
+  - name: 'ASAI'
+    logo: assets/confws/asai.png
+    url: https://www.asai.ac.at/en/
+  - name: 'MICS'
+    logo: assets/confws/MICS_logo.png
+    url: https://www.mics.tech
 #  - name: 'Siemens'
 #    logo: assets/confws/siemens-logo.png
 #    url: https://www.siemens.com/global/en.html
@@ -150,9 +162,9 @@ author:
   # - name: METAMORFOSIS (FEDER\_US-1381375)
 footer:
   links:
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/ConfigurationWS
+#  - label: Twitter
+#    icon: fab fa-fw fa-twitter-square
+#    url: https://twitter.com/ConfigurationWS
   - label: LinkedIn
     icon: fab fa-fw fa-linkedin
     url: https://www.linkedin.com/groups/3718387/

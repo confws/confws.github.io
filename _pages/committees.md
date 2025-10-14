@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ## Workshop Chairs
-* Elise Vareilles (Toulouse University, IMT Mines Albi, France)
 * Chiara Grosso (DIAG, University Sapienza of Rome, Italy)
 * Enrico Sandrin (DTG, University of Padua, Italy)
 * Viet-Man Le (Graz University of Technology, Austria)
@@ -46,6 +45,7 @@ redirect_from:
 * Simone DiLeo (Sapienza University of Roma, Italy)
 * Nikola Suzić (University of Trento, Italy)
 * Alessio Trentin (University of Padova, Italy)
+* Elise Vareilles (Toulouse University, IMT Mines Albi, France)
 
 
 <!-- * 
