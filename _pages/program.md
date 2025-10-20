@@ -59,14 +59,14 @@ Author / Presenter Information:<br>
 |                   | *Sunday, 26th October, 2025* |
 | ------------------|----------------------------------------------------|
 | | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges in configuration systems --*  |
-| 9:00 - 9:15      | 	Cipriano Forza and Chiara Grosso.<br/>**Introduction on sustainability scenario and urgency to be implemented** |
+| 9:00 - 9:15      | 	**Twin digital and geen transition: Challenges and opportunities sustainability scenario** |
 | 9:15 - 9:30     | 	**Gottfried Schenner**, Giray Havur, Sophie Rogenhofer, Stefan Wallner, Erwin Filtz and Tassilo Pellegrini.<br/>**A lifecycle- and sustainability-aware product configuration model for modular industrial systems** |
 | 9:30 - 9:45     | Alexander Felfernig, **Damian Garber**, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Sustainability Evaluation Metrics for Configuration Systems** |
 | 9:45 - 10:00     | 	**Gerhard Leitner**.<br/>**The Role of Generative AI in the Future of Smarthome Configuration** |
 | 10:15 - 10:30     | **Chiara Grosso**, Roberta Palmieri and Giuseppe Bonifazi.<br/>**Exploring the Potential of Configurator Adoption in the Circular Management of Construction and Demolition Waste** |
 | 10:30 - 11:00 | *Coffee Break* |
 | 11:00 - 12:00      | **Challenges and Future perspective of Configuration technologies and tools** |
-| 12:00 - 12:30 | **Closing and Best Paper Awards**<br/>**Next ConfWS'2026** |
+| 12:00 - 12:30 | **Closing and Best Paper Awards** |
 
 ## Social Dinner
 - Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
