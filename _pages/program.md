@@ -8,72 +8,93 @@ redirect_from:
 - "/agenda/"
 ---
 
-<sub>**The proceedings of ConfWS'2024 can be downloaded [here](/assets/confws/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub>
+<sub>**The proceedings of ConfWS'2025 can be downloaded [here](/assets/confws/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub>
 
 <!--
 <sub>*There will be an "informal" self-organized meeting/dinner on Tuesday afternoon for those that arrive on Tuesday. For those interested, here are some places we recommend for the meeting (all of them are in Málaga downtown next to the Cathedral): [El Pimpi](https://goo.gl/maps/JiYcUhMmUfqGqxUaA), [Casa Lola](https://goo.gl/maps/tzKWhdu82wrNe1o4A), [Las Merchanas](https://goo.gl/maps/2paBoGtEJ7VCU8Qk7).*</sub>
 
 -->
 
-<sub>All times are in the Central European Time CET (UTC +1)<br>
+<sub>All times are in the Central European Time CET (UTC +1)
+<!--
+<br>
 Author / Presenter Information:<br>
 <b>Keynotes:</b> 30 min for presentation + 10 min for questions<br>
-<b>Papers:</b> 15 min for presentation + 5 min for questions    </sub>
+<b>Papers:</b> 15 min for presentation + 5 min for questions
+-->
+</sub>
 
 
-|                   | *Monday, 2nd September 2024* |
+|                   | *Saturday, 25th October 2025* |
 | ------------------|----------------------------------------------------|
+<!--
 | 8:15 - 9:00  | Registration  |
+-->
 | 9:00 - 9:30  | Opening and welcome notes  |
-|   | &nbsp;&nbsp;&nbsp;*-- Technical Session 1: Configuration --*  |
-| 9:30 - 9:50      | Thomas Pouré, Stephanie Roussel, Elise Vareilles and Gauthier Picard.<br/>**Configuration of Heterogeneous Agent Fleet: a Preliminary Generic Model** |
-| 9:50 - 10:10      | Florian Jost and Carsten Sinz.<br/>**Challenges in Automotive Hardware-Software Co-Configuration** |
+|   | &nbsp;&nbsp;&nbsp;*-- Session 1: Configuration Models and Reasoning --*  |
+| 9:30 - 9:45      | Alexander Felfernig, Damian Garber, **Viet-Man Le** and Sebastian Lubos.<br/>**QuickXPlain Explanations for Feature Model Configuration** |
+| 9:45 - 10:00      | **Boi Schaefer** and Lothar Hotz.<br/>**From 4GL Spreadsheet Computations to Constraint Model Definitions – A Development Process** |
+| 10:00 - 10:15      | **Franz Wotawa**, Julian Proenza, Manuel Barranco and Alberto Ballesteros.<br/>**The Task Assignment Problem for Safety-Critical Networks Considering Communication and Criticality** |
+| 10:15 - 10:30      | Christian Bähnisch, **Lothar Hotz**, Alexander Felfernig and Sebastian Lubos.<br/>**Test-driven Generation of Constraint Satisfaction Problems Using Large Language Models** |
 | 10:30 - 11:00 | *Coffee Break* |
+<!--
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 11:00 - 11:40      | Tacton: Patrik Östberg and Sonja Arce<br/>**Inspiring & enabling manufacturers to shape and build a sustainable future** |
-|   | &nbsp;&nbsp;&nbsp;*-- Technical Session 2: Configuration tasks --*  |
-| 11:40 - 12:00     | Irene Campo Gay, Lars Hvam and Johan Ernfors.<br/>**Prospective and retrospective approaches to integrate life cycle assessment in configurators: A multiple case study in the construction industry** |
-| 12:00 - 12:20     | Bart Deschoolmeester and Elise Vareilles.<br/>**Premises, challenges and suggestions for modelling building knowledge using the configuration paradigm.** |
+-->
+|   | &nbsp;&nbsp;&nbsp;*-- Session 2: AI, LLM, and Configuration in Industrial and Automotive Systems --*  |
+| 11:00 - 11:15      | **Damian Garber**, Tamim Burgstaller, Sebastian Lubos, Patrick Ratschiller and Alexander Felfernig.<br/>**Towards LLM-enhanced Compiler Optimization** |
+| 11:15 - 11:30     | **Damian Garber**, Sebastian Lubos, Viet-Man Le and Alexander Felfernig.<br/>**Towards Compiler Parameter Recommendation Using Code Embeddings** |
+| 11:30 - 11:45     | **Daniel Bischoff**, Kaan Ekiz and Tobias Nerz.<br/>**Complexity Indicators and Their Impact on Algorithm Performance in Automotive Part Selection** |
+| 11:45 - 12:00     | **Carsten Sinz** and Daniel Bischoff.<br/>**Heterogeneity: A Challenge in Automotive Product Configuration** |
+| 12:00 - 12:15     | Julius Oluwole, **Enrico Sandrin** and Cipriano Forza.<br/>**Toward a Contingent-Configurational Perspective on Configuration Systems in the AEC Industry** |
 | 12:30 - 14:00 | *Lunch break* |
+<!--
 |  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 14:00 - 14:40      | Siemens: Sophie Rogenhofer.<br/>**Sustainability at Siemens - Scaling sustainability impact** |
-|  | &nbsp;&nbsp;&nbsp;*-- Technical Session 3: Green configuration --*  |
-| 14:40 - 15:00     | Andreas Falkner, Richard Comploi-Taupe, Katrin Müller and Sophie Rogenhofer.<br/>**Requirements and Architectures for Green Configuration** |
-| 15:00 - 15:20     | Carlos March Moya, Christian Perez and Miguel A. Salido.<br/>**Developing an Algorithm Selector for Green Configuration in Scheduling Problems** |
+-->
+|  | &nbsp;&nbsp;&nbsp;*-- Session 3: AI, LLM, and Generative Design --*  |
+| 14:00 - 14:10      | **Jovan Mihajlovic**, Alexander Felfernig and Viet-Man Le.<br/>**Towards LLM-based Configuration and Generation of Books** |
+| 14:10 - 14:15     | **Alexander Felfernig**, Damian Garber, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Towards LLM-Enhanced Product Line Scoping** |
+| 14:15 - 14:30     | **Jonathan Raines**, David Barton and Ben Hicks.<br/>**Generative Design as a Configuration Problem** |
 | 15:30 - 16:00 | *Coffee Break* |
-|  | &nbsp;&nbsp;&nbsp;*-- Technical Session 4: Sustainabilty & Configuration applications (I) --*  |
-| 16:00 - 16:20      | Christian Perez, Carlos March and Miguel A. Salido.<br/>**Instance Configuration for Sustainable Job Shop Scheduling** |
-| 16:20 - 16:40      | Andrea Petterle, Enrico Sandrin and Cipriano Forza.<br/>**Product visualization in configurators: laying the foundations for a comparative description** |
-| 16:40 - 17:00      | Franz Wotawa.<br/>**Using Answer Set Programming for Assigning Tasks to Computing Nodes** |
+|  | &nbsp;&nbsp;&nbsp;*-- Session 4: User experience --*  |
+| 16:00 - 16:15      | Achraf Arouya, Enrico Sandrin, Cipriano Forza and **Alessio Trentin**.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators** |
+| 16:15 - 16:30      | **Chiara Grosso**, Marco Scatto and Karen Venturini.<br/>**Designing for Circularity: Exploring Configurator-Based Decision Support For Eco-design in Food Packaging** |
+| 16:30 - 17:30      | *Bringing It together: perspectives from day one* |
+<!--
 | 17:00 - 18:30 | *Future and Next ConfWS'2025* |
+-->
 |  | *End of first day* |
-| 20:30 - 00:00 | *Gala Dinner* (see below) |
+| 19:30 - 00:00 | *Social Dinner* (see below) |
 
 
-|                   | *Tuesday, 3rd September, 2024* |
+|                   | *Sunday, 26th October, 2025* |
 | ------------------|----------------------------------------------------|
+<!--
 | 8:15 - 9:00  | Registration  |
-| | &nbsp;&nbsp;&nbsp;*-- Technical Session 5: Sustainabilty & Configuration applications (II) --*  |
-| 9:00 - 9:20      | 	Sebastian Lubos, Alexander Felfernig, Lothar Hotz, Thi Ngoc Trang Tran, Seda Polat-Erdeniz, Viet-Man Le, Damian Garber and Merfat El-Mansi.<br/>**Responsible Configuration Using LLM-based Sustainability-Aware Explanations** |
-| 9:20 - 9:40 (online)     | 	Mathias Uta, Viet-Man Le, Alexander Felfernig, Damian Garber, Gottfried Schenner and Thi Ngoc Trang Tran.<br/>**Semantics-Preserving Merging of Feature Models** |
-| 9:40 - 10:00 (online)     | Damian Garber, Alexander Felfernig, Viet-Man Le, Tamim Burgstaller and Merfat Elmansi.<br/>**An extensive comparison of preprocessing methods in the context of configuration space learning** |
-| 10:00 - 10:30 | *Coffee Break* |
-|  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
-| 10:30 - 11:10      | Cosling: Jean-Guillaume Fages.<br/>**Automating complex computations with Cosling Configurator** |
+-->
+| | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges in configuration systems --*  |
+| 9:00 - 9:15      | 	Cipriano Forza and Chiara Grosso.<br/>**Introduction on sustainability scenario and urgency to be implemented** |
+| 9:15 - 9:30     | 	**Gottfried Schenner**, Giray Havur, Sophie Rogenhofer, Stefan Wallner, Erwin Filtz and Tassilo Pellegrini.<br/>**A lifecycle- and sustainability-aware product configuration model for modular industrial systems** |
+| 9:30 - 9:45     | Alexander Felfernig, **Damian Garber**, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Sustainability Evaluation Metrics for Configuration Systems** |
+| 9:45 - 10:00     | 	**Gerhard Leitner**.<br/>**The Role of Generative AI in the Future of Smarthome Configuration** |
+| 10:15 - 10:30     | **Chiara Grosso**, Roberta Palmieri and Giuseppe Bonifazi.<br/>**Exploring the Potential of Configurator Adoption in the Circular Management of Construction and Demolition Waste** |
+| 10:30 - 11:00 | *Coffee Break* |
+| 11:00 - 12:00      | *Challenges and Future perspective of Configuration technologies and tools* |
+| 12:00 - 12:30 | *Closing and Best Paper Awards*<br/>*Next ConfWS'2025* |
+<!--
 |  | &nbsp;&nbsp;&nbsp;*-- Technical Session 6: AI & configuration --*  |
 | 11:10 - 11:30      | Lothar Hotz, Christian Bähnisch, Sebastian Lubos, Alexander Felfernig, Albert Haag and Johannes Twiefel.<br/>**Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems** |
 | 11:30 - 11-50      | Philipp Kogler, Wei Chen, Andreas Falkner, Alois Haselboeck and Stefan Wallner.<br/>**Configuration Copilot: Towards Integrating Large Language Models and Constraints** |
 | 12:00 - 12:30 | *Closing and Best Paper Awards* |
 | 12:30 - 14:00 | *Lunch* |
 | 14:00 - 15:30 | *ConfWS Meeting* |
+-->
 
-
-## Gala Dinner
-- Monday 2nd Sep. 20:30h @ [TOMÀQUET Bar Restaurant](https://www.restauranttomaquet.com/)
+## Social Dinner
+- Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
   
-The gala dinner of ConfWS'24 will be take placed at **[TOMÀQUET Bar Restaurant](https://maps.app.goo.gl/3co9AkXTwA7VhzBr8)**, an authentic Catalan farmhouse located in a natural oasis surrounded by trees in the middle of Girona.
+The social dinner of ConfWS'25 will take placed at **[Osteria Al 15](https://www.google.com/maps/place/Osteria+Al+15/@44.4873483,11.3410971,825m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477fd4c1e679805d:0xbd4faa3163eef269!8m2!3d44.4873483!4d11.3410971!16s%2Fg%2F1tv3mjl7?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D)**, an intimate, wood-beamed trattoria serving traditional Bolognese pasta and gnocchi, located in the heart of the city.
 
-![TOMÀQUET Bar Restaurant](/assets/confws/social_dinner.jpg "TOMÀQUET Bar Restaurant")
+![Osteria Al 15](/assets/confws/social_dinner.jpg "Osteria Al 15")
 
 <!--
 To arrive to the restaurant, the best option is **by bus - Line 11 -** which takes you directly from the conference venue or from the downtown. From the conference venue (E.T.S. Ingeniería Informática) take the bus at the initial stop *Louis Pasteur* with direction *El Palo (P. Virginia)*. Coming from Málaga downtown you can take it at the *Alameda Avenue* direction *El Palo (P. Virginia)*.
