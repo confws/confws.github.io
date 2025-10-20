@@ -64,7 +64,7 @@ Author / Presenter Information:<br>
 | 10:15 - 10:30     | **Chiara Grosso**, Roberta Palmieri and Giuseppe Bonifazi.<br/>**Exploring the Potential of Configurator Adoption in the Circular Management of Construction and Demolition Waste** |
 | 10:30 - 11:00 | *Coffee Break* |
 | 11:00 - 12:00      | **Challenges and Future perspective of Configuration technologies and tools** |
-| 12:00 - 12:30 | **Closing and Best Paper Awards**<br/>**Next ConfWS'2025** |
+| 12:00 - 12:30 | **Closing and Best Paper Awards**<br/>**Next ConfWS'2026** |
 
 ## Social Dinner
 - Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
