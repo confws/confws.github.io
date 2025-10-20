@@ -49,7 +49,7 @@ Author / Presenter Information:<br>
 |  | &nbsp;&nbsp;&nbsp;*-- Session 4: User experience --*  |
 | 16:00 - 16:15      | Achraf Arouya, Enrico Sandrin, Cipriano Forza and **Alessio Trentin**.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators** |
 | 16:15 - 16:30      | **Chiara Grosso**, Marco Scatto and Karen Venturini.<br/>**Designing for Circularity: Exploring Configurator-Based Decision Support For Eco-design in Food Packaging** |
-| 16:30 - 17:30      | *Bringing It together: perspectives from day one* |
+| 16:30 - 17:30      | **Bringing It together: perspectives from day one** |
 |  | *End of first day* |
 | 19:30 - 00:00 | *Social Dinner* (see below) |
 
@@ -63,8 +63,8 @@ Author / Presenter Information:<br>
 | 9:45 - 10:00     | 	**Gerhard Leitner**.<br/>**The Role of Generative AI in the Future of Smarthome Configuration** |
 | 10:15 - 10:30     | **Chiara Grosso**, Roberta Palmieri and Giuseppe Bonifazi.<br/>**Exploring the Potential of Configurator Adoption in the Circular Management of Construction and Demolition Waste** |
 | 10:30 - 11:00 | *Coffee Break* |
-| 11:00 - 12:00      | *Challenges and Future perspective of Configuration technologies and tools* |
-| 12:00 - 12:30 | *Closing and Best Paper Awards*<br/>*Next ConfWS'2025* |
+| 11:00 - 12:00      | **Challenges and Future perspective of Configuration technologies and tools** |
+| 12:00 - 12:30 | **Closing and Best Paper Awards**<br/>**Next ConfWS'2025** |
 
 ## Social Dinner
 - Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
