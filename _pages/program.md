@@ -45,10 +45,12 @@ Author / Presenter Information:<br>
 | 14:00 - 14:10      | **Jovan Mihajlovic**, Alexander Felfernig and Viet-Man Le.<br/>**Towards LLM-based Configuration and Generation of Books** |
 | 14:10 - 14:15     | **Alexander Felfernig**, Damian Garber, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Towards LLM-Enhanced Product Line Scoping** |
 | 14:15 - 14:30     | **Jonathan Raines**, David Barton and Ben Hicks.<br/>**Generative Design as a Configuration Problem** |
-| 15:30 - 16:00 | *Coffee Break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Session 4: User experience --*  |
-| 16:00 - 16:15      | Achraf Arouya, Enrico Sandrin, Cipriano Forza and **Alessio Trentin**.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators** |
-| 16:15 - 16:30      | **Chiara Grosso**, Marco Scatto and Karen Venturini.<br/>**Designing for Circularity: Exploring Configurator-Based Decision Support For Eco-design in Food Packaging** |
+| 14:30 - 14:45      | Achraf Arouya, Enrico Sandrin, Cipriano Forza and **Alessio Trentin**.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators** |
+| 14:45 - 15:00      | **Chiara Grosso**, Marco Scatto and Karen Venturini.<br/>**Designing for Circularity: Exploring Configurator-Based Decision Support For Eco-design in Food Packaging** |
+| 15:00 - 15:30 | **Discussion on Next ConfWS'2026** |
+| 15:30 - 16:00 | *Coffee Break* |
+|  | &nbsp;&nbsp;&nbsp;*-- Session 5: Bringing It together: perspectives from day one --*  |
 | 16:30 - 17:30      | **Bringing It together: perspectives from day one** |
 |  | *End of first day* |
 | 19:30 - 00:00 | *Social Dinner* (see below) |
