@@ -27,9 +27,6 @@ Author / Presenter Information:<br>
 
 |                   | *Saturday, 25th October 2025* |
 | ------------------|----------------------------------------------------|
-<!--
-| 8:15 - 9:00  | Registration  |
--->
 | 9:00 - 9:30  | Opening and welcome notes  |
 |   | &nbsp;&nbsp;&nbsp;*-- Session 1: Configuration Models and Reasoning --*  |
 | 9:30 - 9:45      | Alexander Felfernig, Damian Garber, **Viet-Man Le** and Sebastian Lubos.<br/>**QuickXPlain Explanations for Feature Model Configuration** |
@@ -37,9 +34,6 @@ Author / Presenter Information:<br>
 | 10:00 - 10:15      | **Franz Wotawa**, Julian Proenza, Manuel Barranco and Alberto Ballesteros.<br/>**The Task Assignment Problem for Safety-Critical Networks Considering Communication and Criticality** |
 | 10:15 - 10:30      | Christian Bähnisch, **Lothar Hotz**, Alexander Felfernig and Sebastian Lubos.<br/>**Test-driven Generation of Constraint Satisfaction Problems Using Large Language Models** |
 | 10:30 - 11:00 | *Coffee Break* |
-<!--
-|  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
--->
 |   | &nbsp;&nbsp;&nbsp;*-- Session 2: AI, LLM, and Configuration in Industrial and Automotive Systems --*  |
 | 11:00 - 11:15      | **Damian Garber**, Tamim Burgstaller, Sebastian Lubos, Patrick Ratschiller and Alexander Felfernig.<br/>**Towards LLM-enhanced Compiler Optimization** |
 | 11:15 - 11:30     | **Damian Garber**, Sebastian Lubos, Viet-Man Le and Alexander Felfernig.<br/>**Towards Compiler Parameter Recommendation Using Code Embeddings** |
@@ -47,9 +41,6 @@ Author / Presenter Information:<br>
 | 11:45 - 12:00     | **Carsten Sinz** and Daniel Bischoff.<br/>**Heterogeneity: A Challenge in Automotive Product Configuration** |
 | 12:00 - 12:15     | Julius Oluwole, **Enrico Sandrin** and Cipriano Forza.<br/>**Toward a Contingent-Configurational Perspective on Configuration Systems in the AEC Industry** |
 | 12:30 - 14:00 | *Lunch break* |
-<!--
-|  | &nbsp;&nbsp;&nbsp;*-- Keynote --*  |
--->
 |  | &nbsp;&nbsp;&nbsp;*-- Session 3: AI, LLM, and Generative Design --*  |
 | 14:00 - 14:10      | **Jovan Mihajlovic**, Alexander Felfernig and Viet-Man Le.<br/>**Towards LLM-based Configuration and Generation of Books** |
 | 14:10 - 14:15     | **Alexander Felfernig**, Damian Garber, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Towards LLM-Enhanced Product Line Scoping** |
@@ -59,18 +50,12 @@ Author / Presenter Information:<br>
 | 16:00 - 16:15      | Achraf Arouya, Enrico Sandrin, Cipriano Forza and **Alessio Trentin**.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators** |
 | 16:15 - 16:30      | **Chiara Grosso**, Marco Scatto and Karen Venturini.<br/>**Designing for Circularity: Exploring Configurator-Based Decision Support For Eco-design in Food Packaging** |
 | 16:30 - 17:30      | *Bringing It together: perspectives from day one* |
-<!--
-| 17:00 - 18:30 | *Future and Next ConfWS'2025* |
--->
 |  | *End of first day* |
 | 19:30 - 00:00 | *Social Dinner* (see below) |
 
 
 |                   | *Sunday, 26th October, 2025* |
 | ------------------|----------------------------------------------------|
-<!--
-| 8:15 - 9:00  | Registration  |
--->
 | | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges in configuration systems --*  |
 | 9:00 - 9:15      | 	Cipriano Forza and Chiara Grosso.<br/>**Introduction on sustainability scenario and urgency to be implemented** |
 | 9:15 - 9:30     | 	**Gottfried Schenner**, Giray Havur, Sophie Rogenhofer, Stefan Wallner, Erwin Filtz and Tassilo Pellegrini.<br/>**A lifecycle- and sustainability-aware product configuration model for modular industrial systems** |
@@ -80,14 +65,6 @@ Author / Presenter Information:<br>
 | 10:30 - 11:00 | *Coffee Break* |
 | 11:00 - 12:00      | *Challenges and Future perspective of Configuration technologies and tools* |
 | 12:00 - 12:30 | *Closing and Best Paper Awards*<br/>*Next ConfWS'2025* |
-<!--
-|  | &nbsp;&nbsp;&nbsp;*-- Technical Session 6: AI & configuration --*  |
-| 11:10 - 11:30      | Lothar Hotz, Christian Bähnisch, Sebastian Lubos, Alexander Felfernig, Albert Haag and Johannes Twiefel.<br/>**Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems** |
-| 11:30 - 11-50      | Philipp Kogler, Wei Chen, Andreas Falkner, Alois Haselboeck and Stefan Wallner.<br/>**Configuration Copilot: Towards Integrating Large Language Models and Constraints** |
-| 12:00 - 12:30 | *Closing and Best Paper Awards* |
-| 12:30 - 14:00 | *Lunch* |
-| 14:00 - 15:30 | *ConfWS Meeting* |
--->
 
 ## Social Dinner
 - Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
