@@ -15,7 +15,16 @@ redirect_from:
 
 -->
 
-<sub>All times are in the Central European Time CET (UTC +1)
+<sub>
+**Registration Desk Hours:**
+<br>
+University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00)
+</sub>
+
+
+<sub>**Venue:** Room 1.4, Engineering School
+<br>
+All times are in the Central European Time CET (UTC +1)
 <!--
 <br>
 Author / Presenter Information:<br>
@@ -28,7 +37,7 @@ Author / Presenter Information:<br>
 |                   | *Saturday, 25th October 2025* |
 | ------------------|----------------------------------------------------|
 | 9:00 - 9:30  | Opening and welcome notes  |
-|   | &nbsp;&nbsp;&nbsp;*-- Session 1: Configuration Models and Reasoning --*  |
+|   | &nbsp;&nbsp;&nbsp;*-- Session 1: Configuration Models and Explanation --*<br/>Chair:  Damian Garber   |
 | 9:30 - 9:45      | Alexander Felfernig, Damian Garber, **Viet-Man Le** and Sebastian Lubos.<br/>**QuickXPlain Explanations for Feature Model Configuration**<br/>_10 min + 5 Q&A_ |
 | 9:45 - 10:00      | **Boi Schaefer** and Lothar Hotz.<br/>**From 4GL Spreadsheet Computations to Constraint Model Definitions – A Development Process**<br/>_10 min + 5 Q&A_ |
 | 10:00 - 10:15      | **Franz Wotawa**, Julian Proenza, Manuel Barranco and Alberto Ballesteros.<br/>**The Task Assignment Problem for Safety-Critical Networks Considering Communication and Criticality**<br/>_10 min + 5 Q&A_ |
