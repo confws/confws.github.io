@@ -46,7 +46,7 @@ University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45
 |   | &nbsp;&nbsp;&nbsp;*-- Session 2: AI, LLM, and Configuration in Industrial and Automotive Systems --*<br/>**Chair: Lothar Hotz**  |
 | 11:00 - 11:15      | **Damian Garber**, Tamim Burgstaller, Sebastian Lubos, Patrick Ratschiller and Alexander Felfernig.<br/>**Towards LLM-enhanced Compiler Optimization**<br/>_10 min + 5 Q&A_ |
 | 11:15 - 11:30     | **Damian Garber**, Sebastian Lubos, Viet-Man Le and Alexander Felfernig.<br/>**Towards Compiler Parameter Recommendation Using Code Embeddings**<br/>_10 min + 5 Q&A_ |
-| 11:30 - 11:45     | **Daniel Bischoff**, Kaan Ekiz and Tobias Nerz.<br/>**Complexity Indicators and Their Impact on Algorithm Performance in Automotive Part Selection**<br/>_10 min + 5 Q&A_ |
+| 11:30 - 11:45     | Daniel Bischoff, **Kaan Ekiz** and **Tobias Nerz**.<br/>**Complexity Indicators and Their Impact on Algorithm Performance in Automotive Part Selection**<br/>_10 min + 5 Q&A_ |
 | 11:45 - 12:00     | **Carsten Sinz** and Daniel Bischoff.<br/>**Heterogeneity: A Challenge in Automotive Product Configuration**<br/>_10 min + 5 Q&A_ |
 | 12:00 - 12:15     | Julius Oluwole, **Enrico Sandrin** and Cipriano Forza.<br/>**Toward a Contingent-Configurational Perspective on Configuration Systems in the AEC Industry**<br/>_10 min + 5 Q&A_ |
 | 12:30 - 14:00 | *Lunch break* |
