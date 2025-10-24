@@ -15,14 +15,8 @@ redirect_from:
 
 -->
 
-<sub>
-**Registration Desk Hours:**
-<br>
-University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00)
-</sub>
-
-
-<sub>**Venue:** Room 1.4, Engineering School
+<sub>**Venue:** Room 1.4, Engineering School, University of Bologna
+<br>Viale del Risorgimento, 2, Bologna
 <br>
 All times are in the Central European Time CET (UTC +1)
 <!--
@@ -31,6 +25,12 @@ Author / Presenter Information:<br>
 <b>Keynotes:</b> 30 min for presentation + 10 min for questions<br>
 <b>Papers:</b> 15 min for presentation + 5 min for questions
 -->
+</sub>
+
+<sub>
+**Registration Desk Hours:**
+<br>
+University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00)
 </sub>
 
 
