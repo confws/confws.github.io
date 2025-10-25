@@ -55,7 +55,7 @@ University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45
 | 14:10 - 14:20     | **Alexander Felfernig**, Damian Garber, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Towards LLM-Enhanced Product Line Scoping**<br/>_5 min + 5 Q&A_ |
 | 14:20 - 14:35     | **Jonathan Raines**, David Barton and Ben Hicks.<br/>**Generative Design as a Configuration Problem**<br/>_10 min + 5 Q&A_ |
 |  | &nbsp;&nbsp;&nbsp;*-- Session 4: User experience --*<br/>**Chair: Gerhard Leitner**  |
-| 14:35 - 14:50      | Achraf Arouya, Enrico Sandrin, Cipriano Forza and **Alessio Trentin**.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators**<br/>_10 min + 5 Q&A_ |
+| 14:35 - 14:50      | Achraf Arouya, **Enrico Sandrin**, Cipriano Forza and Alessio Trentin.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators**<br/>_10 min + 5 Q&A_ |
 | 14:50 - 15:05      | **Chiara Grosso**, Marco Scatto and Karen Venturini.<br/>**Designing for Circularity: Exploring Configurator-Based Decision Support For Eco-design in Food Packaging**<br/>_10 min + 5 Q&A_ |
 | 15:05 - 15:30 | **Introducing Next Edition** |
 | 15:30 - 16:00 | *Coffee Break* |
