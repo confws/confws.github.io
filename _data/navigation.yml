@@ -10,8 +10,8 @@ main:
   #  url: /dates/     
   - title: "Program"
     url: /program/
-   - title: "Awards"
-     url: /awards/
+  - title: "Awards"
+    url: /awards/
 #  - title: "Keynotes"
 #    url: /keynotes/
   - title: "Registration"
