@@ -16,6 +16,9 @@ Here you may find links to all previous editions of the ConfWS series, including
 
 ---
 
+- [27th International Workshop on Configuration (ConfWS'25 @ ECAI 2025)](https://confws.github.io/2025/)
+  - Bologna, Italy. Oct 25-26, 2025 <a href="" title="Proceedings"><i class="fa fa-book"></i></a>
+<br><sub>The workshop was co-located within the 28th European Conference on Artificial Intelligence (ECAI 2025).</sub>
 - [26th International Workshop on Configuration (ConfWS'24 @ CP 2024)](https://confws.github.io/2024/)
   - Girona, Spain. Sep 2-3, 2024 <a href="" title="Proceedings"><i class="fa fa-book"></i></a>
 <br><sub>The workshop was co-located within the International Conference on Principles and Practice of Constraint Programming (CP 2024). The role of ``Publicity and Social Media Chair'' was introduced in the organization committee, in charge promoting the workshop on social media and managing the official workshop accounts on <a href="https://www.linkedin.com/company/configuration-workshop/?viewAsMember=true">LinkedIn</a> and <a href="https://x.com/ConfigurationWS">Twitter (X)</a>.</sub>
