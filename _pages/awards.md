@@ -17,6 +17,6 @@ This year, in ConfWS 2025, the Best Paper Award winner were:
 - **Best Student Paper Award**: *From 4GL Spreadsheet Computations to Constraint Model Definitions – A Development Process* by Boi Schaefer and Lothar Hotz.
 
 <!--
-![Best Paper Award](/assets/confws/bestpaperaward.jpeg "Best Paper Award")
+![Best Paper Award](/assets/confws_2025/bestpaperaward.jpeg "Best Paper Award")
 
-![Best Student Paper Award](/assets/confws/beststudentpaperaward.jpeg "Best Student Paper Award")-->
+![Best Student Paper Award](/assets/confws_2025/beststudentpaperaward.jpeg "Best Student Paper Award")-->

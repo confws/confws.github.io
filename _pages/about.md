@@ -2,7 +2,7 @@
 title: '27th International Workshop on Configuration (ConfWS 2025)<br><span style="font-size: 60%;">Bologna, Italy. Oct 25-26, 2025</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/confws/bg_bologna.jpg"
+  overlay_image: "/assets/confws_2025/bg_bologna.jpg"
   overlay_filter: 0.3
   caption: '[Bologna, Italy](https://www.bolognawelcome.com/en/blog/top-10-things-to-do-in-bologna-)'
 author_profile: true
@@ -18,7 +18,7 @@ redirect_from:
 
 **27th International Workshop on Configuration (ConfWS 2025)**
 
-<img style="float: right; width: 400px;" src="assets/confws/confws-2025-logo.png">
+<img style="float: right; width: 400px;" src="assets/confws_2025/confws-2025-logo.png">
 
 ---
 - October 25 – 26, 2025
@@ -39,7 +39,7 @@ The 27th edition in 2025 is co-located within the [28th European Conference on A
 ConfWS'25 welcomes contributions on configuration related topics, configuration problems and models, techniques for obtaining and/or maintaining configuration models, reasoning methods, intelligent user interfaces and business process integration applications and tools, new relevant contributions for product configuration.
 {: .text-justify}
 
-<img style="float: right; width: 200px;" src="assets/confws/rueda.png">
+<img style="float: right; width: 200px;" src="assets/confws_2025/rueda.png">
 
 In its 27th edition, the Workshop on Configuration will dedicate a special focus on <span style="color:green">**Reconfiguring Systems and Practices for Sustainability**</span>. This focus aligns with the growing interest in leveraging system- and practice-level transformations to meet ambitious sustainability goals and effectively implement circular economy principles. The aim of the special focus is to addresses a discussion on the urgent need for innovative approaches to drive sustainable development for a more sustainable future.
 {: .text-justify}
@@ -64,5 +64,5 @@ The aim of the special focus is to addresses a discussion on the urgent need for
 
 ---
 
-![ConfWS will be at Bologna](/assets/confws/bg_bologna.jpg "ConfWS will be at Bologna")
+![ConfWS will be at Bologna](/assets/confws_2025/bg_bologna.jpg "ConfWS will be at Bologna")
 

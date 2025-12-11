@@ -8,7 +8,7 @@ redirect_from:
 - "/agenda/"
 ---
 
-<sub>**The papers of ConfWS'2025 can be downloaded [here](/assets/confws/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub>
+<sub>**The papers of ConfWS'2025 can be downloaded [here](/assets/confws_2025/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub>
 
 <!--
 <sub>*There will be an "informal" self-organized meeting/dinner on Tuesday afternoon for those that arrive on Tuesday. For those interested, here are some places we recommend for the meeting (all of them are in Málaga downtown next to the Cathedral): [El Pimpi](https://goo.gl/maps/JiYcUhMmUfqGqxUaA), [Casa Lola](https://goo.gl/maps/tzKWhdu82wrNe1o4A), [Las Merchanas](https://goo.gl/maps/2paBoGtEJ7VCU8Qk7).*</sub>
@@ -82,7 +82,7 @@ University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45
   
 The social dinner of ConfWS'25 will take placed at **[Osteria Al 15](https://www.google.com/maps/place/Osteria+Al+15/@44.4873483,11.3410971,825m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477fd4c1e679805d:0xbd4faa3163eef269!8m2!3d44.4873483!4d11.3410971!16s%2Fg%2F1tv3mjl7?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D)**, an intimate, wood-beamed trattoria serving traditional Bolognese pasta and gnocchi, located in the heart of the city.
 
-![Osteria Al 15](/assets/confws/social_dinner.jpg "Osteria Al 15")
+![Osteria Al 15](/assets/confws_2025/social_dinner_2025.jpg "Osteria Al 15")
 
 <!--
 To arrive to the restaurant, the best option is **by bus - Line 11 -** which takes you directly from the conference venue or from the downtown. From the conference venue (E.T.S. Ingeniería Informática) take the bus at the initial stop *Louis Pasteur* with direction *El Palo (P. Virginia)*. Coming from Málaga downtown you can take it at the *Alameda Avenue* direction *El Palo (P. Virginia)*.
