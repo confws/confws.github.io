@@ -42,7 +42,7 @@ url: https://confws.github.io
 baseurl: 
 repository: confws/confws.github.io
 teaser: 
-logo: 'assets/confws_2025/confws-2025-logo.png'
+logo: 'assets/confws/confws-2025-logo.png'
 #masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: 'assets/confws_2025/confws-2025-logo.png'
+og_image: 'assets/confws/confws-2025-logo.png'
 social:
   type: 
   name: 
@@ -104,7 +104,7 @@ analytics:
     anonymize_ip: false
 author:
   # name: ''
-  # avatar: assets/confws_2025/uma-logo-transparent.png
+  # avatar: assets/confws/uma-logo-transparent.png
   # bio: ''
   # home: 'https://www.uma.es/'
   # location:
@@ -132,29 +132,29 @@ author:
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
   sponsors:
   - name: 'Sapienza'
-    logo: assets/confws_2025/sapienza.svg
+    logo: assets/confws/sapienza.svg
     url: https://www.uniroma1.it/en
   - name: 'Padova'
-    logo: assets/confws_2025/padova.png
+    logo: assets/confws/padova.png
     url: https://www.unipd.it/en/
   - name: 'TUGraz'
-    logo: assets/confws_2025/tugraz.png
+    logo: assets/confws/tugraz.png
     url: https://www.tugraz.at/home
   - name: 'ASAI'
-    logo: assets/confws_2025/asai.png
+    logo: assets/confws/asai.png
     url: https://www.asai.ac.at/en/
   - name: 'MICS'
-    logo: assets/confws_2025/MICS_logo.png
+    logo: assets/confws/MICS_logo.png
     url: https://www.mics.tech
 #  - name: 'Siemens'
-#    logo: assets/confws_2025/siemens-logo.png
+#    logo: assets/confws/siemens-logo.png
 #    url: https://www.siemens.com/global/en.html
   # projects: 
   # - name: 'Tasova Plus'
-  #   logo: assets/confws_2025/tasovaplus.png
+  #   logo: assets/confws/tasovaplus.png
   #   url: http://tasova.uma.es/
   # - name: DAEMON
-  #   logo: assets/confws_2025/daemon.png
+  #   logo: assets/confws/daemon.png
   #   url: https://h2020daemon.eu/
   # - name: IRIS (PID2021-122812OB-I00)
   # - name: LEIA (UMA18-FEDERJA-157)
