@@ -170,7 +170,7 @@ footer:
     url: https://www.linkedin.com/groups/3718387/
 include:
 - ".htaccess"
-- _pages
+# - _pages
 exclude:
 - "*.sublime-project"
 - "*.sublime-workspace"
