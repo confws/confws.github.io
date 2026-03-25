@@ -12,7 +12,7 @@ redirect_from:
 | Paper Submission     | May 07, 2026 (AOE time)|
 | Paper Notification   | May 30, 2026 (AOE time) |
 | Camera ready         | June 27, 2026 |
-| Early registration   | TBD |
+| Early registration   | June 15, 2026 |
 | Standard registration | TBD |
 | Workshop             | August 15-16, 2026 |
 
@@ -65,7 +65,7 @@ Designing  solutions for critical environment. Mobility and sustainability. Smar
 Going beyond traditional configuration approaches opening up new horizons.
 -->
 
-#### <span style="color:green">Reconfiguring Systems and Practices for Sustainability: An Integrated Approach</span>
+<!-- #### <span style="color:green">Reconfiguring Systems and Practices for Sustainability: An Integrated Approach</span>
 
 _Pushing the boundaries of reconfiguration strategies for sustainability_
 
@@ -82,7 +82,7 @@ The special focus welcomes studies from various sectors (e.g., mobility, energy,
 {: .text-justify}
 
 Researchers and practitioners are encouraged to share theoretical insights, practical applications, and technological innovations that advance the design and implementation of reconfiguration strategies, fostering more sustainable and adaptive systems. As well as research that address the following themes (but not limited to):
-{: .text-justify}
+{: .text-justify} -->
 
 - **Reconfiguration Strategies and Tools**: approaches for integrating sustainability into production systems, including modular design, reconfigurable manufacturing systems (RMS), and adaptive business models.
 {: .text-justify}
@@ -108,12 +108,12 @@ Researchers and practitioners are encouraged to share theoretical insights, prac
 - **Position statements** and **problem instances** can be submitted as **short papers** and must be between 5 and 9 pages (including references).
 - **Published articles:** It is possible to submit already published or submitted articles. In that case, submit both a **one-page abstract** (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
 
-Full and short papers submitted to ConfWS 2025 must be original. The submission, or a highly similar version of it, cannot have been published or accepted in a journal or another conference proceedings. Further, submissions must not be concurrently under consideration for publication or presentation elsewhere. In this case, consider to submit your work as a **published article** (one-page abstract).
+Full and short papers submitted to ConfWS 2026 must be original. The submission, or a highly similar version of it, cannot have been published or accepted in a journal or another conference proceedings. Further, submissions must not be concurrently under consideration for publication or presentation elsewhere. In this case, consider to submit your work as a **published article** (one-page abstract).
 
 Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
 {: .text-justify}
 
-**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws2025).
+**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws2026).
 
 **Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the **one-column template**.
 - [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)

@@ -6,11 +6,12 @@ sitemap: false
 classes: wide
 ---
 
-**TBD**
 <!-- Registration is open! -->
+Registration will be via the [IJCAI-ECAI 2026](https://2026.ijcai.org/) webpage.
 
 ### Registration deadlines
-**TBD**
+
+See [IJCAI-ECAI 2026](https://2026.ijcai.org/) webpage.
 {% comment %}
 - **Early Registration:** From July 2, 2025 to **September 3, 2025**
 - **Standard Registration:** From September 4, 2025 to **October 12, 2025**
@@ -27,10 +28,11 @@ You can apply for membership at: [eurai.org/applications/eurai-membership](https
 
 > _Please apply well in advance, as membership approval may take several days._
 
+{% comment %}
 ### Registration fees
 
 **TBD**
-{% comment %}
+
 Below is an overview of registration fees for EurAI members and Student EurAI members:
 
 <table>
