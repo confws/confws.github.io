@@ -1,6 +1,7 @@
 ---
 title: '28th International Workshop on Configuration (ConfWS 2026)<br><span style="font-size: 60%;">Bremen, Germany. August 15-16, 2026</span>'
 permalink: "/"
+excerpt: " "
 header:
   overlay_image: "assets/confws/bremen_weser.jpg"
   overlay_filter: 0.3
