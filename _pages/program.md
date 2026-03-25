@@ -15,27 +15,30 @@ redirect_from:
 
 -->
 
-<sub>**Venue:** Room 1.4, Engineering School, University of Bologna
+<!-- <sub>**Venue:** Room 1.4, Engineering School, University of Bologna
 <br>Viale del Risorgimento, 2, Bologna
 <br>
 All times are in the Central European Time CET (UTC +1)
-<!--
+
 <br>
 Author / Presenter Information:<br>
 <b>Keynotes:</b> 30 min for presentation + 10 min for questions<br>
 <b>Papers:</b> 15 min for presentation + 5 min for questions
--->
-</sub>
+
+</sub> -->
 
 <sub>
 **Registration Desk Hours:**
 <br>
-University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00)
+**TBD**
+<!-- University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00) -->
 </sub>
 
 
-|                   | *Saturday, 25th October 2025* |
+|                   | *Saturday, 15th August 2026* |
 | ------------------|----------------------------------------------------|
+| | **TBD** |
+{% comment %}
 | 9:00 - 9:30  | Opening and welcome notes  |
 |   | &nbsp;&nbsp;&nbsp;*-- Session 1: Configuration Models and Explanation --*<br/>**Chair:  Damian Garber**   |
 | 9:30 - 9:45      | Alexander Felfernig, Damian Garber, **Viet-Man Le** and Sebastian Lubos.<br/>**QuickXPlain Explanations for Feature Model Configuration**<br/>_10 min + 5 Q&A_ |
@@ -63,10 +66,13 @@ University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45
 | 16:30 - 17:30      | **Bringing It together: perspectives from day one** |
 |  | *End of first day* |
 | 19:30 - 00:00 | *Social Dinner* (see below) |
+{% endcomment %}
 
-
-|                   | *Sunday, 26th October, 2025* |
+|                   | *Sunday, 16th August, 2026* |
 | ------------------|----------------------------------------------------|
+| | **TBD** |
+{% comment %}
+| | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges  in industry systems --*<br/>**Chair:  Cipriano Forza**  |
 | | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges  in industry systems --*<br/>**Chair:  Cipriano Forza**  |
 | 9:15 - 9:30      | 	Joachim Baumeister, Susana Hahn, Konstantin Herud, Max Ostrowski, Jochen Reutelshöfer, **Nicolas Rühling**, Torsten Schaub and Philipp Wanko<br/>**Towards Industrial-scale Product Configuration**<br/>_10 min + 5 Q&A_ |
 | 9:30 - 9:45     | 	**Gottfried Schenner**, Giray Havur, Sophie Rogenhofer, Stefan Wallner, Erwin Filtz and Tassilo Pellegrini.<br/>**A lifecycle- and sustainability-aware product configuration model for modular industrial systems**<br/>_10 min + 5 Q&A_ |
@@ -76,13 +82,17 @@ University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45
 | 10:30 - 11:00 | *Coffee Break* |
 | 11:00 - 12:00      | **Across the Configuration Universe:Evolution, Challenges and Future Directions**<br/> |
 | 12:00 - 12:30 | **Closing and Best Paper Awards** |
+{% endcomment %}
 
 ## Social Dinner
+**TBD**
+{% comment %}
 - Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
   
 The social dinner of ConfWS'25 will take placed at **[Osteria Al 15](https://www.google.com/maps/place/Osteria+Al+15/@44.4873483,11.3410971,825m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477fd4c1e679805d:0xbd4faa3163eef269!8m2!3d44.4873483!4d11.3410971!16s%2Fg%2F1tv3mjl7?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D)**, an intimate, wood-beamed trattoria serving traditional Bolognese pasta and gnocchi, located in the heart of the city.
 
 ![Osteria Al 15](../assets/confws/social_dinner_2025.jpg "Osteria Al 15")
+{% endcomment %}
 
 <!--
 To arrive to the restaurant, the best option is **by bus - Line 11 -** which takes you directly from the conference venue or from the downtown. From the conference venue (E.T.S. Ingeniería Informática) take the bus at the initial stop *Louis Pasteur* with direction *El Palo (P. Virginia)*. Coming from Málaga downtown you can take it at the *Alameda Avenue* direction *El Palo (P. Virginia)*.

@@ -4,7 +4,12 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "activesupport", ">= 4.1.11"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'mutex_m'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

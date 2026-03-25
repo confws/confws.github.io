@@ -6,14 +6,18 @@ sitemap: false
 classes: wide
 ---
 
-Registration is open!
+**TBD**
+<!-- Registration is open! -->
 
 ### Registration deadlines
+**TBD**
+{% comment %}
 - **Early Registration:** From July 2, 2025 to **September 3, 2025**
 - **Standard Registration:** From September 4, 2025 to **October 12, 2025**
 - **Onsite Registration:** From October 25, 2025 to **October 30, 2025**
 
 Please register at [https://ecai2025.org/registration/](https://ecai2025.org/registration/)
+{% endcomment %}
 
 ### EurAI member
 
@@ -25,6 +29,8 @@ You can apply for membership at: [eurai.org/applications/eurai-membership](https
 
 ### Registration fees
 
+**TBD**
+{% comment %}
 Below is an overview of registration fees for EurAI members and Student EurAI members:
 
 <table>
@@ -66,7 +72,7 @@ Below is an overview of registration fees for EurAI members and Student EurAI me
     </tr>
   </tbody>
 </table>
-<!--
+
 > **Note:** All registered ConfWS participants are cordially invited to attend the *Gala Dinner* on the evening of **Saturday, October 25, 2025**.
 > The dinner is offered free of charge by the organizers.
--->
+{% endcomment %}

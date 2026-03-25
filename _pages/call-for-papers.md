@@ -9,12 +9,12 @@ redirect_from:
 
 | Important dates                              |
 | -------------------- | --------------------- |
-| Paper Submission     | July 17, 2025 ~~July 7, 2025~~ ~~June 23, 2025~~ (AOE time)|
-| Paper Notification   | August 11, 2025 ~~July 31, 2025~~ (AOE time) |
-| Camera ready         | September 30, 2025 |
-| Early registration   | September 3, 2025 |
-| Standard registration | October 12, 2025 |
-| Workshop             | October 25-26, 2025 |
+| Paper Submission     | May 07, 2026 (AOE time)|
+| Paper Notification   | May 30, 2026 (AOE time) |
+| Camera ready         | June 27, 2026 |
+| Early registration   | TBD |
+| Standard registration | TBD |
+| Workshop             | August 15-16, 2026 |
 
 ## Overview
 
@@ -127,8 +127,8 @@ Each submission will be subject to peer review by at least two members of the pr
 Latex users should modify the following code placed at the start of the Latex document as follows:
 
 ```
-\copyrightyear{2025}
-\conference{ConfWS'25: 27th International Workshop on Configuration, Oct 25--26, 2025, Bologna, Italy}
+\copyrightyear{2026}
+\conference{ConfWS'26: 28th International Workshop on Configuration, Aug 15--16, 2026, Bremen, Germany}
 ```
 
 Word users should modify the same information at the bottom of the first page.
@@ -136,11 +136,11 @@ Word users should modify the same information at the bottom of the first page.
 **Publication:**
 The proceedings will be published in the [CEUR Workshop Proceedings library](https://ceur-ws.org/). 
 
-At least one author of each accepted paper must register and present the paper in ConfWS'25 in order for the submission to be published.
+At least one author of each accepted paper must register and present the paper in ConfWS'26 in order for the submission to be published.
 
 
 ## Best Paper Award
-ConfWS'25 again plans *Best Paper Awards*.
+ConfWS'26 again plans *Best Paper Awards*.
 Two papers will be recognized: 
 - The best paper.
 - The best PhD student paper.

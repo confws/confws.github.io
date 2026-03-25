@@ -1,5 +1,5 @@
 ---
-#title: ConfWS 2025
+#title: ConfWS 2026
 timezone: UTC
 collections:
   pages:
@@ -36,13 +36,13 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
-name: 27th International Workshop on Configuration (ConfWS'25)
-description: Website of the 27th International Workshop on Configuration (ConfWS'25)
+name: 28th International Workshop on Configuration (ConfWS'26)
+description: Website of the 28th International Workshop on Configuration (ConfWS'26)
 url: https://confws.github.io
 baseurl: 
 repository: confws/confws.github.io
 teaser: 
-logo: 'assets/confws/confws-2025-logo.png'
+logo: 'assets/confws/ConfWS_2026_Logo.png'
 #masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: 'assets/confws/confws-2025-logo.png'
+og_image: 'assets/confws/ConfWS_2026_Logo.png'
 social:
   type: 
   name: 
@@ -131,21 +131,21 @@ author:
   #  icon: fa fa-info-circle
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
   sponsors:
-  - name: 'Sapienza'
-    logo: assets/confws/sapienza.svg
-    url: https://www.uniroma1.it/en
-  - name: 'Padova'
-    logo: assets/confws/padova.png
-    url: https://www.unipd.it/en/
-  - name: 'TUGraz'
-    logo: assets/confws/tugraz.png
-    url: https://www.tugraz.at/home
-  - name: 'ASAI'
-    logo: assets/confws/asai.png
-    url: https://www.asai.ac.at/en/
-  - name: 'MICS'
-    logo: assets/confws/MICS_logo.png
-    url: https://www.mics.tech
+  - name: 'HITeC'
+    logo: assets/confws/hitec_logo2.png
+    url: https://www.hitec-hamburg.de/en
+  - name: 'encoway'
+    logo: assets/confws/encoway_Logo.png
+    url: https://www.encoway.de/en/
+  - name: 'HKA'
+    logo: assets/confws/HKA_Logo_Logoleiste_RGB.jpg
+    url: https://www.h-ka.de/en/
+  - name: 'UniBremen'
+    logo: assets/confws/UniBremen_Logo_Web_RGB.png
+    url: https://www.uni-bremen.de/en/
+  # - name: 'MICS'
+  #   logo: assets/confws/MICS_logo.png
+  #   url: https://www.mics.tech
 #  - name: 'Siemens'
 #    logo: assets/confws/siemens-logo.png
 #    url: https://www.siemens.com/global/en.html

@@ -8,45 +8,44 @@ redirect_from:
 ---
 
 ## Workshop Chairs
-* Chiara Grosso (DIAG, University Sapienza of Rome, Italy)
-* Enrico Sandrin (DTG, University of Padua, Italy)
-* Viet-Man Le (Graz University of Technology, Austria)
+* Carsten Sinz (Karlsruhe University of Applied Sciences)
+* Lothar Hotz (Hamburger Informatik Technologie-Center)
   
 ## Publicity and Social Media Chair
 **TBD**
 <!--* Irene Campo Gay (Technical University of Denmark, Denmark)-->
 
 ## Program Committee
-* Alexander Felfernig (Graz University of Technology, Austria)
-* Gerhard Friedrich (Alpen-Adria-Universität Klagenfurt, Austria)
-* Gerhard Leitner (Alpen-Adria-Universität Klagenfurt, Austria)
-* Lothar Hotz (Hamburger Informatik Technologie-Center, Germany)
-* Andreas Falkner (Siemens AG Österreich, Vienna, Austria)
-* Lidia Fuentes (University of Málaga, Spain)
-* Yue Wang (Hang Seng University, Hong Kong)
-* José Ángel Galindo (University of Seville, Spain)
-* Markus Stumptner (University of South Australia, Australia)
-* Lars Hvam (Technical University of Denmark, Denmark)
-* David Benavides (University of Seville, Spain)
-* Sinz Carsten (Karlsruhe University of Applied Sciences, Germany)
-* Cipriano Forza (University of Padova, Italy)
-* Jean-Guillaume Fages (Cosling, France)
-* Albert Haag (Product Management GmbH, Germany)
-* Alois Haselboeck (Siemens AG Österreich, Austria)
-* Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
-* Tomi Mänistö (University of Helsinki, Finland)
 * Abdourahim Sylla (Université Grenoble Alpes, France)
-* Juha Tiihonen (Variantum, Finland)
+* Albert Haag (Product Management GmbH, Germany)
+* Alessio Trentin (University of Padova, Italy)
+* Alexander Felfernig (Graz University of Technology, Austria)
+* Alois Haselboeck (Siemens AG Österreich, Austria)
+* Carsten Sinz (Karlsruhe University of Applied Sciences, Germany)
+* Chiara Grosso (University Ca' Foscari Venice, Italy)
+* Cipriano Forza (University of Padova, Italy)
+* David Benavides (University of Seville, Spain)
+* Elise Vareilles (Toulouse University, IMT Mines Albi, France)
+* Enrico Sandrin (University of Padova, Italy)
 * Franz Wotawa (Graz University of Technology, Austria)
-* Rüdiger Dehn (Lino GmbH, Germany)
+* Gerhard Leitner (Alpen-Adria-Universität Klagenfurt, Austria)
+* Gottfried Schenner (Siemens AG Österreich, Vienna, Austria)
 * Hao Xu (Renault, France)
-* Sara Shafiee (Technical University of Denmark, Denmark)
+* Jean-Guillaume Fages (Cosling, France)
+* José Ángel Galindo (University of Seville, Spain)
+* Juha Tiihonen (Variantum, Finland)
+* Lars Hvam (Technical University of Denmark, Denmark)
+* Lidia Fuentes (University of Málaga, Spain)
+* Lothar Hotz (Hamburger Informatik Technologie-Center, Germany)
+* Lucas Ligny (ONERA, France)
+* Markus Stumptner (University of South Australia, Australia)
+* Nikola Suzić (University of Trento, Italy)
+* Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
 * Roberto Boselli (University of Milano-Bicocca, Italy)
 * Simone DiLeo (Sapienza University of Roma, Italy)
-* Nikola Suzić (University of Trento, Italy)
-* Alessio Trentin (University of Padova, Italy)
-* Elise Vareilles (Toulouse University, IMT Mines Albi, France)
-
+* Tomi Mänistö (University of Helsinki, Finland)
+* Viet-Man Le (University of Economics, Hue University, Vietnam)
+* Yue Wang (Hang Seng University, Hong Kong)
 
 <!-- * 
 * Ángel Jesús Varela Vaca, University of Seville, Spain
