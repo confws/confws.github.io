@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 | Important dates                              |
-| -------------------- | --------------------- |
-| Paper Submission     | May 07, 2026 (AOE time)|
-| Paper Notification   | May 30, 2026 (AOE time) |
-| Camera ready         | June 27, 2026 |
-| Early registration   | June 15, 2026 |
-| Standard registration | TBD |
-| Workshop             | August 15-16, 2026 |
+| ----------------------- | ----------------------- |
+| Paper Submission        | May 07, 2026 (AOE time)|
+| Paper Notification      | May 30, 2026 (AOE time) |
+| Camera ready            | June 27, 2026 |
+| Workshop Program Online | July 15, 2026 |
+| Early registration      | June 15, 2026 |
+| Standard registration   | TBD |
+| Workshop                | August 15-16, 2026 |
 
 ## Overview
 
