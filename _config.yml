@@ -168,6 +168,12 @@ footer:
   - label: LinkedIn
     icon: fab fa-fw fa-linkedin
     url: https://www.linkedin.com/groups/3718387/
+  - label: Legal Notice
+    icon: fas fa-fw fa-info-circle
+    url: https://www.hitec-hamburg.de/en/legal-notice/
+  - label: Privacy
+    icon: fas fa-fw fa-shield-alt
+    url: https://www.hitec-hamburg.de/en/privacy/
 include:
 - ".htaccess"
 # - _pages

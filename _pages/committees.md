@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## Workshop Chairs
-* Carsten Sinz (Karlsruhe University of Applied Sciences)
 * Lothar Hotz (Hamburger Informatik Technologie-Center)
+* Carsten Sinz (Karlsruhe University of Applied Sciences)
   
 ## Publicity and Social Media Chair
 **TBD**
@@ -31,7 +31,6 @@ redirect_from:
 * Gerhard Leitner (Alpen-Adria-Universität Klagenfurt, Austria)
 * Gottfried Schenner (Siemens AG Österreich, Vienna, Austria)
 * Hao Xu (Renault, France)
-* Jean-Guillaume Fages (Cosling, France)
 * José Ángel Galindo (University of Seville, Spain)
 * Juha Tiihonen (Variantum, Finland)
 * Lars Hvam (Technical University of Denmark, Denmark)

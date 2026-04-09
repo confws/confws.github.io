@@ -9,13 +9,14 @@ redirect_from:
 
 | Important dates                              |
 | ----------------------- | ----------------------- |
-| Paper Submission        | May 07, 2026 (AOE time)|
+| Abstract Submission     | April 30, 2026 (AOE time) |
+| Paper Submission        | May 07, 2026 (AOE time) |
 | Paper Notification      | May 30, 2026 (AOE time) |
-| Camera ready            | June 27, 2026 |
-| Workshop Program Online | July 15, 2026 |
-| Early registration      | June 15, 2026 |
+| Camera ready            | June 27, 2026 (AOE time) |
+| Workshop Program Online | July 15, 2026 (AOE time) |
+| Early registration      | June 15, 2026 (AOE time) |
 | Standard registration   | TBD |
-| Workshop                | August 15-16, 2026 |
+| Workshop                | August 15-16, 2026 (AOE time) |
 
 ## Overview
 
@@ -114,7 +115,7 @@ Full and short papers submitted to ConfWS 2026 must be original. The submission,
 Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
 {: .text-justify}
 
-**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws2026).
+**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws26).
 
 **Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the **one-column template**.
 - [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
