@@ -9,9 +9,8 @@ redirect_from:
 
 | Important dates                              |
 | ----------------------- | ----------------------- |
-| Abstract Submission     | April 30, 2026 (AOE time) |
-| Paper Submission        | May 07, 2026 (AOE time) |
-| Paper Notification      | May 30, 2026 (AOE time) |
+| Paper Submission        | May 20, 2026 (AOE time) |
+| Paper Notification      | June 08, 2026 (AOE time) |
 | Camera ready            | June 27, 2026 (AOE time) |
 | Workshop Program Online | July 15, 2026 (AOE time) |
 | Early registration      | June 15, 2026 (AOE time) |
