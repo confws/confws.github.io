@@ -38,7 +38,15 @@ Author / Presenter Information:<br>
 
 |                   | *Saturday, 15th August 2026* |
 | ------------------|----------------------------------------------------|
-| | **TBD** |
+| 9:00 - 10:30  | Workshop and Tutorials  |
+| 10:30 - 11:00 | *Coffee Break* |
+| 11:00 - 12:30  | Workshop and Tutorials  |
+| 12:30 - 14:00 | *Lunch break* |
+| 14:00 - 15:30  | Workshop and Tutorials  |
+| 15:30 - 16:00 | *Coffee Break* |
+| 16:00 - 17:30  | Workshop and Tutorials  |
+|  | *End of first day* |
+
 {% comment %}
 | 9:00 - 9:30  | Opening and welcome notes  |
 |   | &nbsp;&nbsp;&nbsp;*-- Session 1: Configuration Models and Explanation --*<br/>**Chair:  Damian Garber**   |
@@ -71,7 +79,15 @@ Author / Presenter Information:<br>
 
 |                   | *Sunday, 16th August, 2026* |
 | ------------------|----------------------------------------------------|
-| | **TBD** |
+| 9:00 - 10:30  | Workshop and Tutorials  |
+| 10:30 - 11:00 | *Coffee Break* |
+| 11:00 - 12:30  | Workshop and Tutorials  |
+| 12:30 - 14:00 | *Lunch break* |
+| 14:00 - 15:30  | Workshop and Tutorials  |
+| 15:30 - 16:00 | *Coffee Break* |
+| 16:00 - 17:30  | Workshop and Tutorials  |
+|  | *End of second day* |
+
 {% comment %}
 | | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges  in industry systems --*<br/>**Chair:  Cipriano Forza**  |
 | | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges  in industry systems --*<br/>**Chair:  Cipriano Forza**  |
