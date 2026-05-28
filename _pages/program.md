@@ -36,9 +36,9 @@ Author / Presenter Information:<br>
 </sub>
 
 
-|                   | *Saturday, 15th August 2026* |
-| ------------------|----------------------------------------------------|
-| 9:00 - 10:30  | Workshop and Tutorials  |
+|                    | *Saturday, 15th August 2026*                    |
+| ------------------ |----------------------------------------------------|
+| 09:00 - 10:30  | Workshop and Tutorials  |
 | 10:30 - 11:00 | *Coffee Break* |
 | 11:00 - 12:30  | Workshop and Tutorials  |
 | 12:30 - 14:00 | *Lunch break* |
@@ -77,9 +77,9 @@ Author / Presenter Information:<br>
 | 19:30 - 00:00 | *Social Dinner* (see below) |
 {% endcomment %}
 
-|                   | *Sunday, 16th August, 2026* |
-| ------------------|----------------------------------------------------|
-| 9:00 - 10:30  | Workshop and Tutorials  |
+|                    | *Sunday, 16th August, 2026*                    |
+| ------------------ |----------------------------------------------------|
+| 09:00 - 10:30  | Workshop and Tutorials  |
 | 10:30 - 11:00 | *Coffee Break* |
 | 11:00 - 12:30  | Workshop and Tutorials  |
 | 12:30 - 14:00 | *Lunch break* |
