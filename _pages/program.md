@@ -36,14 +36,14 @@ Author / Presenter Information:<br>
 </sub>
 
 
-|                    | *Saturday, 15th August 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|                    | *Saturday, 15th August 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------------ |----------------------------------------------------|
 | 09:00 - 10:30  | Workshop and Tutorials  |
-| 10:30 - 11:00 | *Coffee Break* |
+| 10:30 - 11:00 | *Coffee break* |
 | 11:00 - 12:30  | Workshop and Tutorials  |
 | 12:30 - 14:00 | *Lunch break* |
 | 14:00 - 15:30  | Workshop and Tutorials  |
-| 15:30 - 16:00 | *Coffee Break* |
+| 15:30 - 16:00 | *Coffee break* |
 | 16:00 - 17:30  | Workshop and Tutorials  |
 |  | *End of first day* |
 
@@ -77,14 +77,14 @@ Author / Presenter Information:<br>
 | 19:30 - 00:00 | *Social Dinner* (see below) |
 {% endcomment %}
 
-|                    | *Sunday, 16th August, 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|                    | *Sunday, 16th August, 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------------ |----------------------------------------------------|
 | 09:00 - 10:30  | Workshop and Tutorials  |
-| 10:30 - 11:00 | *Coffee Break* |
+| 10:30 - 11:00 | *Coffee break* |
 | 11:00 - 12:30  | Workshop and Tutorials  |
 | 12:30 - 14:00 | *Lunch break* |
 | 14:00 - 15:30  | Workshop and Tutorials  |
-| 15:30 - 16:00 | *Coffee Break* |
+| 15:30 - 16:00 | *Coffee break* |
 | 16:00 - 17:30  | Workshop and Tutorials  |
 |  | *End of second day* |
 
