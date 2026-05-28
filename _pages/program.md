@@ -38,13 +38,13 @@ Author / Presenter Information:<br>
 
 |                    | *Saturday, 15th August 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------------ |----------------------------------------------------|
-| 09:00 - 10:30  | Workshop and Tutorials  |
+| 09:00 - 10:30  | Workshop  |
 | 10:30 - 11:00 | *Coffee break* |
-| 11:00 - 12:30  | Workshop and Tutorials  |
+| 11:00 - 12:30  | Workshop  |
 | 12:30 - 14:00 | *Lunch break* |
-| 14:00 - 15:30  | Workshop and Tutorials  |
+| 14:00 - 15:30  | Workshop  |
 | 15:30 - 16:00 | *Coffee break* |
-| 16:00 - 17:30  | Workshop and Tutorials  |
+| 16:00 - 17:30  | Workshop  |
 |  | *End of first day* |
 
 {% comment %}
@@ -79,13 +79,13 @@ Author / Presenter Information:<br>
 
 |                    | *Sunday, 16th August, 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------------ |----------------------------------------------------|
-| 09:00 - 10:30  | Workshop and Tutorials  |
+| 09:00 - 10:30  | Workshop  |
 | 10:30 - 11:00 | *Coffee break* |
-| 11:00 - 12:30  | Workshop and Tutorials  |
+| 11:00 - 12:30  | Workshop  |
 | 12:30 - 14:00 | *Lunch break* |
-| 14:00 - 15:30  | Workshop and Tutorials  |
+| 14:00 - 15:30  | Workshop  |
 | 15:30 - 16:00 | *Coffee break* |
-| 16:00 - 17:30  | Workshop and Tutorials  |
+| 16:00 - 17:30  | Workshop  |
 |  | *End of second day* |
 
 {% comment %}
