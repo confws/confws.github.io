@@ -45,7 +45,7 @@ Author / Presenter Information:<br>
 | 14:00 - 15:30  | Workshop  |
 | 15:30 - 16:00 | *Coffee break* |
 | 16:00 - 17:30  | Workshop  |
-|  | *End of first day* |
+|  | *Workshop Dinner* |
 
 {% comment %}
 | 9:00 - 9:30  | Opening and welcome notes  |
@@ -83,9 +83,6 @@ Author / Presenter Information:<br>
 | 10:30 - 11:00 | *Coffee break* |
 | 11:00 - 12:30  | Workshop  |
 | 12:30 - 14:00 | *Lunch break* |
-| 14:00 - 15:30  | Workshop  |
-| 15:30 - 16:00 | *Coffee break* |
-| 16:00 - 17:30  | Workshop  |
 |  | *End of second day* |
 
 {% comment %}
