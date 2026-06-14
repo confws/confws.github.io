@@ -9,6 +9,8 @@ classes: wide
 <!-- Registration is open! -->
 Registration will be via the [IJCAI-ECAI 2026](https://2026.ijcai.org/) webpage.
 
+There is a [Travel Grant]({{ '/grant/' | relative_url }}) especially for Configuration Workshop Participants!
+
 ### Registration deadlines
 
 See [IJCAI-ECAI 2026](https://2026.ijcai.org/) webpage.
