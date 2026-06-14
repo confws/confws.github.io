@@ -16,7 +16,7 @@ The grant is limited, hence, a short application procedure should be followed.
 Due to limited availability of funds for the ConfWS Travel and Accessibility Grant Program, applicants should first approach their department and/or local AI society for support before applying to ConfWS.
 
 
-Applicants must submit  a short notice via email to info@hitec-hamburg.de, no later than June 20, 2026, midnight, AoE with subject GRANT APPLICATION DOCUMENTATION ConfWS.
+Applicants must submit  a short notice via email to  [info@hitec-hamburg.de](mailto:info@hitec-hamburg.de), no later than June 20, 2026, midnight, AoE with subject GRANT APPLICATION DOCUMENTATION ConfWS.
 
 
 > _The documents to be sent per email must include a reason why any other sources of support are not available to the applicant and
