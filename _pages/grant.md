@@ -7,15 +7,9 @@ classes: wide
 ---
 
 <!-- Travel Grant! -->
-The Configuration Workshop Organization, in collaboration with industrial partners is pleased to announce Travel Grant for students, junior scientists and senoir scientists attending the Configuration Workshop (ConfWS) 
-to be held in Bremen, Germany, during August 15-16, 2026. 
+The Configuration Workshop Organization, in collaboration with industrial partners is pleased to announce a sponsored Travel Grant for students, junior scientists, and senoir scientists attending the Configuration Workshop (ConfWS). 
 
-
-The Configuration Workshop Travel Grants Program is sponsored in full by the  Configuration Workshop Organization and its entailed industrial partners. 
-
-
-However, the grant is limited, hence, a short application procedure should be followed.
-
+The grant is limited, hence, a short application procedure should be followed.
 
 ### Application Procedure
 
