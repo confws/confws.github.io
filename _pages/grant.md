@@ -21,3 +21,5 @@ Applicants must submit  a short notice via email to  [info@hitec-hamburg.de](mai
 
 > _The documents to be sent per email must include a reason why any other sources of support are not available to the applicant and
 a note that includes reasons why ConfWS should make the grant to the applicant.
+>
+Back to [registration page](/registration/).
