@@ -10,11 +10,11 @@ redirect_from:
 ## Workshop Chairs
 * Lothar Hotz (Hamburger Informatik Technologie-Center)
 * Carsten Sinz (Karlsruhe University of Applied Sciences)
-  
+{% comment %}
 ## Publicity and Social Media Chair
 **TBD**
 <!--* Irene Campo Gay (Technical University of Denmark, Denmark)-->
-
+{% endcomment %}
 ## Program Committee
 * Abdourahim Sylla (Université Grenoble Alpes, France)
 * Albert Haag (Product Management GmbH, Germany)
