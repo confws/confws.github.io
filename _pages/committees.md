@@ -23,28 +23,21 @@ redirect_from:
 * Alois Haselboeck (Siemens AG Österreich, Austria)
 * Carsten Sinz (Karlsruhe University of Applied Sciences, Germany)
 * Chiara Grosso (University Ca' Foscari Venice, Italy)
-* Cipriano Forza (University of Padova, Italy)
+* Daniel Bischoff (Mercedes-Benz AG, Germany)
 * David Benavides (University of Seville, Spain)
 * Elise Vareilles (Toulouse University, IMT Mines Albi, France)
 * Enrico Sandrin (University of Padova, Italy)
-* Franz Wotawa (Graz University of Technology, Austria)
 * Gerhard Leitner (Alpen-Adria-Universität Klagenfurt, Austria)
 * Gottfried Schenner (Siemens AG Österreich, Vienna, Austria)
-* Hao Xu (Renault, France)
 * José Ángel Galindo (University of Seville, Spain)
-* Juha Tiihonen (Variantum, Finland)
-* Lars Hvam (Technical University of Denmark, Denmark)
 * Lidia Fuentes (University of Málaga, Spain)
 * Lothar Hotz (Hamburger Informatik Technologie-Center, Germany)
-* Lucas Ligny (ONERA, France)
 * Markus Stumptner (University of South Australia, Australia)
 * Nikola Suzić (University of Trento, Italy)
+* Oliver Kopp (University of Hamburg, Germany)
 * Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
-* Roberto Boselli (University of Milano-Bicocca, Italy)
 * Simone DiLeo (Sapienza University of Roma, Italy)
-* Tomi Mänistö (University of Helsinki, Finland)
 * Viet-Man Le (University of Economics, Hue University, Vietnam)
-* Yue Wang (Hang Seng University, Hong Kong)
 
 <!-- * 
 * Ángel Jesús Varela Vaca, University of Seville, Spain
@@ -53,8 +46,15 @@ redirect_from:
 * Jean-Guillaume Fages, Cosling, France
 * Mónica Pinto, University of Málaga, Spain
 * Inmaculada Ayala, University of Málaga, Spain 
-
-
+* Cipriano Forza (University of Padova, Italy)
+* Franz Wotawa (Graz University of Technology, Austria)
+* Hao Xu (Renault, France)
+* Juha Tiihonen (Variantum, Finland)
+* Lars Hvam (Technical University of Denmark, Denmark)
+* Lucas Ligny (ONERA, France)
+* Roberto Boselli (University of Milano-Bicocca, Italy)
+* Yue Wang (Hang Seng University, Hong Kong)
+* Tomi Mänistö (University of Helsinki, Finland)
 
 Declined invitations:
 * Thorsten Krebs, Encoway, Germany
