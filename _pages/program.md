@@ -38,14 +38,17 @@ Author / Presenter Information:<br>
 
 |                    | *Saturday, 15th August 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------------ |----------------------------------------------------|
-| 09:00 - 10:30  | Workshop  |
+| 09:00 - 09:15  | Welcome  |
+| 09:15 - 10:00  | Keynote, incl. discussion  |
+| 10:00 - 10:30  | Paper 1  |
 | 10:30 - 11:00 | *Coffee break* |
-| 11:00 - 12:30  | Workshop  |
+| 11:00 - 12:30  | Paper 2, Paper 3, Paper 4  |
 | 12:30 - 14:00 | *Lunch break* |
-| 14:00 - 15:30  | Workshop  |
-| 15:30 - 16:00 | *Coffee break* |
-| 16:00 - 17:30  | Workshop  |
-|  | *Workshop Dinner* |
+| 14:00 - 15:00  | Paper 5, Paper 6  |
+| 15:00 - 15:15  | Walk to other venue  |
+| 15:15 - 17:30  | Industrial break out at Encoway GmbH and Cordes & Graefe KG  |
+|  | *End of first day* |
+| 19:00 | *Workshop Dinner* |
 
 {% comment %}
 | 9:00 - 9:30  | Opening and welcome notes  |
@@ -79,9 +82,10 @@ Author / Presenter Information:<br>
 
 |                    | *Sunday, 16th August, 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------------ |----------------------------------------------------|
-| 09:00 - 10:30  | Workshop  |
+| 09:00 - 10:30  | Paper 7, Paper 8, Paper 9  |
 | 10:30 - 11:00 | *Coffee break* |
-| 11:00 - 12:30  | Workshop  |
+| 11:00 - 12:00  | Paper 10, Paper 11  |
+| 12:00 - 12:30  | Reward  |
 | 12:30 - 14:00 | *Lunch break* |
 |  | *End of second day* |
 

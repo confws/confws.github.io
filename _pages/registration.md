@@ -13,14 +13,11 @@ There is a [Travel Grant]({{ '/grant/' | relative_url }}) especially for Configu
 
 ### Registration deadlines
 
-See [IJCAI-ECAI 2026](https://2026.ijcai.org/) webpage.
-{% comment %}
-- **Early Registration:** From July 2, 2025 to **September 3, 2025**
-- **Standard Registration:** From September 4, 2025 to **October 12, 2025**
-- **Onsite Registration:** From October 25, 2025 to **October 30, 2025**
+- **Early Registration:** From May 15 2026 to **June 15, 2026 (23:59 pm, AoE)**
+- **Late Registration:** From June 16, 2026 to **July 15, 2026 (23:59 pm, AoE)**
+- **Onsite Registration:** From July 16, 2026 to **August 21, 2026 (noon, CEST)**
 
-Please register at [https://ecai2025.org/registration/](https://ecai2025.org/registration/)
-{% endcomment %}
+Please register at [IJCAI-ECAI 2026](https://2026.ijcai.org/registration/)
 
 ### EurAI member
 
