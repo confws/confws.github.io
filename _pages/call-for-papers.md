@@ -11,7 +11,7 @@ redirect_from:
 | ----------------------- | ----------------------- |
 | Paper Submission        | ~~May 29, 2026 (AOE time)~~ |
 | Paper Notification      | ~~June 14, 2026 (AOE time)~~ |
-| Early Registration      | June 15, 2026 (AOE time) |
+| Early Registration      | ~~June 15, 2026 (AOE time)~~ |
 | Camera Ready            | July 11, 2026 (AOE time) |
 | Workshop Program Online | July 15, 2026 (AOE time) |
 | Standard Registration   | July 15, 2026 (AOE time) |
