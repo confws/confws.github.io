@@ -38,8 +38,8 @@ Author / Presenter Information:<br>
 
 |                    | *Saturday, 15th August 2026* |
 | ------------------ |----------------------------------------------------|
-| 9:00 - 9:15  | Welcome  |
-| 9:15 - 10:00  | Keynote, incl. discussion  |
+| 09:00 - 09:15  | Welcome  |
+| 09:15 - 10:00  | Keynote, incl. discussion  |
 |   | &nbsp;&nbsp;&nbsp;*-- Session 1: Usability --*<br/>**Chair:  TBA**   |
 | 10:00 - 10:30      | Sebastian Lubos, Alexander Felfernig, Viet-Man Le, Thi Ngoc Trang Tran, Doris Suppan, Reinhard Willfort, Ivan Dukic, Jeremias Fuchs and Manuel Henrich.<br/>**Enabling Automated Usability Evaluation for Configurator User Interfaces**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
@@ -59,8 +59,8 @@ Author / Presenter Information:<br>
 |                    | *Sunday, 16th August, 2026* |
 | ------------------ |----------------------------------------------------|
 | | &nbsp;&nbsp;&nbsp;*-- Session 4: Applications and Case Study --*<br/>**Chair:  TBA**  |
-| 9:00 - 9:30      | 	Franz Wotawa.<br/>**An extended experimental evaluation of an answer set programming solution to the task assignment problem**<br/>_25 min + 5 Q&A_ |
-| 9:30 - 10:00     | 	Joachim Baumeister, Konstantin Herud, Jan Heuer, Jochen Reutelshöfer, Nicolas Rühling, Abdallah Saffidine and Torsten Schaub.<br/>**The ShadowMaster Problem: A Real-World Case Study in Product Configuration**<br/>_25 min + 5 Q&A_ |
+| 09:00 - 09:30      | 	Franz Wotawa.<br/>**An extended experimental evaluation of an answer set programming solution to the task assignment problem**<br/>_25 min + 5 Q&A_ |
+| 09:30 - 10:00     | 	Joachim Baumeister, Konstantin Herud, Jan Heuer, Jochen Reutelshöfer, Nicolas Rühling, Abdallah Saffidine and Torsten Schaub.<br/>**The ShadowMaster Problem: A Real-World Case Study in Product Configuration**<br/>_25 min + 5 Q&A_ |
 | 10:00 - 10:30    | Kateryna Czerniachowska.<br/>**Broken Retail States as Configurable Objects in Retail Shelf Systems**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
 | | &nbsp;&nbsp;&nbsp;*-- Session 5: Models --*<br/>**Chair:  TBA**  |
