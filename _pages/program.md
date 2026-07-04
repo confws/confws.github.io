@@ -36,71 +36,40 @@ Author / Presenter Information:<br>
 </sub>
 
 
-|                    | *Saturday, 15th August 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|                    | *Saturday, 15th August 2026* |
 | ------------------ |----------------------------------------------------|
-| 09:00 - 09:15  | Welcome  |
-| 09:15 - 10:00  | Keynote, incl. discussion  |
-| 10:00 - 10:30  | Paper 1  |
+| 9:00 - 9:15  | Welcome  |
+| 9:15 - 10:00  | Keynote, incl. discussion  |
+|   | &nbsp;&nbsp;&nbsp;*-- Session 1: Usability --*<br/>**Chair:  TBA**   |
+| 10:00 - 10:30      | Sebastian Lubos, Alexander Felfernig, Viet-Man Le, Thi Ngoc Trang Tran, Doris Suppan, Reinhard Willfort, Ivan Dukic, Jeremias Fuchs and Manuel Henrich.<br/>**Enabling Automated Usability Evaluation for Configurator User Interfaces**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
-| 11:00 - 12:30  | Paper 2, Paper 3, Paper 4  |
+|   | &nbsp;&nbsp;&nbsp;*-- Session 2: AI and Configuration --*<br/>**Chair: TBA**  |
+| 11:00 - 11:30     | Konstantin Herud and Joachim Baumeister.<br/>**Position Paper: Use Cases for Generative AI in Product Configuration**<br/>_25 min + 5 Q&A_ |
+| 11:30 - 12:00     | Veronika Semmelrock, Benedetta Strizzolo, Francesco Zuccato, Gerhard Friedrich, Patrick Rodler and Konstantin Schekotihin.<br/>**Learning to Solve and Optimize by Evolving Code**<br/>_25 min + 5 Q&A_ |
+| 12:00 - 12:30     | Viet-Man Le, Sebastian Lubos, Thi Ngoc Trang Tran and Alexander Felfernig.<br/>**Cognitive Robustness of Large Language Models in Configuration Knowledge Engineering**<br/>_25 min + 5 Q&A_ |
 | 12:30 - 14:00 | *Lunch break* |
-| 14:00 - 15:00  | Paper 5, Paper 6  |
-| 15:00 - 15:15  | Walk to other venue  |
-| 15:15 - 17:30  | Industrial break out at Encoway GmbH and Cordes & Graefe KG  |
+|  | &nbsp;&nbsp;&nbsp;*-- Session 3: Usability --*<br/>**Chair: TBA**  |
+| 14:00 - 14:30     | Qingsong Zhao, Oliver Bleisinger, Lars Hvam and Lars Lundberg Kristensen.<br/>**Explaining Product Configurator Usage in Engineering companies: A Technology Acceptance Perspective**<br/>_25 min + 5 Q&A_ |
+| 14:30 - 15:00  | Walk to other venue  |
+| 15:00 - 17:30  | Industrial break out at Encoway GmbH and Cordes & Graefe KG  |
 |  | *End of first day* |
 | 19:00 | *Workshop Dinner* |
 
-{% comment %}
-| 9:00 - 9:30  | Opening and welcome notes  |
-|   | &nbsp;&nbsp;&nbsp;*-- Session 1: Configuration Models and Explanation --*<br/>**Chair:  Damian Garber**   |
-| 9:30 - 9:45      | Alexander Felfernig, Damian Garber, **Viet-Man Le** and Sebastian Lubos.<br/>**QuickXPlain Explanations for Feature Model Configuration**<br/>_10 min + 5 Q&A_ |
-| 9:45 - 10:00      | **Boi Schaefer** and Lothar Hotz.<br/>**From 4GL Spreadsheet Computations to Constraint Model Definitions – A Development Process**<br/>_10 min + 5 Q&A_ |
-| 10:00 - 10:15      | **Franz Wotawa**, Julian Proenza, Manuel Barranco and Alberto Ballesteros.<br/>**The Task Assignment Problem for Safety-Critical Networks Considering Communication and Criticality**<br/>_10 min + 5 Q&A_ |
-| 10:15 - 10:30      | Christian Bähnisch, **Lothar Hotz**, Alexander Felfernig and Sebastian Lubos.<br/>**Test-driven Generation of Constraint Satisfaction Problems Using Large Language Models**<br/>_10 min + 5 Q&A_ |
-| 10:30 - 11:00 | *Coffee Break* |
-|   | &nbsp;&nbsp;&nbsp;*-- Session 2: AI, LLM, and Configuration in Industrial and Automotive Systems --*<br/>**Chair: Lothar Hotz**  |
-| 11:00 - 11:15      | **Damian Garber**, Tamim Burgstaller, Sebastian Lubos, Patrick Ratschiller and Alexander Felfernig.<br/>**Towards LLM-enhanced Compiler Optimization**<br/>_10 min + 5 Q&A_ |
-| 11:15 - 11:30     | **Damian Garber**, Sebastian Lubos, Viet-Man Le and Alexander Felfernig.<br/>**Towards Compiler Parameter Recommendation Using Code Embeddings**<br/>_10 min + 5 Q&A_ |
-| 11:30 - 11:45     | Daniel Bischoff, **Kaan Ekiz** and **Tobias Nerz**.<br/>**Complexity Indicators and Their Impact on Algorithm Performance in Automotive Part Selection**<br/>_10 min + 5 Q&A_ |
-| 11:45 - 12:00     | **Carsten Sinz** and Daniel Bischoff.<br/>**Heterogeneity: A Challenge in Automotive Product Configuration**<br/>_10 min + 5 Q&A_ |
-| 12:00 - 12:15     | Julius Oluwole, **Enrico Sandrin** and Cipriano Forza.<br/>**Toward a Contingent-Configurational Perspective on Configuration Systems in the AEC Industry**<br/>_10 min + 5 Q&A_ |
-| 12:30 - 14:00 | *Lunch break* |
-|  | &nbsp;&nbsp;&nbsp;*-- Session 3: AI, LLM, and Generative Design --*<br/>**Chair: Franz Wotawa**  |
-| 14:00 - 14:10      | **Jovan Mihajlovic**, Alexander Felfernig and Viet-Man Le.<br/>**Towards LLM-based Configuration and Generation of Books**<br/>_5 min + 5 Q&A_ |
-| 14:10 - 14:20     | **Alexander Felfernig**, Damian Garber, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Towards LLM-Enhanced Product Line Scoping**<br/>_5 min + 5 Q&A_ |
-| 14:20 - 14:35     | **Jonathan Raines**, David Barton and Ben Hicks.<br/>**Generative Design as a Configuration Problem**<br/>_10 min + 5 Q&A_ |
-|  | &nbsp;&nbsp;&nbsp;*-- Session 4: User experience --*<br/>**Chair: Gerhard Leitner**  |
-| 14:35 - 14:50      | Achraf Arouya, **Enrico Sandrin**, Cipriano Forza and Alessio Trentin.<br/>**Visualizing Customization: The Impact of Product Visualization Modalities on User-Friendly Description in Online Configurators**<br/>_10 min + 5 Q&A_ |
-| 14:50 - 15:05      | **Chiara Grosso**, Marco Scatto and Karen Venturini.<br/>**Designing for Circularity: Exploring Configurator-Based Decision Support For Eco-design in Food Packaging**<br/>_10 min + 5 Q&A_ |
-| 15:05 - 15:30 | **Introducing Next Edition** |
-| 15:30 - 16:00 | *Coffee Break* |
-|  | &nbsp;&nbsp;&nbsp;*-- Session 5: Bringing It together: perspectives from day one --*<br/>**Moderator: Albert Haag**  |
-| 16:30 - 17:30      | **Bringing It together: perspectives from day one** |
-|  | *End of first day* |
-| 19:30 - 00:00 | *Social Dinner* (see below) |
-{% endcomment %}
 
-|                    | *Sunday, 16th August, 2026* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|                    | *Sunday, 16th August, 2026* |
 | ------------------ |----------------------------------------------------|
-| 09:00 - 10:30  | Paper 7, Paper 8, Paper 9  |
+| | &nbsp;&nbsp;&nbsp;*-- Session 4: Applications and Case Study --*<br/>**Chair:  TBA**  |
+| 9:00 - 9:30      | 	Franz Wotawa.<br/>**An extended experimental evaluation of an answer set programming solution to the task assignment problem**<br/>_25 min + 5 Q&A_ |
+| 9:30 - 10:00     | 	Joachim Baumeister, Konstantin Herud, Jan Heuer, Jochen Reutelshöfer, Nicolas Rühling, Abdallah Saffidine and Torsten Schaub.<br/>**The ShadowMaster Problem: A Real-World Case Study in Product Configuration**<br/>_25 min + 5 Q&A_ |
+| 10:00 - 10:30    | Kateryna Czerniachowska.<br/>**Broken Retail States as Configurable Objects in Retail Shelf Systems**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
-| 11:00 - 12:00  | Paper 10, Paper 11  |
+| | &nbsp;&nbsp;&nbsp;*-- Session 5: Models --*<br/>**Chair:  TBA**  |
+| 11:00 - 11:30    | Alessio Trentin, Enrico Sandrin, Svetlana Suzic, Chiara Grosso and Cipriano Forza.<br/>**Reconciling Product Flexibility with Cost, Delivery, and Quality: The Importance of Bundling Online Sales Configurator, Product Modularity and Knowledge Absorption from Customers**<br/>_25 min + 5 Q&A_ |
+| 11:30 - 12:00    | Carsten Sinz.<br/>**Authoring Automotive Configurations with Internal DSLs**<br/>_25 min + 5 Q&A_ |
 | 12:00 - 12:30  | Reward  |
 | 12:30 - 14:00 | *Lunch break* |
 |  | *End of second day* |
 
-{% comment %}
-| | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges  in industry systems --*<br/>**Chair:  Cipriano Forza**  |
-| | &nbsp;&nbsp;&nbsp;*-- Session 5: Sustainability challenges  in industry systems --*<br/>**Chair:  Cipriano Forza**  |
-| 9:15 - 9:30      | 	Joachim Baumeister, Susana Hahn, Konstantin Herud, Max Ostrowski, Jochen Reutelshöfer, **Nicolas Rühling**, Torsten Schaub and Philipp Wanko<br/>**Towards Industrial-scale Product Configuration**<br/>_10 min + 5 Q&A_ |
-| 9:30 - 9:45     | 	**Gottfried Schenner**, Giray Havur, Sophie Rogenhofer, Stefan Wallner, Erwin Filtz and Tassilo Pellegrini.<br/>**A lifecycle- and sustainability-aware product configuration model for modular industrial systems**<br/>_10 min + 5 Q&A_ |
-| 9:45 - 10:00     | Alexander Felfernig, **Damian Garber**, Viet-Man Le, Sebastian Lubos and Thi Ngoc Trang Tran.<br/>**Sustainability Evaluation Metrics for Configuration Systems**<br/>_10 min + 5 Q&A_ |
-| 10:00 - 10:15     | 	**Gerhard Leitner**.<br/>**The Role of Generative AI in the Future of Smarthome Configuration**<br/>_10 min + 5 Q&A_ |
-| 10:15 - 10:30     | **Chiara Grosso**, Roberta Palmieri and Giuseppe Bonifazi.<br/>**Exploring the Potential of Configurator Adoption in the Circular Management of Construction and Demolition Waste**<br/>_10 min + 5 Q&A_ |
-| 10:30 - 11:00 | *Coffee Break* |
-| 11:00 - 12:00      | **Across the Configuration Universe:Evolution, Challenges and Future Directions**<br/> |
-| 12:00 - 12:30 | **Closing and Best Paper Awards** |
-{% endcomment %}
 
 ## Social Dinner
 **TBD**
@@ -112,8 +81,3 @@ The social dinner of ConfWS'25 will take placed at **[Osteria Al 15](https://www
 ![Osteria Al 15](../assets/confws/social_dinner_2025.jpg "Osteria Al 15")
 {% endcomment %}
 
-<!--
-To arrive to the restaurant, the best option is **by bus - Line 11 -** which takes you directly from the conference venue or from the downtown. From the conference venue (E.T.S. Ingeniería Informática) take the bus at the initial stop *Louis Pasteur* with direction *El Palo (P. Virginia)*. Coming from Málaga downtown you can take it at the *Alameda Avenue* direction *El Palo (P. Virginia)*.
-Leave the bus at the *Bolivia - Baños del Carmen* stop which is in front of the restaurant.
-
-To come back to Málaga downtown, the available buses depend on the finish hour of the dinner. However, the line *N1* is available during all night. Another option is to take a walk throught the promenade (50 min.). -->
