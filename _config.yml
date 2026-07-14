@@ -137,6 +137,9 @@ author:
   - name: 'encoway'
     logo: assets/confws/encoway_Logo.png
     url: https://www.encoway.de/en/
+  - name: 'CG'
+    logo: assets/confws/cordes_und_graefe_seit_1921_rgb_2.png
+    url: https://www.gc-gruppe.de/unternehmen/cordes-graefe-kg
   - name: 'HKA'
     logo: assets/confws/HKA_Logo_Logoleiste_RGB.jpg
     url: https://www.h-ka.de/en/
