@@ -66,8 +66,8 @@ Author / Presenter Information:<br>
 | | &nbsp;&nbsp;&nbsp;*-- Session 5: Models --*<br/>**Chair:  TBA**  |
 | 11:00 - 11:30    | Alessio Trentin, Enrico Sandrin, Svetlana Suzic, Chiara Grosso and Cipriano Forza.<br/>**Reconciling Product Flexibility with Cost, Delivery, and Quality: The Importance of Bundling Online Sales Configurator, Product Modularity and Knowledge Absorption from Customers**<br/>_25 min + 5 Q&A_ |
 | 11:30 - 12:00    | Carsten Sinz.<br/>**Authoring Automotive Configurations with Internal DSLs**<br/>_25 min + 5 Q&A_ |
-| 12:00 - 12:30  | Reward  |
-| 12:30 - 14:00 | *Lunch break* |
+| 12:00 - 13:00  | Reward & Next year's workshop  |
+| 13:00 - 14:00 | *Lunch break* |
 |  | *End of second day* |
 
 
