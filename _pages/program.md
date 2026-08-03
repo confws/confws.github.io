@@ -28,18 +28,16 @@ Author / Presenter Information:<br>
 
 </sub> -->
 
-<sub>
-**Location of the Workshop:** 
+<sub>**Location of the Workshop:** 
 <br>
-Campus of the University of Bremen (https://www.uni-bremen.de/en/), Building GW2, Room B3770
+Campus of the [University of Bremen](https://www.uni-bremen.de/en/), Building GW2, Room B3770
   <br>
-  See https://2026.ijcai.org/venues/ for more information
+  See here [for more information](https://2026.ijcai.org/venues/).
 </sub>
 
-<sub>
-**Registration Desk Hours:**
+<sub>**Registration Desk Hours:**
 <br>
-08:00 - 09:00, Oct 15 
+08:00 - 09:00, Oct 15, University of Bremen, Building GW2, Room B3770
 <!-- University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00) -->
 </sub>
 
@@ -84,15 +82,11 @@ Campus of the University of Bremen (https://www.uni-bremen.de/en/), Building GW2
 
 
 ## Social Dinner 
-** Saturday 15 August, 19:30h @ [Restaurant Luv] (http://www.restaurant-luv.de/ ) **
+**Saturday 15 August, 19:30h @ [Restaurant Luv](http://www.restaurant-luv.de/ )**
 
-The social dinner of ConfWS'25 will take placed at **Restaurant Luv* (http://www.restaurant-luv.de/ ), 
-Schlachte 15-18, 28195 Bremen. Restaurant LUV is a versatile dining spot located directly on the vibrant Schlachte Weserpromenade in the old town of Bremen. Operating as a restaurant, café, bar, and beer garden.
-{% comment %}
-- Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
-  
-The social dinner of ConfWS'25 will take placed at **[Osteria Al 15](https://www.google.com/maps/place/Osteria+Al+15/@44.4873483,11.3410971,825m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477fd4c1e679805d:0xbd4faa3163eef269!8m2!3d44.4873483!4d11.3410971!16s%2Fg%2F1tv3mjl7?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D)**, an intimate, wood-beamed trattoria serving traditional Bolognese pasta and gnocchi, located in the heart of the city.
+The social dinner of ConfWS'26 will take placed at **Restaurant Luv**(http://www.restaurant-luv.de/ ), 
+Schlachte 15-18, 28195 Bremen. 
+<br>
+Restaurant LUV is a versatile dining spot located directly on the vibrant Schlachte Weserpromenade in the old town of Bremen. Operating as a restaurant, café, bar, and beer garden.
 
-![Osteria Al 15](../assets/confws/social_dinner_2025.jpg "Osteria Al 15")
-{% endcomment %}
 
