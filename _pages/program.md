@@ -31,10 +31,14 @@ Author / Presenter Information:<br>
 <sub>
 **Registration Desk Hours:**
 <br>
-**TBD**
+08:00 - 09:00, Oct 15 
 <!-- University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00) -->
 </sub>
-
+<sub>
+**Location of the Workshop:** 
+<br>
+Campus of the University of Bremen (https://www.uni-bremen.de/en/), Building GW2, Room B3770
+</sub>
 
 |                    | *Saturday, 15th August 2026* |
 | ------------------ |----------------------------------------------------|
