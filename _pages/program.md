@@ -75,9 +75,10 @@ Author / Presenter Information:<br>
 |  | *End of second day* |
 
 
-## Social Dinner
-- Saturday 15 August, 19:30h @ [Restaurant Luv] (http://www.restaurant-luv.de/ )
-The social dinner of ConfWS'25 will take placed at **Restaurant Luv(http://www.restaurant-luv.de/ ), 
+## Social Dinner 
+** Saturday 15 August, 19:30h @ [Restaurant Luv] (http://www.restaurant-luv.de/ ) **
+
+The social dinner of ConfWS'25 will take placed at **Restaurant Luv* (http://www.restaurant-luv.de/ ), 
 Schlachte 15-18, 28195 Bremen. Restaurant LUV is a versatile dining spot located directly on the vibrant Schlachte Weserpromenade in the old town of Bremen. Operating as a restaurant, café, bar, and beer garden.
 {% comment %}
 - Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
