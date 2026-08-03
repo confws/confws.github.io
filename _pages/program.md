@@ -57,7 +57,7 @@ Author / Presenter Information:<br>
 | 16:40 - 17:25  | **Panel discussion**: Current research directions—and what industry truly needs |
 | 17:25 - 17:45  | Lessons learned / Closing |
 |  | *End of first day* |  
-| 19:00 | *Workshop Dinner* |
+| 19:30 | *Workshop Dinner* |
 
 
 |                    | *Sunday, 16th August, 2026* |
@@ -76,7 +76,9 @@ Author / Presenter Information:<br>
 
 
 ## Social Dinner
-**TBD**
+- Saturday 15 August, 19:30h @ [Restaurant Luv] (http://www.restaurant-luv.de/ )
+The social dinner of ConfWS'25 will take placed at **Restaurant Luv(http://www.restaurant-luv.de/ ), 
+Schlachte 15-18, 28195 Bremen. Restaurant LUV is a versatile dining spot located directly on the vibrant Schlachte Weserpromenade in the old town of Bremen. Operating as a restaurant, café, bar, and beer garden.
 {% comment %}
 - Saturday 25th Oct. 19:30h @ [Osteria Al 15](https://www.facebook.com/profile.php?id=100063486165553)
   
