@@ -51,8 +51,12 @@ Author / Presenter Information:<br>
 |  | &nbsp;&nbsp;&nbsp;*-- Session 3: Usability --*<br/>**Chair: TBA**  |
 | 14:00 - 14:30     | Qingsong Zhao, Oliver Bleisinger, Lars Hvam and Lars Lundberg Kristensen.<br/>**Explaining Product Configurator Usage in Engineering companies: A Technology Acceptance Perspective**<br/>_25 min + 5 Q&A_ |
 | 14:30 - 15:00  | Walk to other venue  |
-| 15:00 - 17:30  | Industrial break out at Encoway GmbH and Cordes & Graefe KG  |
-|  | *End of first day* |
+| 15:00 - 15:20  | Industrial break out Keynote (Frank Dylla, Cordes 6 Gräfe KG, Thorsten Krebs, encoway GmbH) |
+| 15:20 - 16:20  | *Break* |
+| 16:20 - 16:40  | Industrial Use Cases (Christoph Zengler, BooleWorks GmbH, Maximilian Heisiinger, Optoifkonf FlexCo, Martin Ring, DOCK.ONE) |
+| 16:40 - 17:25  | Panel discussion (current research directions—and what industry truly needs) |
+| 17:25 - 17:45  | Lessons learned / Closing |
+|  | *End of first day* |  
 | 19:00 | *Workshop Dinner* |
 
 
