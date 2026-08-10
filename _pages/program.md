@@ -45,7 +45,7 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), Building GW
 |                    | *Saturday, 15th August 2026* |
 | ------------------ |----------------------------------------------------|
 | 09:00 - 09:15  | Welcome  |
-| 09:15 - 10:00  | Keynote, incl. discussion  |
+| 09:15 - 10:00  | **Keynote: Sara Shafiee**, DTU Denmark <br/>**Agents Across the Configuration Lifecycle: Where Agentic AI Helps and Where Formal Reasoning Must Still Decide Description**<br/> _40 min + 5 Q&A_  |
 |   | &nbsp;&nbsp;&nbsp;*-- Session 1: Usability --*<br/>**Chair:  TBA**   |
 | 10:00 - 10:30      | Sebastian Lubos, Alexander Felfernig, Viet-Man Le, Thi Ngoc Trang Tran, Doris Suppan, Reinhard Willfort, Ivan Dukic, Jeremias Fuchs and Manuel Henrich.<br/>**Enabling Automated Usability Evaluation for Configurator User Interfaces**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
@@ -56,10 +56,10 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), Building GW
 | 12:30 - 14:00 | *Lunch break* |
 |  | &nbsp;&nbsp;&nbsp;*-- Session 3: Usability --*<br/>**Chair: TBA**  |
 | 14:00 - 14:30     | Qingsong Zhao, Oliver Bleisinger, Lars Hvam and Lars Lundberg Kristensen.<br/>**Explaining Product Configurator Usage in Engineering companies: A Technology Acceptance Perspective**<br/>_25 min + 5 Q&A_ |
-| 14:30 - 15:00  | Walk to venue NEOS, Konrad Zuse Str 8 for **Industrial break out**  |
+| 14:30 - 15:00  | Walk to venue NEOS, Konrad Zuse Str 6 for **Industrial break out**  |
 | 15:00 - 15:20  | **Keynote**: Frank Dylla, Cordes & Graefe KG, Thorsten Krebs, encoway GmbH |
-| 15:20 - 16:20  | *Break* |
-| 16:20 - 16:40  | **Industrial Use Cases**: Christoph Zengler, BooleWorks GmbH, Maximilian Heisiinger, Optoifkonf FlexCo, Martin Ring, DOCK.ONE |
+| 15:20 - 16:20  | **Industrial Use Cases**: Christoph Zengler, BooleWorks GmbH, Maximilian Heisiinger, Optoifkonf FlexCo, Martin Ring, DOCK.ONE |
+| 16:20 - 16:40  | *Break* |
 | 16:40 - 17:25  | **Panel discussion**: Current research directions—and what industry truly needs |
 | 17:25 - 17:45  | Lessons learned / Closing |
 |  | *End of first day* |  
