@@ -46,19 +46,19 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), Building GW
 | ------------------ |----------------------------------------------------|
 | 09:00 - 09:15  | Welcome  |
 | 09:15 - 10:00  | **Keynote: Sara Shafiee**, DTU Denmark <br/>**Agents Across the Configuration Lifecycle: Where Agentic AI Helps and Where Formal Reasoning Must Still Decide Description**<br/> _40 min + 5 Q&A_  |
-|   | &nbsp;&nbsp;&nbsp;*-- Session 1: Usability --*<br/>**Chair:  TBA**   |
+|   | &nbsp;&nbsp;&nbsp;*-- Session 1: Usability --*<br/>**Chair:  Franz Wotawa**   |
 | 10:00 - 10:30      | Sebastian Lubos, Alexander Felfernig, Viet-Man Le, Thi Ngoc Trang Tran, Doris Suppan, Reinhard Willfort, Ivan Dukic, Jeremias Fuchs and Manuel Henrich.<br/>**Enabling Automated Usability Evaluation for Configurator User Interfaces**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
-|   | &nbsp;&nbsp;&nbsp;*-- Session 2: AI and Configuration --*<br/>**Chair: TBA**  |
+|   | &nbsp;&nbsp;&nbsp;*-- Session 2: AI and Configuration --*<br/>**Chair: Joachim Baumeister**  |
 | 11:00 - 11:30     | Konstantin Herud and Joachim Baumeister.<br/>**Position Paper: Use Cases for Generative AI in Product Configuration**<br/>_25 min + 5 Q&A_ |
 | 11:30 - 12:00     | Veronika Semmelrock, Benedetta Strizzolo, Francesco Zuccato, Gerhard Friedrich, Patrick Rodler and Konstantin Schekotihin.<br/>**Learning to Solve and Optimize by Evolving Code**<br/>_25 min + 5 Q&A_ |
 | 12:00 - 12:30     | Viet-Man Le, Sebastian Lubos, Thi Ngoc Trang Tran and Alexander Felfernig.<br/>**Cognitive Robustness of Large Language Models in Configuration Knowledge Engineering**<br/>_25 min + 5 Q&A_ |
 | 12:30 - 14:00 | *Lunch break* |
-|  | &nbsp;&nbsp;&nbsp;*-- Session 3: Usability --*<br/>**Chair: TBA**  |
+|  | &nbsp;&nbsp;&nbsp;*-- Session 3: Usability --*<br/>**Chair: Carsten Sinz**  |
 | 14:00 - 14:30     | Qingsong Zhao, Oliver Bleisinger, Lars Hvam and Lars Lundberg Kristensen.<br/>**Explaining Product Configurator Usage in Engineering companies: A Technology Acceptance Perspective**<br/>_25 min + 5 Q&A_ |
 | 14:30 - 15:00  | Walk to venue NEOS, Konrad Zuse Str 6 for **Industrial break out**  |
-| 15:00 - 15:20  | **Keynote**: Frank Dylla, Cordes & Graefe KG, Thorsten Krebs, encoway GmbH |
-| 15:20 - 16:20  | **Industrial Use Cases**: Christoph Zengler, BooleWorks GmbH, Maximilian Heisiinger, Optoifkonf FlexCo, Martin Ring, DOCK.ONE |
+| 15:00 - 15:20  | **Keynote**: Frank Dylla, Cordes & Graefe KG; Thorsten Krebs, encoway GmbH |
+| 15:20 - 16:20  | **Industrial Use Cases**: Christoph Zengler, BooleWorks GmbH; Maximilian Heisinger, OptiKonf FlexCo; Martin Ring, DOCK.ONE |
 | 16:20 - 16:40  | *Break* |
 | 16:40 - 17:25  | **Panel discussion**: Current research directions—and what industry truly needs |
 | 17:25 - 17:45  | Lessons learned / Closing |
@@ -68,12 +68,12 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), Building GW
 
 |                    | *Sunday, 16th August, 2026* |
 | ------------------ |----------------------------------------------------|
-| | &nbsp;&nbsp;&nbsp;*-- Session 4: Applications and Case Study --*<br/>**Chair:  TBA**  |
+| | &nbsp;&nbsp;&nbsp;*-- Session 4: Applications and Case Study --*<br/>**Chair:  Viet-Man Le**  |
 | 09:00 - 09:30      | 	Franz Wotawa.<br/>**An extended experimental evaluation of an answer set programming solution to the task assignment problem**<br/>_25 min + 5 Q&A_ |
 | 09:30 - 10:00     | 	Joachim Baumeister, Konstantin Herud, Jan Heuer, Jochen Reutelshöfer, Nicolas Rühling, Abdallah Saffidine and Torsten Schaub.<br/>**The ShadowMaster Problem: A Real-World Case Study in Product Configuration**<br/>_25 min + 5 Q&A_ |
 | 10:00 - 10:30    | Kateryna Czerniachowska.<br/>**Broken Retail States as Configurable Objects in Retail Shelf Systems**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
-| | &nbsp;&nbsp;&nbsp;*-- Session 5: Models --*<br/>**Chair:  TBA**  |
+| | &nbsp;&nbsp;&nbsp;*-- Session 5: Models --*<br/>**Chair:  Lothar Hotz**  |
 | 11:00 - 11:30    | Alessio Trentin, Enrico Sandrin, Svetlana Suzic, Chiara Grosso and Cipriano Forza.<br/>**Reconciling Product Flexibility with Cost, Delivery, and Quality: The Importance of Bundling Online Sales Configurator, Product Modularity and Knowledge Absorption from Customers**<br/>_25 min + 5 Q&A_ |
 | 11:30 - 12:00    | Carsten Sinz.<br/>**Authoring Automotive Configurations with Internal DSLs**<br/>_25 min + 5 Q&A_ |
 | 12:00 - 13:00  | Reward & Next year's workshop  |
