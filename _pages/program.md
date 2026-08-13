@@ -30,7 +30,7 @@ Author / Presenter Information:<br>
 
 <sub>**Location of the Workshop:** 
 <br>
-Campus of the [University of Bremen](https://www.uni-bremen.de/en/), Building GW2, Room B3770
+Campus of the [University of Bremen](https://www.uni-bremen.de/en/), University of Bremen (Zentralbereich), Bibliothekstraße 1, 28359 Bremen, Building GW2, Room B3770
   <br>
   See here [for more information](https://2026.ijcai.org/venues/).
 </sub>
