@@ -41,6 +41,11 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), University 
 <!-- University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00) -->
 </sub>
 
+<sub>**Pre-Version of the Proceedings:**
+<br>
+The complete proceedings of ConfWS 2026 as a single .pdf file can be download [here](../assets/confws/proceedings.pdf)
+</sub>
+
 
 |                    | *Saturday, 15th August 2026* |
 | ------------------ |----------------------------------------------------|
