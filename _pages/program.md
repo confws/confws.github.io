@@ -9,10 +9,13 @@ redirect_from:
 ---
 
 <!-- <sub>**The papers of ConfWS'2025 can be downloaded [here](../assets/confws/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub> -->
-<sub>**The papers of ConfWS’2026 will be downloadable here. They will be also available online in CEUR-WS.org after the workshop.**</sub>
+<sub>**The papers of ConfWS’2026 will be downloadable here (see below). They will be also available online in CEUR-WS.org after the workshop.**</sub>
 
-<!--
-<sub>*There will be an "informal" self-organized meeting/dinner on Tuesday afternoon for those that arrive on Tuesday. For those interested, here are some places we recommend for the meeting (all of them are in Málaga downtown next to the Cathedral): [El Pimpi](https://goo.gl/maps/JiYcUhMmUfqGqxUaA), [Casa Lola](https://goo.gl/maps/tzKWhdu82wrNe1o4A), [Las Merchanas](https://goo.gl/maps/2paBoGtEJ7VCU8Qk7).*</sub>
+
+
+
+<sub>**There will be an "informal" self-organized meeting/dinner on Friday evening. <br>
+This meeting will take place at the [Feldmann's Bierhaus, Schlachte 19 - 20, 28195 Bremen](https://maps.app.goo.gl/dckXHDRgPcVJVVZz9)**</sub>
 
 -->
 
