@@ -45,7 +45,9 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), University 
 |                    | *Saturday, 15th August 2026* |
 | ------------------ |----------------------------------------------------|
 | 09:00 - 09:15  | Welcome  |
-| 09:15 - 10:00  | **Keynote: Sara Shafiee**, DTU Denmark <br/>**Agents Across the Configuration Lifecycle: Where Agentic AI Helps and Where Formal Reasoning Must Still Decide Description**<br/> _40 min + 5 Q&A_  |
+| 09:15 - 10:00  | **Keynote: Sara Shafiee**, DTU Denmark <br/>**Agents Across the Configuration Lifecycle: Where Agentic AI Helps and Where Formal Reasoning Must Still Decide**<br/> _40 min + 5 Q&A_  |
+|   | Abstract |
+|   | This keynote explores how agentic AI can support configuration across the full lifecycle, from capturing expert knowledge and building formal models to guided selling, recommendation, explanation, maintenance, and reconfiguration. It examines where agents can add value through interpretation, adaptive dialogue, coordination, and tool use, while formal models, constraints, solvers, and human approval remain authoritative for validity and critical decisions. The talk concludes with a research agenda for evaluating and assuring agent-supported configuration systems. |
 |   | &nbsp;&nbsp;&nbsp;*-- Session 1: Usability --*<br/>**Chair:  Franz Wotawa**   |
 | 10:00 - 10:30      | Sebastian Lubos, Alexander Felfernig, Viet-Man Le, Thi Ngoc Trang Tran, Doris Suppan, Reinhard Willfort, Ivan Dukic, Jeremias Fuchs and Manuel Henrich.<br/>**Enabling Automated Usability Evaluation for Configurator User Interfaces**<br/>_25 min + 5 Q&A_ |
 | 10:30 - 11:00 | *Coffee break* |
@@ -84,7 +86,7 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), University 
 ## Social Dinner 
 **Saturday 15 August, 19:30h @ [Restaurant Luv](http://www.restaurant-luv.de/ )**
 
-The social dinner of ConfWS'26 will take placed at **[Restaurant Luv](http://www.restaurant-luv.de/ )**, 
+The social dinner of ConfWS'26 will take place at **[Restaurant Luv](http://www.restaurant-luv.de/ )**, 
 Schlachte 15-18, 28195 Bremen. 
 <br>
 Restaurant LUV is a versatile dining spot located directly on the vibrant Schlachte Weserpromenade in the old town of Bremen. Operating as a restaurant, café, bar, and beer garden.
