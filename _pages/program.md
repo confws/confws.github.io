@@ -17,7 +17,6 @@ redirect_from:
 <sub>**There will be an "informal" self-organized meeting/dinner on Friday evening. <br>
 This meeting will take place at the [Feldmann's Bierhaus, Schlachte 19 - 20, 28195 Bremen](https://maps.app.goo.gl/dckXHDRgPcVJVVZz9)**</sub>
 
--->
 
 <!-- <sub>**Venue:** Room 1.4, Engineering School, University of Bologna
 <br>Viale del Risorgimento, 2, Bologna
