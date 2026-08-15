@@ -77,7 +77,7 @@ The complete proceedings of ConfWS 2026 as a single .pdf file can be download [h
 
 |                    | *Sunday, 16th August, 2026* |
 | ------------------ |----------------------------------------------------|
-| | &nbsp;&nbsp;&nbsp;*-- Session 4: Applications and Case Study --*<br/>**Chair:  Viet-Man Le**  |
+| | &nbsp;&nbsp;&nbsp;*-- Session 4: Applications and Case Study --*<br/>**Chair:  Albert Haag**  |
 | 09:00 - 09:30      | 	Franz Wotawa.<br/>**An extended experimental evaluation of an answer set programming solution to the task assignment problem**<br/>_25 min + 5 Q&A_ |
 | 09:30 - 10:00     | 	Joachim Baumeister, Konstantin Herud, Jan Heuer, Jochen Reutelshöfer, Nicolas Rühling, Abdallah Saffidine and Torsten Schaub.<br/>**The ShadowMaster Problem: A Real-World Case Study in Product Configuration**<br/>_25 min + 5 Q&A_ |
 | 10:00 - 10:30    | Kateryna Czerniachowska.<br/>**Broken Retail States as Configurable Objects in Retail Shelf Systems**<br/>_25 min + 5 Q&A_ |
