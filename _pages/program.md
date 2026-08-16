@@ -45,7 +45,7 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), University 
 
 <sub>**Pre-Version of the Proceedings:**
 <br>
-The complete proceedings of ConfWS 2026 as a single .pdf file can be download [here](../assets/
+The complete proceedings of ConfWS 2026 as a single .pdf file can be download [here](../assets/confws/proceedings.pdf)
 </sub>
 
 
