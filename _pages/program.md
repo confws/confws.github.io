@@ -8,10 +8,8 @@ redirect_from:
 - "/agenda/"
 ---
 
-<!-- <sub>**The papers of ConfWS'2025 can be downloaded [here](../assets/confws/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub> -->
-<sub>**The papers of ConfWS’2026 will be downloadable here (see below). They will be also available online in CEUR-WS.org after the workshop.**</sub>
 
-
+<sub>**The papers of ConfWS’2026 will be downloadable [here](../assets/confws/proceedings.pdf). They will be also available online in CEUR-WS.org after the workshop.**</sub>
 
 
 <sub>**There will be an "informal" self-organized meeting/dinner on Friday evening. <br>
@@ -41,11 +39,6 @@ Campus of the [University of Bremen](https://www.uni-bremen.de/en/), University 
 <br>
 08:00 - 09:00, Oct 15, University of Bremen, Building GW2, Room B3770
 <!-- University of Bologna, Engineering School: Oct 25 (07:45–18:00), Oct 26 (07:45–14:00) -->
-</sub>
-
-<sub>**Pre-Version of the Proceedings:**
-<br>
-The complete proceedings of ConfWS 2026 as a single .pdf file can be download [here](../assets/)
 </sub>
 
 
