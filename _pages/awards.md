@@ -13,8 +13,8 @@ classes: wide
 
 This year, in ConfWS 2026, the Best Paper Award winner were:
 
-- **Best Paper Award**:
-- **Best Student Paper Award**:
+- **Best Paper Award**: _Authoring Automotive Configurations with Internal DSLs_ by Carsten Sinz.
+- **Best Student Paper Award**: *Learning to Solve and Optimize by Evolving Code* by Veronika Semmelrock, Benedetta Strizzolo, Francesco Zuccato, Gerhard Friedrich, Patrick Rodler and Konstantin Schekotihin.
 
 
 <!-- - **Best Paper Award**: _Generative Design as a Configuration Problem_ by Jonathan Raines, David Barton and Ben Hicks.

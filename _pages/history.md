@@ -16,6 +16,9 @@ Here you may find links to all previous editions of the ConfWS series, including
 
 ---
 
+- [28th International Workshop on Configuration (ConfWS'26 @ IJCAI-ECAI 2026)](https://confws.github.io/2026/)
+  - Bremen, Germany. Aug 15-16, 2026 <a href="" title="Proceedings"><i class="fa fa-book"></i></a>
+<br><sub>The workshop was co-located within the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026).</sub>
 - [27th International Workshop on Configuration (ConfWS'25 @ ECAI 2025)](https://confws.github.io/2025/)
   - Bologna, Italy. Oct 25-26, 2025 <a href="" title="Proceedings"><i class="fa fa-book"></i></a>
 <br><sub>The workshop was co-located within the 28th European Conference on Artificial Intelligence (ECAI 2025).</sub>
