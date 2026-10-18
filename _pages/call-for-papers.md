@@ -9,13 +9,13 @@ redirect_from:
 
 | Important Dates                              |
 | ----------------------- | ----------------------- |
-| Paper Submission        | ~~May 29, 2026 (AOE time)~~ |
-| Paper Notification      | ~~June 14, 2026 (AOE time)~~ |
-| Early Registration      | ~~June 15, 2026 (AOE time)~~ |
-| Camera Ready            | ~~July 11, 2026 (AOE time)~~ |
-| Workshop Program Online | ~~July 15, 2026 (AOE time)~~ |
-| Standard Registration   | ~~July 15, 2026 (AOE time)~~ |
-| Workshop                | August 15-16, 2026 |
+| Paper Submission        | TBD (AoE time) |
+| Paper Notification      | TBD (AoE time) |
+| Early Registration      | TBD (AoE time) |
+| Camera Ready            | TBD (AoE time) |
+| Workshop Program Online | TBD (AoE time) |
+| Standard Registration   | TBD (AoE time) |
+| Workshop                | Early September 2027, Seville (exact dates TBD) |
 
 ## Overview
 
@@ -85,6 +85,7 @@ The special focus welcomes studies from various sectors (e.g., mobility, energy,
 Researchers and practitioners are encouraged to share theoretical insights, practical applications, and technological innovations that advance the design and implementation of reconfiguration strategies, fostering more sustainable and adaptive systems. As well as research that address the following themes (but not limited to):
 {: .text-justify} -->
 
+<!-- 2025 special focus topics
 - **Reconfiguration Strategies and Tools**: approaches for integrating sustainability into production systems, including modular design, reconfigurable manufacturing systems (RMS), and adaptive business models.
 {: .text-justify}
 
@@ -102,46 +103,31 @@ Researchers and practitioners are encouraged to share theoretical insights, prac
 
 - **Circular Economy and Reconfiguration**: case studies on product life extension, repairability, reusability, and remanufacturing through reconfiguration strategies.
 {: .text-justify}
-
-
-## Paper Submission
-- **Full papers** must be between 10 and 30 pages (including references).
-- **Position statements** and **problem instances** can be submitted as **short papers** and must be between 5 and 9 pages (including references).
-- **Published articles:** It is possible to submit already published or submitted articles. In that case, submit both a **one-page abstract** (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
-
-Full and short papers submitted to ConfWS 2026 must be original. The submission, or a highly similar version of it, cannot have been published or accepted in a journal or another conference proceedings. Further, submissions must not be concurrently under consideration for publication or presentation elsewhere. In this case, consider to submit your work as a **published article** (one-page abstract).
-
-Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
-{: .text-justify}
-
-**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/conferences/?conf=confws26).
-
-**Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the **one-column template**.
-- [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
-- [Latex, DOCX, ODT templates](http://ceur-ws.org/Vol-XXX/CEURART.zip) (If the link doesn’t work, right-click, copy the link address, and paste it into a new browser tab.)
-
-<!--
-- [DOCX template](https://ceur-ws.org/Vol-XXX/CEUR-Template-2col.docx)
-- [ODT template](https://ceur-ws.org/Vol-XXX/CEUR-Template-2col.odt)
 -->
 
-Latex users should modify the following code placed at the start of the Latex document as follows:
+#### Special focus 2027
+**TBD**
 
-```
-\copyrightyear{2026}
-\conference{ConfWS'26: 28th International Workshop on Configuration, Aug 15--16, 2026, Bremen, Germany}
-```
+## Paper Submission
+**TBD.** Submission categories, page limits and formatting guidelines for ConfWS 2027 will be announced soon. For reference, previous editions accepted:
 
-Word users should modify the same information at the bottom of the first page.
+- **Full papers** (10 to 30 pages, including references).
+- **Short papers** for position statements and problem instances (5 to 9 pages, including references).
+- **Already published articles**, submitted as a one-page abstract (600 words) together with the article; these are not included in the proceedings.
 
-**Publication:**
-The proceedings will be published in the [CEUR Workshop Proceedings library](https://ceur-ws.org/). 
+Each submission will be subject to peer review by at least two members of the program committee.
+{: .text-justify}
 
-At least one author of each accepted paper must register and present the paper in ConfWS'26 in order for the submission to be published.
+**Website submission:** TBD (EasyChair link will be published here).
 
+**Formatting guidelines:** TBD (previous editions used the [CEUR-ART style](https://ceur-ws.org/), one-column template).
+
+**Publication:** TBD (previous editions were published in the [CEUR Workshop Proceedings library](https://ceur-ws.org/)).
+
+At least one author of each accepted paper must register and present the paper in ConfWS'27 in order for the submission to be published.
 
 ## Best Paper Award
-ConfWS'26 again plans *Best Paper Awards*.
+ConfWS'27 again plans *Best Paper Awards*.
 Two papers will be recognized: 
 - The best paper.
 - The best PhD student paper.

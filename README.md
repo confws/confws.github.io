@@ -1,6 +1,6 @@
 # ConfWS website
 
-> The website for the 25th International Workshop on Configuration (ConfWS'23)
+> The website for the 29th International Workshop on Configuration (ConfWS'27)
 
 ---
 
@@ -64,6 +64,27 @@ The following are instructions for Ubuntu Linux (or Ubuntu/WSL on Windows 10)
    http://localhost:4000
    ``` 
    
+## Yearly rollover
+
+This repository (`confws.github.io`, served at https://confws.github.io/) always hosts the **current** edition. Past editions are archived in one repository per year (`confws/2023`, `confws/2024`, ...), served at `https://confws.github.io/<year>/`. When a new edition starts:
+
+1. Create the archive repository and mirror this one into it:
+
+   ```
+   gh repo create confws/<year> --public --description "<Nth> International Workshop on Configuration (ConfWS'<yy>)"
+   git clone --bare git@github.com:confws/confws.github.io.git
+   cd confws.github.io.git && git push --mirror git@github.com:confws/<year>.git
+   ```
+
+2. In the archive, set `url: https://confws.github.io/<year>` and `repository: confws/<year>` in `_config.yml` (leave `baseurl` empty, GitHub Pages sets it), and replace links to `https://confws.github.io/assets/...` with `https://confws.github.io/<year>/assets/...`.
+3. Enable GitHub Pages for the archive (branch `main`, folder `/`):
+
+   ```
+   gh api -X POST repos/confws/<year>/pages -f 'source[branch]=main' -f 'source[path]=/'
+   ```
+
+4. Once `https://confws.github.io/<year>/` is live, update this repository for the new edition and add the archived edition to `_pages/history.md`.
+
 ---
 
 ### Licenses

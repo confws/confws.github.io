@@ -1,5 +1,5 @@
 ---
-#title: ConfWS 2026
+#title: ConfWS 2027
 timezone: UTC
 collections:
   pages:
@@ -36,13 +36,13 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
-name: 28th International Workshop on Configuration (ConfWS'26)
-description: Website of the 28th International Workshop on Configuration (ConfWS'26)
+name: 29th International Workshop on Configuration (ConfWS'27)
+description: Website of the 29th International Workshop on Configuration (ConfWS'27)
 url: https://confws.github.io
 baseurl: 
 repository: confws/confws.github.io
 teaser: 
-logo: 'assets/confws/ConfWS_2026_Logo.png'
+logo: 'assets/confws/cubo.png' # TODO: ConfWS 2027 logo
 #masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: 'assets/confws/ConfWS_2026_Logo.png'
+og_image: 'assets/confws/cubo.png' # TODO: ConfWS 2027 logo
 social:
   type: 
   name: 
@@ -109,6 +109,9 @@ author:
   # home: 'https://www.uma.es/'
   # location:
   links:
+  - label: "Host: University of Seville"
+    icon: fas fa-fw fa-map-marker-alt
+    url: https://www.us.es/
 #  - label: University of Málaga
 #    icon: fas fa-fw fa-map-marker-alt
 #    url: https://www.uma.es/  
@@ -131,21 +134,22 @@ author:
   #  icon: fa fa-info-circle
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
   sponsors:
-  - name: 'HITeC'
-    logo: assets/confws/hitec_logo2.png
-    url: https://www.hitec-hamburg.de/en
-  - name: 'encoway'
-    logo: assets/confws/encoway_Logo.png
-    url: https://www.encoway.de/en/
-  - name: 'CG'
-    logo: assets/confws/cordes_und_graefe_seit_1921_rgb_2.png
-    url: https://www.gc-gruppe.de/unternehmen/cordes-graefe-kg
-  - name: 'HKA'
-    logo: assets/confws/HKA_Logo_Logoleiste_RGB.jpg
-    url: https://www.h-ka.de/en/
-  - name: 'UniBremen'
-    logo: assets/confws/UniBremen_Logo_Web_RGB.png
-    url: https://www.uni-bremen.de/en/
+  # TODO: University of Seville logo and ConfWS 2027 sponsors
+#  - name: 'HITeC'
+#    logo: assets/confws/hitec_logo2.png
+#    url: https://www.hitec-hamburg.de/en
+#  - name: 'encoway'
+#    logo: assets/confws/encoway_Logo.png
+#    url: https://www.encoway.de/en/
+#  - name: 'CG'
+#    logo: assets/confws/cordes_und_graefe_seit_1921_rgb_2.png
+#    url: https://www.gc-gruppe.de/unternehmen/cordes-graefe-kg
+#  - name: 'HKA'
+#    logo: assets/confws/HKA_Logo_Logoleiste_RGB.jpg
+#    url: https://www.h-ka.de/en/
+#  - name: 'UniBremen'
+#    logo: assets/confws/UniBremen_Logo_Web_RGB.png
+#    url: https://www.uni-bremen.de/en/
   # - name: 'MICS'
   #   logo: assets/confws/MICS_logo.png
   #   url: https://www.mics.tech
@@ -171,12 +175,7 @@ footer:
   - label: LinkedIn
     icon: fab fa-fw fa-linkedin
     url: https://www.linkedin.com/groups/3718387/
-  - label: Legal Notice
-    icon: fas fa-fw fa-info-circle
-    url: https://www.hitec-hamburg.de/en/legal-notice/
-  - label: Privacy
-    icon: fas fa-fw fa-shield-alt
-    url: https://www.hitec-hamburg.de/en/privacy/
+  # TODO: Legal Notice and Privacy links of the University of Seville
 include:
 - ".htaccess"
 # - _pages

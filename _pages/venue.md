@@ -6,11 +6,20 @@ sitemap: false
 classes: wide
 ---
 
-This year the workshop will be co-located with the [35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)](https://2026.ijcai.org/).
+The workshop will take place at the [University of Seville](https://www.us.es/), Seville, Spain.
 
-<!-- <sub>**Venue:** Room 1.4, Engineering School, University of Bologna
-<br>Viale del Risorgimento, 2, Bologna
-</sub> -->
+**Building and room:** TBD
 
+**Address:** TBD
 
+## How to arrive
 
+**TBD.** Seville is served by the [Seville Airport (SVQ)](https://www.aena.es/en/sevilla.html) and by the Santa Justa railway station, with high-speed (AVE) connections to Madrid and other Spanish cities.
+
+## Accommodation
+
+**TBD**
+
+## Social event
+
+**TBD**

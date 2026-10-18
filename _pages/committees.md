@@ -8,14 +8,21 @@ redirect_from:
 ---
 
 ## Workshop Chairs
-* Lothar Hotz (Hamburger Informatik Technologie-Center)
-* Carsten Sinz (Karlsruhe University of Applied Sciences)
-{% comment %}
+**TBD**
+
+## Local Organization (University of Seville)
+**TBD**
+
 ## Publicity and Social Media Chair
 **TBD**
-<!--* Irene Campo Gay (Technical University of Denmark, Denmark)-->
-{% endcomment %}
+
+## Award Chair
+**TBD**
+
 ## Program Committee
+**TBD**
+
+<!-- Draft from 2026 – pending invitations for ConfWS 2027
 * Abdourahim Sylla (Université Grenoble Alpes, France)
 * Albert Haag (Product Management GmbH, Germany)
 * Alessio Trentin (University of Padova, Italy)
@@ -38,6 +45,7 @@ redirect_from:
 * Richard Comploi-Taupe (Siemens AG Österreich, Vienna, Austria)
 * Simone DiLeo (Sapienza University of Roma, Italy)
 * Viet-Man Le (University of Economics, Hue University, Vietnam)
+-->
 
 <!-- * 
 * Ángel Jesús Varela Vaca, University of Seville, Spain
