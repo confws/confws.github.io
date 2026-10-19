@@ -3,10 +3,10 @@ title: '29th International Workshop on Configuration (ConfWS 2027)<br><span styl
 permalink: "/"
 excerpt: " "
 header:
-  overlay_image: "assets/confws/seville_skyline_hero.jpg"
+  overlay_image: "assets/confws/seville_hero.jpg"
   og_image: "assets/confws/ConfWS_2027_Logo_og.jpg"
-  overlay_filter: 0.1
-  caption: '[Seville, Spain](https://visitasevilla.es/en/)'
+  overlay_filter: 0.3
+  caption: '[Seville, Spain](https://visitasevilla.es/en/) · Photo: [Anual](https://commons.wikimedia.org/wiki/File:Torre_oro_y_rio_2019An002.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 author_profile: true
 classes: wide
 redirect_from:

@@ -223,7 +223,7 @@ search: false
   max-height: 80px;
 }
 
-/* homepage hero: keep the Seville skyline (bottom of the image) visible */
+/* homepage hero: keep the Seville skyline (lower part of the image) visible */
 .page__hero--overlay {
-  background-position: center bottom;
+  background-position: center 60%;
 }
