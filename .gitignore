@@ -2,3 +2,7 @@
 
 # generated files
 _site/
+
+# local development (serve-local.sh)
+serve-local.sh
+.local-dev/

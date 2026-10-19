@@ -222,3 +222,8 @@ search: false
 .site-logo img {
   max-height: 80px;
 }
+
+/* homepage hero: keep the Seville skyline (bottom of the image) visible */
+.page__hero--overlay {
+  background-position: center bottom;
+}

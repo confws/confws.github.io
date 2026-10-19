@@ -42,7 +42,7 @@ url: https://confws.github.io
 baseurl: 
 repository: confws/confws.github.io
 teaser: 
-logo: 'assets/confws/cubo.png' # TODO: ConfWS 2027 logo
+logo: 'assets/confws/ConfWS_2027_Logo.png'
 #masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: 'assets/confws/cubo.png' # TODO: ConfWS 2027 logo
+og_image: 'assets/confws/ConfWS_2027_Logo_og.jpg'
 social:
   type: 
   name: 
@@ -134,7 +134,13 @@ author:
   #  icon: fa fa-info-circle
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
   sponsors:
-  # TODO: University of Seville logo and ConfWS 2027 sponsors
+  - name: 'Universidad de Sevilla'
+    logo: assets/confws/us_logo.png
+    url: https://www.us.es/
+  - name: 'DiversoLab'
+    logo: assets/confws/diversolab_logo.png
+    url: https://diverso-lab.github.io/
+  # TODO: further ConfWS 2027 sponsors
 #  - name: 'HITeC'
 #    logo: assets/confws/hitec_logo2.png
 #    url: https://www.hitec-hamburg.de/en

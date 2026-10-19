@@ -3,8 +3,9 @@ title: '29th International Workshop on Configuration (ConfWS 2027)<br><span styl
 permalink: "/"
 excerpt: " "
 header:
-  overlay_image: "assets/confws/generic_venue.gif"
-  overlay_filter: 0.3
+  overlay_image: "assets/confws/seville_skyline_hero.jpg"
+  og_image: "assets/confws/ConfWS_2027_Logo_og.jpg"
+  overlay_filter: 0.1
   caption: '[Seville, Spain](https://visitasevilla.es/en/)'
 author_profile: true
 classes: wide
@@ -19,11 +20,9 @@ redirect_from:
 
 **29th International Workshop on Configuration (ConfWS 2027)**
 
-<!-- TODO: ConfWS 2027 logo
 <div style="float: right; width: 400px; text-align: center;">
   <img style="width: 100%;" src="assets/confws/ConfWS_2027_Logo.png">
 </div>
--->
 
 ---
 - Dates: early September 2027 (exact dates **TBD**)
@@ -37,8 +36,6 @@ The workshop promotes high-quality research in all technical areas related to co
 
 The 29th edition in 2027 will be held as a stand-alone event, hosted by the [University of Seville](https://www.us.es/) in Seville, Spain.
 {: .text-justify}
-
-<img style="float: right; width: 200px;" src="assets/confws/rueda.png">
 
 Special focus of the 2027 edition: **TBD**
 {: .text-justify}
